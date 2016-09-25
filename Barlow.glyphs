@@ -3980,6 +3980,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
+weightClass = Thin;
 },
 {
 interpolationWeight = 33;
@@ -3988,6 +3989,7 @@ instanceInterpolations = {
 "8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.944134;
 };
 name = UltraLight;
+weightClass = UltraLight;
 },
 {
 customParameters = (
@@ -4099,6 +4101,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = DemiBold;
 name = "DemiBold Italic";
+weightClass = DemiBold;
 },
 {
 interpolationWeight = 148;
@@ -4107,6 +4110,7 @@ instanceInterpolations = {
 "8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.301676;
 };
 name = Bold;
+weightClass = Bold;
 },
 {
 interpolationWeight = 148;
@@ -4144,6 +4148,7 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
+weightClass = ExtraBold;
 },
 {
 interpolationWeight = 202;
@@ -4151,7 +4156,7 @@ instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 1;
 };
 name = Black;
-weightClass = ExtraBold;
+weightClass = Black;
 },
 {
 customParameters = (
