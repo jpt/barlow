@@ -3967,12 +3967,44 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 23;
+instanceInterpolations = {
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 1;
+};
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+},
+{
 interpolationWeight = 33;
 instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.0558659;
 "8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.944134;
 };
 name = UltraLight;
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 33;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.0558659;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.944134;
+};
+isItalic = 1;
+linkStyle = UltraLight;
+name = "UltraLight Italic";
+weightClass = UltraLight;
 },
 {
 interpolationWeight = 48;
@@ -3984,6 +4016,23 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 48;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.139665;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.860335;
+};
+isItalic = 1;
+linkStyle = Light;
+name = "Light Italic";
+weightClass = Light;
+},
+{
 interpolationWeight = 67;
 instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.24581;
@@ -3992,12 +4041,38 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 67;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.24581;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.75419;
+};
+isItalic = 1;
+name = "Regular Italic";
+},
+{
 interpolationWeight = 91;
 instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.379888;
 "8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.620112;
 };
 name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 91;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.379888;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.620112;
+};
+isItalic = 1;
+linkStyle = Medium;
+name = "Medium Italic";
 weightClass = Medium;
 },
 {
@@ -4010,12 +4085,40 @@ name = DemiBold;
 weightClass = DemiBold;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 119;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.536313;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.463687;
+};
+isItalic = 1;
+linkStyle = DemiBold;
+name = "DemiBold Italic";
+},
+{
 interpolationWeight = 148;
 instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.698324;
 "8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.301676;
 };
 name = Bold;
+},
+{
+interpolationWeight = 148;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.698324;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.301676;
+};
+isBold = 1;
+isItalic = 1;
+linkStyle = Bold;
+name = "Bold Italic";
+weightClass = Bold;
 },
 {
 interpolationWeight = 177;
@@ -4027,12 +4130,44 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 177;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 0.860335;
+"8841D1CF-9B01-449C-9B26-F87B28F18584" = 0.139665;
+};
+isItalic = 1;
+linkStyle = ExtraBold;
+name = "ExtraBold Italic";
+},
+{
 interpolationWeight = 202;
 instanceInterpolations = {
 "59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 1;
 };
 name = Black;
 weightClass = ExtraBold;
+},
+{
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
+interpolationWeight = 202;
+instanceInterpolations = {
+"59CB0402-E5A9-408B-857A-05EE50EAFC2E" = 1;
+};
+isItalic = 1;
+linkStyle = Black;
+name = "Black Italic";
+weightClass = Black;
 }
 );
 manufacturer = "https://eff.org/";
