@@ -1,12 +1,4 @@
-# Barlow
-
-## Public signage typeface for the information superhighway.
-
-Barlow is named after activist, writer, and Internet pioneer John Perry Barlow.
-
-## License
-
-Copyright 2016 Jeremy Tribby. This may change to EFF.
+Copyright 2016 Jeremy Tribby
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
