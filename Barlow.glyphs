@@ -3272,7 +3272,7 @@ glyphname = e;
 lastChange = "2016-10-07 09:30:04 +0000";
 layers = (
 {
-associatedMasterId = "8841D1CF-9B01-449C-9B26-F87B28F18584";
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 layerId = "9A50E751-D878-44E4-8C48-20211EFA92C6";
 name = "Brace {120,100}";
 paths = (
@@ -3557,7 +3557,7 @@ glyphname = f;
 lastChange = "2016-10-07 09:29:25 +0000";
 layers = (
 {
-associatedMasterId = "8841D1CF-9B01-449C-9B26-F87B28F18584";
+associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 layerId = "2A54E209-1ED7-4A8E-ADE2-3C776EC03571";
 name = "Brace {120,100}";
 paths = (
@@ -5882,8 +5882,6 @@ interpolationWeight = 23;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 1;
 };
-isItalic = 1;
-linkStyle = Thin;
 name = "Thin Italic";
 weightClass = Thin;
 },
@@ -5908,8 +5906,6 @@ instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.888889;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.111111;
 };
-isItalic = 1;
-linkStyle = UltraLight;
 name = "UltraLight Italic";
 weightClass = UltraLight;
 },
@@ -5934,8 +5930,6 @@ instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.722222;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.277778;
 };
-isItalic = 1;
-linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
@@ -5959,8 +5953,6 @@ instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.511111;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.488889;
 };
-isItalic = 1;
-linkStyle = Regular;
 name = "Regular Italic";
 },
 {
@@ -5973,13 +5965,17 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
 interpolationWeight = 91;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.244444;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.755556;
 };
-isItalic = 1;
-linkStyle = Medium;
 name = "Medium Italic";
 weightClass = Medium;
 },
@@ -6004,8 +6000,6 @@ instanceInterpolations = {
 "4F25946F-63AC-42D6-8D55-01CF6A99025B" = 0.0666667;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.933333;
 };
-isItalic = 1;
-linkStyle = DemiBold;
 name = "DemiBold Italic";
 weightClass = DemiBold;
 },
@@ -6019,14 +6013,17 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = Filter;
+value = "Transformations;Slant:8;Origin:2;";
+}
+);
 interpolationWeight = 148;
 instanceInterpolations = {
 "4F25946F-63AC-42D6-8D55-01CF6A99025B" = 0.388889;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.611111;
 };
-isBold = 1;
-isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 },
@@ -6051,8 +6048,6 @@ instanceInterpolations = {
 "4F25946F-63AC-42D6-8D55-01CF6A99025B" = 0.711111;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.288889;
 };
-isItalic = 1;
-linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 },
@@ -6077,8 +6072,6 @@ instanceInterpolations = {
 "4F25946F-63AC-42D6-8D55-01CF6A99025B" = 0.988889;
 "21D0BE0D-9149-477D-850E-37608F5C3F7D" = 0.0111111;
 };
-isItalic = 1;
-linkStyle = Black;
 name = "Black Italic";
 weightClass = Black;
 }
