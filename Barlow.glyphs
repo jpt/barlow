@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"M A Y B E L L "
+);
 copyright = "Copyright 2016 [No one yet]. SIL OFL License v1.1, reserved name \"Barlow\"";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -1913,7 +1916,7 @@ unicode = 0051;
 {
 color = 1;
 glyphname = R;
-lastChange = "2016-10-08 05:39:22 +0000";
+lastChange = "2016-10-08 06:01:01 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -1963,22 +1966,22 @@ closed = 1;
 nodes = (
 "265 0 LINE",
 "265 512 LINE",
-"312 512 LINE SMOOTH",
-"342 512 OFFCURVE",
-"361 493 OFFCURVE",
-"361 462 CURVE SMOOTH",
-"361 431 OFFCURVE",
-"342 412 OFFCURVE",
-"312 412 CURVE SMOOTH",
+"317 512 LINE SMOOTH",
+"347 512 OFFCURVE",
+"366 493 OFFCURVE",
+"366 462 CURVE SMOOTH",
+"366 431 OFFCURVE",
+"347 412 OFFCURVE",
+"317 412 CURVE SMOOTH",
 "249 412 LINE",
 "249 233 LINE",
-"342 233 LINE SMOOTH",
-"481 233 OFFCURVE",
-"574 323 OFFCURVE",
-"574 463 CURVE SMOOTH",
-"574 603 OFFCURVE",
-"481 700 OFFCURVE",
-"342 700 CURVE SMOOTH",
+"347 233 LINE SMOOTH",
+"486 233 OFFCURVE",
+"579 323 OFFCURVE",
+"579 463 CURVE SMOOTH",
+"579 603 OFFCURVE",
+"486 700 OFFCURVE",
+"347 700 CURVE SMOOTH",
 "53 700 LINE",
 "53 0 LINE"
 );
@@ -2605,7 +2608,7 @@ unicode = 0058;
 {
 color = 1;
 glyphname = Y;
-lastChange = "2016-10-08 05:39:22 +0000";
+lastChange = "2016-10-08 06:01:24 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -2639,11 +2642,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"562 700 LINE",
+"572 700 LINE",
 "346 700 LINE",
-"282 549 LINE",
+"282 539 LINE",
 "225 700 LINE",
-"-1 700 LINE",
+"-11 700 LINE",
 "281 92 LINE"
 );
 },
