@@ -2,7 +2,7 @@
 
 ## Public signage typeface for the information superhighway.
 
-Barlow is named after activist, writer, and Internet pioneer John Perry Barlow.
+![Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/screenshots/ultralight-words.png)
 
 ## License
 
