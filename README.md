@@ -1,8 +1,9 @@
 # Barlow
 
-## Public signage typeface for the information superhighway.
+Named after EFF internet pioneer, songwriter, and activist John Perry Barlow.
 
 ![Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/screenshots/ultralight-words.png)
+![Screenshot2](https://raw.githubusercontent.com/jpt/barlow/master/screenshots/blackitalic-words.png)
 
 ## License
 
