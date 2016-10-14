@@ -5002,14 +5002,6 @@ unicode = 0020;
 );
 instances = (
 {
-interpolationWeight = 23;
-instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 1;
-};
-name = Thin;
-weightClass = Thin;
-},
-{
 customParameters = (
 {
 name = Filter;
@@ -5112,20 +5104,6 @@ instanceInterpolations = {
 };
 name = ExtraBold;
 weightClass = ExtraBold;
-},
-{
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;25;1;";
-}
-);
-interpolationWeight = 202;
-instanceInterpolations = {
-"4F25946F-63AC-42D6-8D55-01CF6A99025B" = 1;
-};
-name = Black;
-weightClass = Black;
 }
 );
 manufacturer = "https://eff.org/";
