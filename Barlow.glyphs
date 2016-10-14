@@ -1584,7 +1584,7 @@ unicode = 0051;
 {
 color = 1;
 glyphname = R;
-lastChange = "2016-10-13 02:12:35 +0000";
+lastChange = "2016-10-14 08:05:56 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -1617,10 +1617,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"411 0 LINE",
+"392 0 LINE",
 "269 343 LINE",
 "249 335 LINE",
-"387 0 LINE"
+"368 0 LINE"
 );
 }
 );
@@ -1665,48 +1665,6 @@ nodes = (
 }
 );
 width = 602;
-},
-{
-associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-layerId = "50450382-90D1-4987-8DDE-9A95794F2969";
-name = "Medium {91, 100}";
-paths = (
-{
-closed = 1;
-nodes = (
-"176 0 LINE",
-"176 616 LINE",
-"268 616 LINE SMOOTH",
-"341 616 OFFCURVE",
-"386 569 OFFCURVE",
-"386 493 CURVE SMOOTH",
-"386 417 OFFCURVE",
-"341 370 OFFCURVE",
-"268 370 CURVE SMOOTH",
-"167 370 LINE",
-"167 281 LINE",
-"279 281 LINE SMOOTH",
-"404 281 OFFCURVE",
-"481 366 OFFCURVE",
-"481 494 CURVE SMOOTH",
-"481 626 OFFCURVE",
-"400 700 OFFCURVE",
-"267.994 700 CURVE SMOOTH",
-"82 700 LINE",
-"82 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"484 0 LINE",
-"327 334 LINE",
-"236 329 LINE",
-"379 0 LINE"
-);
-}
-);
-width = 541;
 }
 );
 unicode = 0052;
