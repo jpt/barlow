@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+a
+);
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -2216,7 +2219,7 @@ unicode = 005A;
 {
 color = 1;
 glyphname = a;
-lastChange = "2016-10-14 07:45:59 +0000";
+lastChange = "2016-10-14 08:15:22 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -2370,14 +2373,15 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"462 0 LINE",
-"462 500 LINE",
+"454 0 LINE",
+"454 500 LINE",
 "341 500 LINE",
 "341 0 LINE"
 );
 }
 );
 width = 519;
+visible = 1;
 }
 );
 unicode = 0061;
