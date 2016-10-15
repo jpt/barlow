@@ -5059,7 +5059,7 @@ unicode = 0079;
 {
 color = 1;
 glyphname = z;
-lastChange = "2016-10-15 09:40:23 +0000";
+lastChange = "2016-10-15 10:17:44 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -5098,6 +5098,27 @@ nodes = (
 }
 );
 width = 511;
+},
+{
+associatedMasterId = "4F25946F-63AC-42D6-8D55-01CF6A99025B";
+layerId = "516F1C78-99C1-4D19-A6A1-804BC5CB958E";
+name = "Demibold {119,100}";
+paths = (
+{
+closed = 1;
+nodes = (
+"426 0 LINE",
+"426 122 LINE",
+"232 122 LINE",
+"439 500 LINE",
+"41 500 LINE",
+"41 378 LINE",
+"234 378 LINE",
+"16 0 LINE"
+);
+}
+);
+width = 461;
 }
 );
 unicode = 007A;
