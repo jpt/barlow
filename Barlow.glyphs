@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"stick your kids dick into klown kollege okay cukid kubric kononkoko"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0128/backslash :,!.\"';///quotesingle.alt/emdash -/hyphen_hyphen.liga  $@\U00A9\U00AE"
 );
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
@@ -6345,12 +6345,6 @@ name = Thin;
 weightClass = Thin;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;3;1;";
-}
-);
 interpolationWeight = 33;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.944134;
@@ -6360,12 +6354,6 @@ name = UltraLight;
 weightClass = UltraLight;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;8;1;";
-}
-);
 interpolationWeight = 48;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.860335;
@@ -6375,12 +6363,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;14;1;";
-}
-);
 interpolationWeight = 67;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.75419;
@@ -6389,12 +6371,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;18;1;";
-}
-);
 interpolationWeight = 91;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.620112;
@@ -6404,12 +6380,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;20;1;";
-}
-);
 interpolationWeight = 119;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.463687;
@@ -6419,12 +6389,6 @@ name = DemiBold;
 weightClass = DemiBold;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;22;1;";
-}
-);
 interpolationWeight = 148;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.301676;
@@ -6434,12 +6398,6 @@ name = Bold;
 weightClass = Bold;
 },
 {
-customParameters = (
-{
-name = Filter;
-value = "GlyphsFilterRoundCorner;23;1;";
-}
-);
 interpolationWeight = 177;
 instanceInterpolations = {
 "262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.139665;
