@@ -6,9 +6,9 @@ Named after EFF internet pioneer, songwriter, and activist John Perry Barlow.
 
 ## Acknowledgements
 
-Thank you Paulo Silva (@nitrofurano) for the digitized DIN grid. Thank you Lukas Schneider for donating LS Cadencer to EFF. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
+Thank you Paulo Silva (@nitrofurano) for the digitized DIN grid, because that was how this started. Thank you Lukas Schneider for donating LS Cadencer to EFF. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
 
-And thank you, Barlow, most of all, for creating a legacy that will carry our future in a brighter direction. 
+And thank you, Barlow, most of all, for a legacy that will carry our future into a brighter place. 
 
 ## License
 
