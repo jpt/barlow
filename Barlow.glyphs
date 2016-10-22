@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+vy
+);
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -2652,7 +2655,7 @@ unicode = 0065;
 {
 color = 1;
 glyphname = f;
-lastChange = "2016-10-20 22:58:00 +0000";
+lastChange = "2016-10-22 05:34:20 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -2705,10 +2708,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"306 334 LINE",
+"306 340 LINE",
 "306 500 LINE",
 "0 500 LINE",
-"0 334 LINE"
+"0 340 LINE"
 );
 }
 );
@@ -4054,7 +4057,7 @@ unicode = 0073;
 {
 color = 1;
 glyphname = t;
-lastChange = "2016-10-21 06:41:18 +0000";
+lastChange = "2016-10-22 05:34:09 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -4111,10 +4114,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"322 334 LINE",
+"322 340 LINE",
 "322 500 LINE",
 "4 500 LINE",
-"4 334 LINE"
+"4 340 LINE"
 );
 }
 );
@@ -4206,7 +4209,7 @@ unicode = 0075;
 {
 color = 1;
 glyphname = v;
-lastChange = "2016-10-21 06:48:56 +0000";
+lastChange = "2016-10-22 05:35:54 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -4232,13 +4235,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"328 0 LINE",
-"468 500 LINE",
+"329 0 LINE",
+"473 500 LINE",
 "279 500 LINE",
 "235 262 LINE",
 "191 500 LINE",
-"2 500 LINE",
-"142 0 LINE"
+"-8 500 LINE",
+"136 0 LINE"
 );
 }
 );
@@ -4360,7 +4363,7 @@ unicode = 0078;
 {
 color = 1;
 glyphname = y;
-lastChange = "2016-10-20 22:58:00 +0000";
+lastChange = "2016-10-22 05:36:45 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -4393,17 +4396,17 @@ paths = (
 {
 closed = 1;
 nodes = (
-"247 -219 OFFCURVE",
-"283 -159 OFFCURVE",
-"341 51 CURVE SMOOTH",
-"465 500 LINE",
-"277 500 LINE",
-"245 272 LINE",
-"204 500 LINE",
-"6 500 LINE",
-"158 0 LINE",
-"156 -14 LINE SMOOTH",
-"153 -35 OFFCURVE",
+"227 -217 OFFCURVE",
+"279 -161 OFFCURVE",
+"329 0 CURVE SMOOTH",
+"473 500 LINE",
+"279 500 LINE",
+"235 262 LINE",
+"191 500 LINE",
+"-8 500 LINE",
+"136 0 LINE",
+"136 0 LINE SMOOTH",
+"133 -21 OFFCURVE",
 "137 -53 OFFCURVE",
 "54 -51 CURVE",
 "54 -197 LINE"
