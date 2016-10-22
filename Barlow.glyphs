@@ -1,5 +1,8 @@
 {
 .appVersion = "930";
+DisplayStrings = (
+B
+);
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -183,7 +186,7 @@ unicode = 0041;
 {
 color = 1;
 glyphname = B;
-lastChange = "2016-10-22 11:28:31 +0000";
+lastChange = "2016-10-22 12:22:29 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -308,6 +311,70 @@ nodes = (
 }
 );
 width = 508;
+},
+{
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+layerId = "61038666-3371-4C14-8B39-94AF9622E2C7";
+name = "DemiBold{110,100}";
+paths = (
+{
+closed = 1;
+nodes = (
+"273 0 LINE SMOOTH",
+"396 0 OFFCURVE",
+"478 78 OFFCURVE",
+"478 195 CURVE SMOOTH",
+"478 320 OFFCURVE",
+"382 403 OFFCURVE",
+"237 403 CURVE SMOOTH",
+"62 403 LINE",
+"62 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 312 LINE",
+"265 312 LINE SMOOTH",
+"327 312 OFFCURVE",
+"368 268 OFFCURVE",
+"368 202 CURVE SMOOTH",
+"368 140 OFFCURVE",
+"327 98 OFFCURVE",
+"265 98 CURVE SMOOTH",
+"171 98 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"171 603 LINE",
+"262 603 LINE SMOOTH",
+"321 603 OFFCURVE",
+"361 564 OFFCURVE",
+"361 505 CURVE SMOOTH",
+"361 444 OFFCURVE",
+"321 403 OFFCURVE",
+"262 403 CURVE SMOOTH",
+"171 403 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"237 312 LINE SMOOTH",
+"377 312 OFFCURVE",
+"471 392 OFFCURVE",
+"471 512 CURVE SMOOTH",
+"471 625 OFFCURVE",
+"385 700 OFFCURVE",
+"257 700 CURVE SMOOTH",
+"62 700 LINE",
+"62 312 LINE"
+);
+}
+);
+width = 502;
 }
 );
 unicode = 0042;
