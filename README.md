@@ -2,6 +2,8 @@
 
 Named after EFF internet pioneer, songwriter, and activist John Perry Barlow.
 
+![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
+
 **This is very early-stage, alpha software. Use at your own peril.**
 
 ## Download
