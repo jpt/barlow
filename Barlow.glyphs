@@ -1,5 +1,8 @@
 {
 .appVersion = "930";
+DisplayStrings = (
+"BRING IT BACK THE OTHER WAY."
+);
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -379,7 +382,7 @@ unicode = 0042;
 {
 color = 1;
 glyphname = C;
-lastChange = "2016-10-23 07:15:33 +0000";
+lastChange = "2016-10-23 07:25:13 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -433,8 +436,8 @@ nodes = (
 "387 -8 OFFCURVE",
 "479 72 OFFCURVE",
 "479 192 CURVE SMOOTH",
-"479 244 LINE",
-"291 244 LINE",
+"479 264 LINE",
+"291 264 LINE",
 "291 196 LINE SMOOTH",
 "291 171 OFFCURVE",
 "274 152 OFFCURVE",
@@ -449,8 +452,8 @@ nodes = (
 "274 548 OFFCURVE",
 "291 529 OFFCURVE",
 "291 504 CURVE SMOOTH",
-"291 456 LINE",
-"479 456 LINE",
+"291 436 LINE",
+"479 436 LINE",
 "479 508 LINE SMOOTH",
 "479 628 OFFCURVE",
 "387 708 OFFCURVE",
@@ -1000,7 +1003,7 @@ unicode = 004A;
 {
 color = 1;
 glyphname = K;
-lastChange = "2016-10-23 07:15:34 +0000";
+lastChange = "2016-10-23 07:28:57 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -1031,13 +1034,13 @@ paths = (
 closed = 1;
 nodes = (
 "215 0 LINE",
-"215 245 LINE",
-"321 0 LINE",
-"540 0 LINE",
-"351 350 LINE",
+"215 214 LINE",
+"317 0 LINE",
+"532 0 LINE",
+"345 362 LINE",
 "540 700 LINE",
-"321 700 LINE",
-"215 455 LINE",
+"332 700 LINE",
+"215 461 LINE",
 "215 700 LINE",
 "27 700 LINE",
 "27 0 LINE"
@@ -2080,7 +2083,7 @@ unicode = 0059;
 {
 color = 1;
 glyphname = Z;
-lastChange = "2016-10-23 07:15:16 +0000";
+lastChange = "2016-10-23 07:24:13 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -2111,12 +2114,12 @@ closed = 1;
 nodes = (
 "410 0 LINE",
 "410 160 LINE",
-"170 160 LINE",
+"180 160 LINE",
 "410 540 LINE",
 "410 700 LINE",
 "0 700 LINE",
 "0 540 LINE",
-"239 540 LINE",
+"229 540 LINE",
 "0 160 LINE",
 "0 0 LINE"
 );
