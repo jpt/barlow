@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="406"/>
+  <advance width="288"/>
   <unicode hex="0022"/>
   <outline>
     <contour>
-      <point x="269" y="500" type="line"/>
-      <point x="269" y="692" type="line"/>
-      <point x="247" y="692" type="line"/>
-      <point x="247" y="500" type="line"/>
+      <point x="210" y="500" type="line"/>
+      <point x="210" y="692" type="line"/>
+      <point x="188" y="692" type="line"/>
+      <point x="188" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="159" y="500" type="line"/>
-      <point x="159" y="692" type="line"/>
-      <point x="137" y="692" type="line"/>
-      <point x="137" y="500" type="line"/>
+      <point x="100" y="500" type="line"/>
+      <point x="100" y="692" type="line"/>
+      <point x="78" y="692" type="line"/>
+      <point x="78" y="500" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,7 +21,11 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>1</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-20 07:13:44 +0000</string>
+      <string>2016-10-24 01:00:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=quotesingle</string>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>
