@@ -1,10 +1,13 @@
 # Barlow
+### A typeface for cyberspace.
 
 Named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow.
 
 ![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
 
 **This is very early-stage, alpha software. Use at your own peril.**
+
+Barlow is a free font. If you'd like to support this and other open-source projects, consider making a [donation to the EFF](https://supporters.eff.org/donate). To support JPB more directly, please see the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
 ## Download
 
