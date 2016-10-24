@@ -1,6 +1,6 @@
 # Barlow
 
-Named after EFF internet pioneer, songwriter, and activist John Perry Barlow.
+Named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow.
 
 ![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
 
