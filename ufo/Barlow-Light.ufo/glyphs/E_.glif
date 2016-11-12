@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="456"/>
+  <advance width="492"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="432" y="0" type="line"/>
-      <point x="432" y="21" type="line"/>
-      <point x="112" y="21" type="line"/>
-      <point x="112" y="679" type="line"/>
-      <point x="432" y="679" type="line"/>
-      <point x="432" y="700" type="line"/>
-      <point x="90" y="700" type="line"/>
-      <point x="90" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="21" type="line"/>
+      <point x="122" y="21" type="line"/>
+      <point x="122" y="679" type="line"/>
+      <point x="442" y="679" type="line"/>
+      <point x="442" y="700" type="line"/>
+      <point x="100" y="700" type="line"/>
+      <point x="100" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="335" y="340" type="line"/>
-      <point x="335" y="361" type="line"/>
-      <point x="101" y="361" type="line"/>
-      <point x="101" y="340" type="line"/>
+      <point x="345" y="340" type="line"/>
+      <point x="345" y="361" type="line"/>
+      <point x="111" y="361" type="line"/>
+      <point x="111" y="340" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-10-25 03:41:03 +0000</string>
+      <string>2016-11-12 09:55:46 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
