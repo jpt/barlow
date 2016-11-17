@@ -1,7 +1,8 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-K
+K,
+"I just might just kfill somebeeody I just might just lose my body abomination in the "
 );
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
@@ -3082,7 +3083,7 @@ unicode = 0064;
 },
 {
 glyphname = e;
-lastChange = "2016-11-17 12:24:35 +0000";
+lastChange = "2016-11-17 12:32:38 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -3201,10 +3202,10 @@ nodes = (
 "289 428 OFFCURVE",
 "328 390 OFFCURVE",
 "328 334 CURVE SMOOTH",
-"328 299 LINE",
-"95 299 LINE",
-"95 216 LINE",
-"422 216 LINE",
+"328 297 LINE",
+"95 297 LINE",
+"95 213 LINE",
+"422 213 LINE",
 "422 346 LINE SMOOTH",
 "422 449 OFFCURVE",
 "345 518 OFFCURVE",
@@ -3228,7 +3229,7 @@ unicode = 0065;
 },
 {
 glyphname = f;
-lastChange = "2016-11-17 12:24:50 +0000";
+lastChange = "2016-11-17 12:31:19 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -3266,29 +3267,29 @@ paths = (
 {
 closed = 1;
 nodes = (
-"212 0 LINE",
-"212 539 LINE",
-"212 557 OFFCURVE",
-"226 572 OFFCURVE",
-"256 575 CURVE",
-"256 700 LINE",
-"108 707 OFFCURVE",
-"24 683 OFFCURVE",
-"24 556 CURVE",
-"24 0 LINE"
+"233 0 LINE",
+"233 539 LINE",
+"233 557 OFFCURVE",
+"247 572 OFFCURVE",
+"277 575 CURVE",
+"277 700 LINE",
+"129 707 OFFCURVE",
+"45 683 OFFCURVE",
+"45 556 CURVE",
+"45 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"276 360 LINE",
-"276 520 LINE",
-"-21 520 LINE",
-"-21 360 LINE"
+"297 360 LINE",
+"297 520 LINE",
+"0 520 LINE",
+"0 360 LINE"
 );
 }
 );
-width = 284;
+width = 305;
 },
 {
 associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -4587,7 +4588,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2016-11-17 12:22:09 +0000";
+lastChange = "2016-11-17 12:31:12 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -4627,31 +4628,31 @@ paths = (
 {
 closed = 1;
 nodes = (
-"272 5 LINE",
-"272 169 LINE",
-"271 169 LINE",
-"218 164 OFFCURVE",
-"216 172 OFFCURVE",
-"216 221 CURVE SMOOTH",
-"220 682 LINE",
-"32 682 LINE",
-"28 136 LINE SMOOTH",
-"27 15 OFFCURVE",
-"99 -21 OFFCURVE",
-"271 5 CURVE"
+"287 5 LINE",
+"287 169 LINE",
+"286 169 LINE",
+"233 164 OFFCURVE",
+"231 172 OFFCURVE",
+"231 221 CURVE SMOOTH",
+"235 682 LINE",
+"47 682 LINE",
+"43 136 LINE SMOOTH",
+"42 15 OFFCURVE",
+"114 -21 OFFCURVE",
+"286 5 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"271 360 LINE",
-"271 520 LINE",
-"-15 520 LINE",
-"-15 360 LINE"
+"286 360 LINE",
+"286 520 LINE",
+"0 520 LINE",
+"0 360 LINE"
 );
 }
 );
-width = 284;
+width = 299;
 }
 );
 leftKerningGroup = t;
