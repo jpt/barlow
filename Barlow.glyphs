@@ -1,5 +1,8 @@
 {
 .appVersion = "939";
+DisplayStrings = (
+"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz/a.alt/b.bowl/n.curve 0123456789/backslash :,!\U00A1.?\U00BF\"';///emdash -/quotedblleft/quotedblright/quoteleft/quoteright/hyphen_hyphen.liga  $@\U00A9\U00AE/newGlyph"
+);
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
 designer = "Jeremy Tribby";
@@ -1352,7 +1355,7 @@ unicode = 004C;
 },
 {
 glyphname = M;
-lastChange = "2016-11-17 19:17:51 +0000";
+lastChange = "2016-11-17 19:30:59 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -1409,9 +1412,9 @@ paths = (
 closed = 1;
 nodes = (
 "141 0 LINE",
-"141 515 LINE",
-"260 284 LINE",
-"378 514 LINE",
+"141 507 LINE",
+"260 276 LINE",
+"378 506 LINE",
 "378 0 LINE",
 "473 0 LINE",
 "473 700 LINE",
