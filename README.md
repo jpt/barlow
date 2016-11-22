@@ -5,7 +5,7 @@ Named after internet pioneer, EFF co-founder, songwriter, and activist John Perr
 
 ![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
 
-Barlow is a free font. If you'd like to support this project, please consider making a donation to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
+Barlow is a free font. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
 ## Download
 
