@@ -18,10 +18,5 @@ Thank you Paulo Silva (@nitrofurano) for the DIN grid, because that was how this
 And thank you, Barlow, most of all, for a legacy that will carry our future into a brighter place. 
 
 ## License
-This is a very early-stage, experimental software. Use at your own peril. No warranties, guarantees, or anything at all, express or implied.
-
-Barlow is free software.
-
-Copyright (c) 2016 by Jeremy Tribby. All rights reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available in the bundled [LICENSE](https://github.com/jpt/barlow/blob/master/LICENSE.md) file, and is also available with a FAQ at: http://scripts.sil.org/OFL
