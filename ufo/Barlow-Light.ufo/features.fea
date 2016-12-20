@@ -1,0 +1,9 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature liga {
+# automatic
+sub hyphen hyphen by hyphen_hyphen.liga;
+} liga;
+
