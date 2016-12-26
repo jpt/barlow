@@ -13,7 +13,7 @@ Barlow is a free font. If you'd like to make a donation, please consider directi
 
 ## Acknowledgements
 
-Thank you Paulo Silva (@nitrofurano) for the DIN grid, because that was how this started. Thank you Lukas Schneider of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool to EFF. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
+Thank you Lukas Schneider of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool to EFF. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
 
 And thank you, Barlow, most of all, for a legacy that will carry our future into a brighter place. 
 
