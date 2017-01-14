@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="backslash" format="1">
-  <advance width="323"/>
-  <unicode hex="005C"/>
+<glyph name="bracketright" format="1">
+  <advance width="344"/>
+  <unicode hex="005D"/>
   <outline>
-    <component base="slash" xOffset="323" xScale="-1"/>
+    <component base="bracketleft" xOffset="344" xScale="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-12-20 00:23:58 +0000</string>
+      <string>2017-01-13 18:24:18 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=|slash</string>
+      <string>=|bracketleft</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|slash</string>
+      <string>=|bracketleft</string>
     </dict>
   </lib>
 </glyph>

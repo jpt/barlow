@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="exclamdown" format="1">
-  <advance width="299"/>
-  <unicode hex="00A1"/>
+<glyph name="parenright" format="1">
+  <advance width="194"/>
+  <unicode hex="0029"/>
   <outline>
-    <component base="exclam" yOffset="711" yScale="-1"/>
+    <component base="parenleft" xOffset="194" xScale="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-12-20 00:23:58 +0000</string>
+      <string>2017-01-13 18:24:18 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=exclam</string>
+      <string>=|parenleft</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=exclam</string>
+      <string>=|parenleft</string>
     </dict>
   </lib>
 </glyph>

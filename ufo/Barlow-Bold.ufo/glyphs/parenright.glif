@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblright" format="1">
-  <advance width="301"/>
-  <unicode hex="201D"/>
+<glyph name="parenright" format="1">
+  <advance width="371"/>
+  <unicode hex="0029"/>
   <outline>
-    <component base="quotedblleft" xOffset="301" xScale="-1"/>
+    <component base="parenleft" xOffset="371" xScale="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-12-20 00:23:58 +0000</string>
+      <string>2017-01-13 18:24:18 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>=|quotedblleft</string>
+      <string>=|parenleft</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|quotedblleft</string>
+      <string>=|parenleft</string>
     </dict>
   </lib>
 </glyph>

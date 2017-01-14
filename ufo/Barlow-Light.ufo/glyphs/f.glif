@@ -1,31 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f" format="1">
-  <advance width="269"/>
+  <advance width="263"/>
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="122" y="0" type="line"/>
-      <point x="122" y="550" type="line" smooth="yes"/>
-      <point x="122" y="637"/>
-      <point x="151" y="689"/>
-      <point x="269" y="689" type="curve"/>
-      <point x="269" y="710" type="line"/>
-      <point x="138" y="710"/>
-      <point x="100" y="650"/>
-      <point x="100" y="550" type="curve" smooth="yes"/>
-      <point x="100" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="550" type="line" smooth="yes"/>
+      <point x="112" y="637"/>
+      <point x="129" y="689"/>
+      <point x="219" y="689" type="curve" smooth="yes"/>
+      <point x="250" y="689" type="line"/>
+      <point x="250" y="710" type="line"/>
+      <point x="219" y="710" type="line" smooth="yes"/>
+      <point x="116" y="710"/>
+      <point x="90" y="650"/>
+      <point x="90" y="550" type="curve" smooth="yes"/>
+      <point x="90" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="239" y="479" type="line"/>
-      <point x="239" y="500" type="line"/>
-      <point x="22" y="500" type="line"/>
-      <point x="22" y="479" type="line"/>
+      <point x="245" y="479" type="line"/>
+      <point x="245" y="500" type="line"/>
+      <point x="15" y="500" type="line"/>
+      <point x="15" y="479" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016-12-30 10:54:47 +0000</string>
+      <string>2017-01-14 20:15:42 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
