@@ -1,7 +1,7 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-Q
+HEF
 );
 copyright = "Copyright 2016 Jeremy Tribby. SIL OFL License v1.1.";
 date = "2016-07-12 00:27:02 +0000";
@@ -496,7 +496,7 @@ unicode = 0044;
 },
 {
 glyphname = E;
-lastChange = "2017-01-14 20:55:16 +0000";
+lastChange = "2017-01-15 20:08:21 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -504,12 +504,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"434 0 LINE",
-"434 21 LINE",
+"426 0 LINE",
+"426 21 LINE",
 "94 21 LINE",
 "94 679 LINE",
-"434 679 LINE",
-"434 700 LINE",
+"426 679 LINE",
+"426 700 LINE",
 "72 700 LINE",
 "72 0 LINE"
 );
@@ -517,14 +517,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"330 340 LINE",
-"330 361 LINE",
+"322 340 LINE",
+"322 361 LINE",
 "83 361 LINE",
 "83 340 LINE"
 );
 }
 );
-width = 466;
+width = 474;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -557,10 +557,11 @@ width = 416;
 );
 leftKerningGroup = H;
 unicode = 0045;
+changeCount = 16;
 },
 {
 glyphname = F;
-lastChange = "2017-01-14 20:55:16 +0000";
+lastChange = "2017-01-15 20:08:31 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -570,8 +571,8 @@ closed = 1;
 nodes = (
 "94 0 LINE",
 "94 679 LINE",
-"433 679 LINE",
-"433 700 LINE",
+"425 679 LINE",
+"425 700 LINE",
 "72 700 LINE",
 "72 0 LINE"
 );
@@ -579,14 +580,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"329 340 LINE",
-"329 361 LINE",
+"321 340 LINE",
+"321 361 LINE",
 "83 361 LINE",
 "83 340 LINE"
 );
 }
 );
-width = 457;
+width = 465;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -617,6 +618,7 @@ width = 414;
 );
 leftKerningGroup = H;
 unicode = 0046;
+changeCount = 16;
 },
 {
 glyphname = G;
