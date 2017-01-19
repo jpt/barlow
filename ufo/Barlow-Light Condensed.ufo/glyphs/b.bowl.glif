@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b.bowl" format="1">
+  <advance width="260"/>
+  <outline>
+    <contour>
+      <point x="207" y="-8"/>
+      <point x="260" y="50"/>
+      <point x="260" y="138" type="curve" smooth="yes"/>
+      <point x="260" y="362" type="line" smooth="yes"/>
+      <point x="260" y="450"/>
+      <point x="208" y="508"/>
+      <point x="130" y="508" type="curve" smooth="yes"/>
+      <point x="51" y="508"/>
+      <point x="-2" y="450"/>
+      <point x="-2" y="362" type="curve" smooth="yes"/>
+      <point x="-2" y="138" type="line" smooth="yes"/>
+      <point x="-2" y="50"/>
+      <point x="50" y="-8"/>
+      <point x="128" y="-8" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="60" y="13"/>
+      <point x="15" y="62"/>
+      <point x="15" y="135" type="curve" smooth="yes"/>
+      <point x="15" y="365" type="line" smooth="yes"/>
+      <point x="15" y="438"/>
+      <point x="60" y="487"/>
+      <point x="127" y="487" type="curve" smooth="yes"/>
+      <point x="194" y="487"/>
+      <point x="238" y="438"/>
+      <point x="238" y="365" type="curve" smooth="yes"/>
+      <point x="238" y="135" type="line" smooth="yes"/>
+      <point x="238" y="62"/>
+      <point x="194" y="13"/>
+      <point x="127" y="13" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-01-19 04:21:48 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
