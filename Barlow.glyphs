@@ -1,8 +1,5 @@
 {
 .appVersion = "939";
-DisplayStrings = (
-"e/b.bowl bod"
-);
 copyright = "Copyright 2016, Jeremy Tribby. Released under the SIL Open Font License v1.1.";
 date = "2017-01-19 02:17:38 +0000";
 designer = "Jeremy Tribby";
@@ -40,7 +37,7 @@ horizontalStems = (
 );
 id = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 userData = {
-GSCornerRadius = 8;
+GSCornerRadius = 12;
 GSOffsetHorizontal = 11;
 GSOffsetMakeStroke = 1;
 GSOffsetPosition = 0.2;
@@ -4526,7 +4523,7 @@ unicode = 0064;
 {
 color = 1;
 glyphname = e;
-lastChange = "2017-02-08 03:50:18 +0000";
+lastChange = "2017-02-08 04:19:12 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -5988,7 +5985,7 @@ unicode = 006E;
 },
 {
 glyphname = o;
-lastChange = "2017-02-08 03:54:26 +0000";
+lastChange = "2017-02-08 03:55:04 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -6181,18 +6178,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"365 -8 OFFCURVE",
-"449 72 OFFCURVE",
-"449 193 CURVE SMOOTH",
-"449 319 LINE SMOOTH",
-"449 439 OFFCURVE",
-"365 519 OFFCURVE",
+"366 -8 OFFCURVE",
+"449 68 OFFCURVE",
+"449 183 CURVE SMOOTH",
+"449 329 LINE SMOOTH",
+"449 443 OFFCURVE",
+"366 519 OFFCURVE",
 "241 519 CURVE SMOOTH",
 "117 519 OFFCURVE",
-"34 439 OFFCURVE",
-"34 319 CURVE SMOOTH",
-"34 193 LINE SMOOTH",
-"34 72 OFFCURVE",
+"34 443 OFFCURVE",
+"34 329 CURVE SMOOTH",
+"34 183 LINE SMOOTH",
+"34 68 OFFCURVE",
 "117 -8 OFFCURVE",
 "241 -8 CURVE SMOOTH"
 );
@@ -6201,17 +6198,17 @@ nodes = (
 closed = 1;
 nodes = (
 "177 79 OFFCURVE",
-"134 123 OFFCURVE",
-"134 189 CURVE SMOOTH",
-"134 323 LINE SMOOTH",
-"134 389 OFFCURVE",
+"134 121 OFFCURVE",
+"134 183 CURVE SMOOTH",
+"134 329 LINE SMOOTH",
+"134 391 OFFCURVE",
 "177 433 OFFCURVE",
 "241 433 CURVE SMOOTH",
 "306 433 OFFCURVE",
-"349 389 OFFCURVE",
-"349 323 CURVE SMOOTH",
-"349 189 LINE SMOOTH",
-"349 123 OFFCURVE",
+"349 391 OFFCURVE",
+"349 329 CURVE SMOOTH",
+"349 183 LINE SMOOTH",
+"349 121 OFFCURVE",
 "306 79 OFFCURVE",
 "241 79 CURVE SMOOTH"
 );
@@ -7729,7 +7726,7 @@ rightKerningGroup = a;
 color = 3;
 export = 0;
 glyphname = b.bowl;
-lastChange = "2017-02-08 03:53:37 +0000";
+lastChange = "2017-02-08 03:57:19 +0000";
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -7871,20 +7868,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"233 -8 OFFCURVE",
-"360 21 OFFCURVE",
-"360 192 CURVE SMOOTH",
-"360 328 LINE SMOOTH",
-"360 503 OFFCURVE",
-"233 528 OFFCURVE",
-"176 528 CURVE SMOOTH",
+"286 -8 OFFCURVE",
+"360 74 OFFCURVE",
+"360 232 CURVE SMOOTH",
+"360 288 LINE SMOOTH",
+"360 446 OFFCURVE",
+"287 528 OFFCURVE",
+"166 528 CURVE SMOOTH",
 "56 528 OFFCURVE",
 "0 420 OFFCURVE",
 "0 280 CURVE SMOOTH",
 "0 240 LINE SMOOTH",
 "0 136 OFFCURVE",
 "35 -8 OFFCURVE",
-"172 -8 CURVE SMOOTH"
+"162 -8 CURVE SMOOTH"
 );
 },
 {
@@ -12437,6 +12434,26 @@ unicode = 00AE;
 );
 instances = (
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 30;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12447,6 +12464,26 @@ name = Thin;
 weightClass = Thin;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 39;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12457,6 +12494,26 @@ name = UltraLight;
 weightClass = UltraLight;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 53;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12467,6 +12524,26 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 71;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12476,6 +12553,26 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 96;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12486,6 +12583,26 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 116;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12496,6 +12613,26 @@ name = DemiBold;
 weightClass = DemiBold;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 141;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12506,6 +12643,26 @@ name = Bold;
 weightClass = Bold;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 166;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12516,6 +12673,26 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 188;
 interpolationWidth = 5;
 instanceInterpolations = {
@@ -12525,6 +12702,26 @@ name = Black;
 weightClass = Black;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 30;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12536,6 +12733,26 @@ weightClass = Thin;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 39;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12547,6 +12764,26 @@ weightClass = UltraLight;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 53;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12558,6 +12795,26 @@ weightClass = Light;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 71;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12568,6 +12825,26 @@ name = "Regular Condensed";
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 96;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12579,6 +12856,26 @@ weightClass = Medium;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 116;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12590,6 +12887,26 @@ weightClass = DemiBold;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 141;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12601,6 +12918,26 @@ weightClass = Bold;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 166;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12612,6 +12949,26 @@ weightClass = ExtraBold;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
 interpolationWeight = 188;
 interpolationWidth = 3;
 instanceInterpolations = {
@@ -12631,7 +12988,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:1;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 30;
@@ -12655,7 +13024,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 39;
@@ -12679,7 +13060,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 53;
@@ -12703,7 +13096,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 71;
@@ -12726,7 +13131,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 96;
@@ -12750,7 +13167,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 116;
@@ -12774,7 +13203,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 141;
@@ -12798,7 +13239,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 166;
@@ -12822,7 +13275,19 @@ value = (
 },
 {
 name = Filter;
-value = "Transformations;Slant:6;SlantCorrection:0;Origin:4;";
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
 }
 );
 interpolationWeight = 188;
@@ -12836,12 +13301,320 @@ weightClass = Black;
 widthClass = Condensed;
 },
 {
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 30;
+interpolationWidth = 5;
 instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.533333;
-"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 47.9667;
-"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = -47.5;
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.957576;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0424242;
 };
-name = "(null)";
+isItalic = 1;
+name = "Thin Oblique";
+weightClass = Thin;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 39;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.90303;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0969697;
+};
+isItalic = 1;
+name = "UltraLight Oblique";
+weightClass = UltraLight;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 53;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.818182;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.181818;
+};
+isItalic = 1;
+name = "Light Oblique";
+weightClass = Light;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 71;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.709091;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.290909;
+};
+isItalic = 1;
+name = "Regular Oblique";
+widthClass = Condensed;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 96;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.557576;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.442424;
+};
+isItalic = 1;
+name = "Medium Oblique";
+weightClass = Medium;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 116;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.436364;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.563636;
+};
+isItalic = 1;
+name = "DemiBold Oblique";
+weightClass = DemiBold;
+widthClass = Condensed;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 141;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.284848;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.715151;
+};
+isItalic = 1;
+name = "Bold Oblique";
+weightClass = Bold;
+widthClass = Condensed;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 166;
+interpolationWidth = 5;
+instanceInterpolations = {
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.133333;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.866667;
+};
+isItalic = 1;
+name = "ExtraBold Oblique";
+weightClass = ExtraBold;
+},
+{
+customParameters = (
+{
+name = "Decompose Glyphs";
+value = (
+"n,b,d,g,h,m,n,p,q,u"
+);
+},
+{
+name = Filter;
+value = "Transformations;Slant:7;SlantCorrection:1;Origin:4;";
+},
+{
+name = Filter;
+value = "RemoveOverlap;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;12;1;";
+},
+{
+name = Filter;
+value = "GlyphsFilterRoundCorner;-12;1;";
+}
+);
+interpolationWeight = 188;
+interpolationWidth = 5;
+instanceInterpolations = {
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 1;
+};
+isItalic = 1;
+name = "Black Oblique";
+weightClass = Black;
 }
 );
 kerning = {
