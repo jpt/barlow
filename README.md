@@ -1,7 +1,9 @@
 # Barlow
-### A typeface for cyberspace.
+### A typeface for cyberspace. 
 
 Named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow.
+
+Barlow is a variation font, also available in 36 predefined styles.
 
 ![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
 
@@ -13,7 +15,7 @@ Barlow is a free font. If you'd like to make a donation, please consider directi
 
 ## Acknowledgements
 
-Thank you Lukas Schneider of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool to EFF. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
+Thank you Lukas Schneider of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
 
 And thank you, Barlow, most of all, for a legacy that will carry our future into a brighter place. 
 
