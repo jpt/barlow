@@ -9,11 +9,11 @@
 		<key>GSCornerRadius</key>
 		<integer>8</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>104</integer>
+		<integer>30</integer>
 		<key>GSOffsetMakeStroke</key>
 		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>95</integer>
+		<integer>30</integer>
 		<key>noodleExtremesAndInflections</key>
 		<integer>1</integer>
 		<key>noodleRemoveOverlap</key>
@@ -38,56 +38,108 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Aring</string>
+		<string>Atilde</string>
 		<string>B</string>
 		<string>C</string>
 		<string>D</string>
 		<string>E</string>
+		<string>Eacute</string>
+		<string>Ecircumflex</string>
+		<string>Edieresis</string>
+		<string>Egrave</string>
 		<string>F</string>
 		<string>G</string>
 		<string>H</string>
 		<string>I</string>
+		<string>Iacute</string>
+		<string>Icircumflex</string>
+		<string>Idieresis</string>
+		<string>Igrave</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
 		<string>M</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Otilde</string>
 		<string>P</string>
 		<string>Q</string>
 		<string>R</string>
 		<string>S</string>
 		<string>T</string>
 		<string>U</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
 		<string>V</string>
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
+		<string>Yacute</string>
 		<string>Z</string>
 		<string>a</string>
+		<string>aacute</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>agrave</string>
+		<string>aring</string>
+		<string>atilde</string>
 		<string>b</string>
 		<string>c</string>
 		<string>d</string>
 		<string>e</string>
+		<string>eacute</string>
+		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>egrave</string>
 		<string>f</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
+		<string>idotless</string>
+		<string>iacute</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>igrave</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
 		<string>m</string>
 		<string>n</string>
+		<string>ntilde</string>
 		<string>o</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>odieresis</string>
+		<string>ograve</string>
+		<string>otilde</string>
 		<string>p</string>
 		<string>q</string>
 		<string>r</string>
 		<string>s</string>
 		<string>t</string>
 		<string>u</string>
+		<string>uacute</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>ugrave</string>
 		<string>v</string>
 		<string>w</string>
 		<string>x</string>
 		<string>y</string>
+		<string>yacute</string>
+		<string>ydieresis</string>
 		<string>z</string>
 		<string>a.alt</string>
 		<string>b.bowl</string>
@@ -130,6 +182,17 @@
 		<string>at</string>
 		<string>copyright</string>
 		<string>registered</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
+		<string>gravecomb</string>
+		<string>acutecomb</string>
+		<string>circumflexcomb</string>
+		<string>ringcomb</string>
+		<string>tildecomb</string>
+		<string>cedillacomb</string>
+		<string>strokeshortcomb</string>
+		<string>slashlongcomb</string>
+		<string>circumflex</string>
 	</array>
 </dict>
 </plist>

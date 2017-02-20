@@ -35,22 +35,49 @@
       <point x="241" y="13"/>
       <point x="174" y="13" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="174" y="508" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-16 04:19:28 +0000</string>
+      <string>2017-02-20 03:13:18 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <integer>60</integer>
+          <integer>66</integer>
           <key>isGlobal</key>
           <false/>
           <key>showMeasurements</key>
           <true/>
           <key>x</key>
-          <integer>222</integer>
+          <integer>175</integer>
+          <key>y</key>
+          <integer>250</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>112</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>showMeasurements</key>
+          <true/>
+          <key>x</key>
+          <integer>174</integer>
+          <key>y</key>
+          <integer>250</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>-180</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>showMeasurements</key>
+          <true/>
+          <key>x</key>
+          <integer>174</integer>
           <key>y</key>
           <integer>250</integer>
         </dict>
