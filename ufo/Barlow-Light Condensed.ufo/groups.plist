@@ -5,6 +5,12 @@
 	<key>@MMK_L_A</key>
 	<array>
 		<string>A</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Aring</string>
+		<string>Atilde</string>
 	</array>
 	<key>@MMK_L_B</key>
 	<array>
@@ -13,7 +19,7 @@
 	</array>
 	<key>@MMK_L_C</key>
 	<array>
-		<string>C</string>
+		<string>O</string>
 	</array>
 	<key>@MMK_L_G</key>
 	<array>
@@ -22,6 +28,7 @@
 	<key>@MMK_L_H</key>
 	<array>
 		<string>N</string>
+		<string>Ntilde</string>
 	</array>
 	<key>@MMK_L_K</key>
 	<array>
@@ -33,7 +40,12 @@
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
-		<string>O</string>
+		<string>C</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Otilde</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -42,6 +54,7 @@
 	<key>@MMK_L_S</key>
 	<array>
 		<string>S</string>
+		<string>Scaron</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
@@ -51,6 +64,10 @@
 	<array>
 		<string>J</string>
 		<string>U</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
@@ -64,11 +81,16 @@
 	<key>@MMK_L_Z</key>
 	<array>
 		<string>Z</string>
+		<string>Zcaron</string>
 	</array>
 	<key>@MMK_L_a</key>
 	<array>
 		<string>aacute</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>agrave</string>
 		<string>aring</string>
+		<string>atilde</string>
 		<string>a.alt</string>
 	</array>
 	<key>@MMK_L_b</key>
@@ -97,7 +119,6 @@
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>emdash</string>
-		<string>hyphen</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
@@ -116,8 +137,13 @@
 	<key>@MMK_L_o</key>
 	<array>
 		<string>e</string>
+		<string>eacute</string>
 		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>egrave</string>
 		<string>o</string>
+		<string>ocircumflex</string>
+		<string>hyphen</string>
 	</array>
 	<key>@MMK_L_quotedbl</key>
 	<array>
@@ -141,15 +167,21 @@
 		<string>v</string>
 		<string>w</string>
 		<string>y</string>
+		<string>yacute</string>
 		<string>ydieresis</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
 		<string>A</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Aring</string>
+		<string>Atilde</string>
 	</array>
 	<key>@MMK_R_C</key>
 	<array>
-		<string>O</string>
 		<string>Q</string>
 	</array>
 	<key>@MMK_R_H</key>
@@ -157,8 +189,13 @@
 		<string>B</string>
 		<string>D</string>
 		<string>E</string>
+		<string>Eacute</string>
+		<string>Ecircumflex</string>
+		<string>Edieresis</string>
+		<string>Egrave</string>
 		<string>F</string>
 		<string>N</string>
+		<string>Ntilde</string>
 		<string>P</string>
 	</array>
 	<key>@MMK_R_J</key>
@@ -169,10 +206,17 @@
 	<array>
 		<string>C</string>
 		<string>G</string>
+		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Otilde</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
 		<string>S</string>
+		<string>Scaron</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
@@ -190,12 +234,17 @@
 	<key>@MMK_R_Z</key>
 	<array>
 		<string>Z</string>
+		<string>Zcaron</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
 		<string>a</string>
 		<string>aacute</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>agrave</string>
 		<string>aring</string>
+		<string>atilde</string>
 		<string>a.alt</string>
 	</array>
 	<key>@MMK_R_b</key>
@@ -223,7 +272,6 @@
 	<key>@MMK_R_hyphen</key>
 	<array>
 		<string>emdash</string>
-		<string>hyphen</string>
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
@@ -248,9 +296,14 @@
 	<array>
 		<string>c</string>
 		<string>e</string>
+		<string>eacute</string>
 		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>egrave</string>
 		<string>o</string>
+		<string>ocircumflex</string>
 		<string>odieresis</string>
+		<string>hyphen</string>
 	</array>
 	<key>@MMK_R_quotedbl</key>
 	<array>
@@ -269,12 +322,17 @@
 	<key>@MMK_R_u</key>
 	<array>
 		<string>u</string>
+		<string>uacute</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>ugrave</string>
 	</array>
 	<key>@MMK_R_v</key>
 	<array>
 		<string>v</string>
 		<string>w</string>
 		<string>y</string>
+		<string>yacute</string>
 		<string>ydieresis</string>
 	</array>
 	<key>@MMK_R_x</key>
@@ -284,6 +342,7 @@
 	<key>@MMK_R_z</key>
 	<array>
 		<string>z</string>
+		<string>zcaron</string>
 	</array>
 </dict>
 </plist>
