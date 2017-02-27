@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="485"/>
+  <advance width="514"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="80" y="-167" type="line"/>
-      <point x="102" y="-167" type="line"/>
-      <point x="102" y="725" type="line"/>
-      <point x="80" y="725" type="line"/>
+      <point x="104" y="-167" type="line"/>
+      <point x="126" y="-167" type="line"/>
+      <point x="126" y="725" type="line"/>
+      <point x="104" y="725" type="line"/>
     </contour>
-    <component base="b.bowl" xOffset="83"/>
+    <component base="b.bowl" xOffset="107"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-02-26 00:18:27 +0000</string>
+      <string>2017-02-27 01:15:22 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=l</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=b</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>
