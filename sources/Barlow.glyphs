@@ -1,10 +1,5 @@
 {
 .appVersion = "939";
-DisplayStrings = (
-oe,
-"Electronic Frontier Foundation.",
-no
-);
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -22,6 +17,11 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = versionString;
 value = "Development Version";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2017-01-19 02:17:38 +0000";
@@ -75,20 +75,6 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
-customParameters = (
-{
-name = paramArea;
-value = "488";
-},
-{
-name = paramDepth;
-value = "16";
-},
-{
-name = paramOver;
-value = "0";
-}
-);
 descender = -200;
 horizontalStems = (
 188,
@@ -124,20 +110,6 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
-customParameters = (
-{
-name = paramArea;
-value = "488";
-},
-{
-name = paramDepth;
-value = "16";
-},
-{
-name = paramOver;
-value = "0";
-}
-);
 descender = -200;
 horizontalStems = (
 22,
@@ -175,20 +147,6 @@ alignmentZones = (
 );
 ascender = 800;
 capHeight = 700;
-customParameters = (
-{
-name = paramArea;
-value = "488";
-},
-{
-name = paramDepth;
-value = "16";
-},
-{
-name = paramOver;
-value = "0";
-}
-);
 descender = -200;
 horizontalStems = (
 188,
@@ -18684,55 +18642,53 @@ unicode = 002D;
 },
 {
 glyphname = quotedblbase;
-lastChange = "2017-02-25 06:36:13 +0000";
+lastChange = "2017-02-28 08:06:06 +0000";
 layers = (
 {
 components = (
 {
-name = comma;
-},
-{
-name = comma;
+name = quotedblright;
+transform = "{1, 0, 0, 1, 0, -573}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 600;
+width = 199;
 },
 {
+annotations = (
+{
+position = "{573.313, 54.094}";
+type = Arrow;
+}
+);
 components = (
 {
-name = comma;
-},
-{
-name = comma;
+name = quotedblright;
+transform = "{1, 0, 0, 1, 0, -571}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 600;
+width = 455;
 },
 {
 components = (
 {
-name = comma;
-},
-{
-name = comma;
+name = quotedblright;
+transform = "{1, 0, 0, 1, 0, -573}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 600;
+width = 160;
 },
 {
 components = (
 {
-name = comma;
-},
-{
-name = comma;
+name = quotedblright;
+transform = "{1, 0, 0, 1, 0, -571}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 600;
+width = 423;
 }
 );
 unicode = 201E;
@@ -23409,9 +23365,9 @@ X = -30;
 "@MMK_R_v" = -27;
 };
 "@MMK_L_n" = {
+"@MMK_R_quotedbl" = -32;
 "@MMK_R_v" = -38;
 "@MMK_R_x" = -38;
-"@MMK_R_quotedbl" = -32;
 };
 "@MMK_L_o" = {
 "@MMK_R_s" = -8;
@@ -23420,10 +23376,10 @@ X = -30;
 "@MMK_R_x" = -48;
 };
 "@MMK_L_quotedbl" = {
-"@MMK_R_s" = -49;
+"@MMK_R_A" = -79;
 "@MMK_R_a" = -47;
 "@MMK_R_d" = -38;
-"@MMK_R_A" = -79;
+"@MMK_R_s" = -49;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -18;
