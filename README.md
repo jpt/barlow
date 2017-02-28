@@ -3,7 +3,7 @@ Barlow is a variation font family available in 54 predefined styles, named after
 
 Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
-![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/Screenshot.png)
+![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/Screenshot.png)
 
 ## Download
 
@@ -17,4 +17,4 @@ And thank you, Barlow, most of all, for a legacy that will carry our future into
 
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available in the bundled [LICENSE](https://github.com/jpt/barlow/blob/master/LICENSE.md) file, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available in the bundled [OFL.txt](https://github.com/jpt/barlow/blob/master/OFL.txt) file, and is also available with a FAQ at: http://scripts.sil.org/OFL

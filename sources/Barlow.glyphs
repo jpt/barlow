@@ -1,9 +1,29 @@
 {
 .appVersion = "939";
 DisplayStrings = (
-oe
+oe,
+"Electronic Frontier Foundation.",
+no
 );
-copyright = "Copyright 2016, Jeremy Tribby. Released under the SIL Open Font License v1.1.";
+copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
+customParameters = (
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = versionString;
+value = "Development Version";
+}
+);
 date = "2017-01-19 02:17:38 +0000";
 designer = "Jeremy Tribby";
 designerURL = "https://tribby.com/";
@@ -7487,7 +7507,7 @@ unicode = 0064;
 {
 color = 3;
 glyphname = e;
-lastChange = "2017-02-27 06:33:28 +0000";
+lastChange = "2017-02-27 07:56:42 +0000";
 layers = (
 {
 anchors = (
@@ -8328,72 +8348,6 @@ visible = 1;
 anchors = (
 {
 name = top;
-position = "{256, 522}";
-}
-);
-associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-layerId = "85DE9978-90DD-44A9-B0A0-A27E17CC7D90";
-name = "{140,5}";
-paths = (
-{
-closed = 1;
-nodes = (
-"358 -8 OFFCURVE",
-"428 32 OFFCURVE",
-"471 99 CURVE",
-"394 166 LINE",
-"374 131 OFFCURVE",
-"333 110 OFFCURVE",
-"281 110 CURVE SMOOTH",
-"220 110 OFFCURVE",
-"186 138 OFFCURVE",
-"175 176 CURVE SMOOTH",
-"169 195 OFFCURVE",
-"167 224 OFFCURVE",
-"167 259 CURVE SMOOTH",
-"167 294 OFFCURVE",
-"169 320 OFFCURVE",
-"175 339 CURVE SMOOTH",
-"185 376 OFFCURVE",
-"217 402 OFFCURVE",
-"257 402 CURVE SMOOTH",
-"299 402 OFFCURVE",
-"331 376 OFFCURVE",
-"341 339 CURVE SMOOTH",
-"343 328 OFFCURVE",
-"345 314 OFFCURVE",
-"345 304 CURVE",
-"126 305 LINE",
-"126 200 LINE",
-"489 200 LINE",
-"489 270 OFFCURVE",
-"485 339 OFFCURVE",
-"473 376 CURVE SMOOTH",
-"447 461 OFFCURVE",
-"361 522 OFFCURVE",
-"257 522 CURVE SMOOTH",
-"155 522 OFFCURVE",
-"71 467 OFFCURVE",
-"41 377 CURVE SMOOTH",
-"30 343 OFFCURVE",
-"25 308 OFFCURVE",
-"25 260 CURVE SMOOTH",
-"25 212 OFFCURVE",
-"30 176 OFFCURVE",
-"41 141 CURVE SMOOTH",
-"71 51 OFFCURVE",
-"151 -8 OFFCURVE",
-"266 -8 CURVE SMOOTH"
-);
-}
-);
-width = 513;
-visible = 1;
-},
-{
-anchors = (
-{
-name = top;
 position = "{260, 528}";
 }
 );
@@ -8904,7 +8858,7 @@ unicode = 00E8;
 {
 color = 3;
 glyphname = f;
-lastChange = "2017-02-27 06:34:03 +0000";
+lastChange = "2017-02-27 08:16:42 +0000";
 layers = (
 {
 hints = (
@@ -9060,14 +9014,14 @@ closed = 1;
 nodes = (
 "188 0 LINE",
 "188 524 LINE",
-"188 581 OFFCURVE",
+"188 593 OFFCURVE",
 "207 613 OFFCURVE",
 "272 613 CURVE SMOOTH",
 "306 613 LINE",
 "306 700 LINE",
 "262 700 LINE SMOOTH",
-"149 700 OFFCURVE",
-"88 645 OFFCURVE",
+"128 700 OFFCURVE",
+"88 661 OFFCURVE",
 "88 530 CURVE",
 "88 0 LINE"
 );
@@ -24030,7 +23984,9 @@ z = {
 };
 };
 };
+manufacturer = "Jeremy Tribby";
+manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 3;
 }
