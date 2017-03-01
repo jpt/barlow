@@ -14294,9 +14294,15 @@ unicode = 017E;
 },
 {
 glyphname = a.alt;
-lastChange = "2017-03-01 03:56:02 +0000";
+lastChange = "2017-03-01 05:12:12 +0000";
 layers = (
 {
+anchors = (
+{
+name = top;
+position = "{243, 500}";
+}
+);
 components = (
 {
 name = b.bowl;
@@ -14318,6 +14324,12 @@ nodes = (
 width = 511;
 },
 {
+anchors = (
+{
+name = top;
+position = "{227, 520}";
+}
+);
 components = (
 {
 name = b.bowl;
@@ -14339,6 +14351,12 @@ nodes = (
 width = 446;
 },
 {
+anchors = (
+{
+name = top;
+position = "{261, 520}";
+}
+);
 components = (
 {
 name = b.bowl;
@@ -14360,6 +14378,12 @@ nodes = (
 width = 529;
 },
 {
+anchors = (
+{
+name = top;
+position = "{185, 520}";
+}
+);
 components = (
 {
 name = b.bowl;
@@ -21627,6 +21651,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 30;
@@ -21662,6 +21692,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 39;
@@ -21697,6 +21733,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 53;
@@ -21732,6 +21774,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 71;
@@ -21767,6 +21815,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 96;
@@ -21802,6 +21856,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 116;
@@ -21838,6 +21898,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 141;
@@ -21874,6 +21940,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 166;
@@ -21909,6 +21981,12 @@ value = "GlyphsFilterRoundCorner;15;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-6;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 188;
@@ -22237,6 +22315,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 30;
@@ -22275,6 +22359,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 39;
@@ -22313,6 +22403,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 53;
@@ -22351,6 +22447,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 71;
@@ -22388,6 +22490,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 96;
@@ -22426,6 +22534,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 116;
@@ -22464,6 +22578,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 141;
@@ -22502,6 +22622,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 166;
@@ -22540,6 +22666,12 @@ value = "GlyphsFilterRoundCorner;15;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-6;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 188;
@@ -22853,6 +22985,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 30;
@@ -22889,6 +23027,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 39;
@@ -22925,6 +23069,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 53;
@@ -22961,6 +23111,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 71;
@@ -22996,6 +23152,12 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 96;
@@ -23032,6 +23194,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 116;
@@ -23068,6 +23236,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 141;
@@ -23104,6 +23278,12 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 166;
@@ -23140,6 +23320,12 @@ value = "GlyphsFilterRoundCorner;15;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-6;1;";
+},
+{
+name = "Rename Glyphs";
+value = (
+"a.alt=a"
+);
 }
 );
 interpolationWeight = 188;
