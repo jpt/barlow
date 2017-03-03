@@ -1,7 +1,7 @@
 # Barlow
 ### *A variable font superfamily available in 54 pre-defined styles.*
 
-Barlow draws from the visual style of the California public -- its highway signs, car plates, busses, and trains. The typeface is named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow, in tribute to the [impact he has had on the the information superhighway](https://www.eff.org/cyberspace-independence).
+Barlow draws from the visual style of the California public -- its highway signs, car plates, busses, and trains. The typeface is named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow, in tribute to his [impact on the information superhighway](https://www.eff.org/cyberspace-independence).
 
 Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
