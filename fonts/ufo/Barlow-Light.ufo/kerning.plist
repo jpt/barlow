@@ -7,7 +7,7 @@
 		<key>@MMK_R_C</key>
 		<integer>-22</integer>
 		<key>@MMK_R_H</key>
-		<integer>-22</integer>
+		<integer>0</integer>
 		<key>@MMK_R_O</key>
 		<integer>-33</integer>
 		<key>@MMK_R_S</key>
@@ -20,20 +20,31 @@
 		<integer>-80</integer>
 		<key>@MMK_R_v</key>
 		<integer>-41</integer>
+		<key>M</key>
+		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_B</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<integer>-41</integer>
+		<integer>0</integer>
 		<key>@MMK_R_V</key>
 		<integer>-42</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_F</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-79</integer>
+		<key>slash</key>
+		<integer>-51</integer>
 	</dict>
 	<key>@MMK_L_H</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-10</integer>
 		<key>@MMK_R_O</key>
-		<integer>-46</integer>
+		<integer>0</integer>
 		<key>@MMK_R_u</key>
 		<integer>-21</integer>
 	</dict>
@@ -65,6 +76,13 @@
 		<integer>-21</integer>
 		<key>@MMK_R_u</key>
 		<integer>-29</integer>
+	</dict>
+	<key>@MMK_L_P</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>0</integer>
+		<key>@MMK_R_o</key>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_R</key>
 	<dict>
@@ -121,7 +139,7 @@
 		<key>@MMK_R_j</key>
 		<integer>-10</integer>
 		<key>@MMK_R_n</key>
-		<integer>-82</integer>
+		<integer>-54</integer>
 		<key>@MMK_R_o</key>
 		<integer>-93</integer>
 		<key>@MMK_R_s</key>
@@ -151,7 +169,7 @@
 		<key>@MMK_R_A</key>
 		<integer>-72</integer>
 		<key>@MMK_R_H</key>
-		<integer>-33</integer>
+		<integer>0</integer>
 		<key>@MMK_R_a</key>
 		<integer>-42</integer>
 		<key>@MMK_R_d</key>
@@ -221,7 +239,7 @@
 	<key>@MMK_L_o</key>
 	<dict>
 		<key>@MMK_R_b</key>
-		<integer>-22</integer>
+		<integer>0</integer>
 		<key>@MMK_R_s</key>
 		<integer>-13</integer>
 		<key>@MMK_R_v</key>
@@ -247,6 +265,11 @@
 		<key>@MMK_R_t</key>
 		<integer>0</integer>
 	</dict>
+	<key>@MMK_L_t</key>
+	<dict>
+		<key>@MMK_R_s</key>
+		<integer>20</integer>
+	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
 		<key>@MMK_R_a</key>
@@ -257,6 +280,16 @@
 		<integer>-11</integer>
 		<key>@MMK_R_o</key>
 		<integer>-5</integer>
+	</dict>
+	<key>E</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>0</integer>
+	</dict>
+	<key>Y</key>
+	<dict>
+		<key>@MMK_R_O</key>
+		<integer>0</integer>
 	</dict>
 </dict>
 </plist>
