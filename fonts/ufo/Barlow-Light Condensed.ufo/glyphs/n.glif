@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="1">
-  <advance width="366"/>
+  <advance width="396"/>
   <unicode hex="006E"/>
   <outline>
     <contour>
-      <point x="78" y="0" type="line"/>
-      <point x="78" y="500" type="line"/>
-      <point x="56" y="500" type="line"/>
-      <point x="56" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="94" y="500" type="line"/>
+      <point x="72" y="500" type="line"/>
+      <point x="72" y="0" type="line"/>
     </contour>
-    <component base="n.curve" xOffset="63"/>
+    <component base="n.curve" xOffset="79"/>
     <contour>
-      <point x="192" y="500" type="move" name="top"/>
+      <point x="204" y="507" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-04 03:26:54 +0000</string>
+      <string>2017-03-12 07:01:33 +0000</string>
     </dict>
   </lib>
 </glyph>

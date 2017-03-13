@@ -48,6 +48,8 @@
 	<dict>
 		<key>@MMK_R_a</key>
 		<integer>0</integer>
+		<key>I</key>
+		<integer>4</integer>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
@@ -73,6 +75,13 @@
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 	</dict>
+	<key>@MMK_L_P</key>
+	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-30</integer>
+		<key>I</key>
+		<integer>-10</integer>
+	</dict>
 	<key>@MMK_L_R</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -91,6 +100,8 @@
 		<integer>11</integer>
 		<key>@MMK_R_u</key>
 		<integer>-2</integer>
+		<key>I</key>
+		<integer>11</integer>
 	</dict>
 	<key>@MMK_L_S</key>
 	<dict>
@@ -157,6 +168,10 @@
 		<integer>-39</integer>
 		<key>@MMK_R_H</key>
 		<integer>-18</integer>
+		<key>@MMK_R_O</key>
+		<integer>-9</integer>
+		<key>@MMK_R_S</key>
+		<integer>-20</integer>
 		<key>@MMK_R_a</key>
 		<integer>-23</integer>
 		<key>@MMK_R_d</key>
@@ -204,6 +219,11 @@
 		<key>@MMK_R_x</key>
 		<integer>-5</integer>
 	</dict>
+	<key>@MMK_L_a</key>
+	<dict>
+		<key>@MMK_R_v</key>
+		<integer>-39</integer>
+	</dict>
 	<key>@MMK_L_b</key>
 	<dict>
 		<key>@MMK_R_v</key>
@@ -228,12 +248,19 @@
 		<key>@MMK_R_v</key>
 		<integer>-10</integer>
 	</dict>
+	<key>@MMK_L_quotedbl</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-26</integer>
+	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-12</integer>
 		<key>@MMK_R_d</key>
 		<integer>-8</integer>
 		<key>@MMK_R_s</key>
-		<integer>-5</integer>
+		<integer>-38</integer>
 		<key>@MMK_R_t</key>
 		<integer>9</integer>
 		<key>@MMK_R_v</key>
@@ -343,6 +370,11 @@
 		<integer>-50</integer>
 		<key>@MMK_R_x</key>
 		<integer>-60</integer>
+	</dict>
+	<key>ampersand</key>
+	<dict>
+		<key>@MMK_R_V</key>
+		<integer>-38</integer>
 	</dict>
 	<key>d</key>
 	<dict>

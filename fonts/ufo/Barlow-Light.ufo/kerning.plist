@@ -15,7 +15,7 @@
 		<key>@MMK_R_T</key>
 		<integer>-102</integer>
 		<key>@MMK_R_V</key>
-		<integer>-70</integer>
+		<integer>-101</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-80</integer>
 		<key>@MMK_R_v</key>
@@ -31,6 +31,11 @@
 		<integer>-42</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_C</key>
+	<dict>
+		<key>@MMK_R_Y</key>
+		<integer>-14</integer>
 	</dict>
 	<key>@MMK_L_F</key>
 	<dict>
@@ -73,7 +78,7 @@
 		<key>@MMK_R_d</key>
 		<integer>-21</integer>
 		<key>@MMK_R_n</key>
-		<integer>-21</integer>
+		<integer>0</integer>
 		<key>@MMK_R_u</key>
 		<integer>-29</integer>
 	</dict>
@@ -81,6 +86,8 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>0</integer>
+		<key>@MMK_R_T</key>
+		<integer>-27</integer>
 		<key>@MMK_R_o</key>
 		<integer>-40</integer>
 	</dict>
@@ -217,6 +224,11 @@
 		<key>@MMK_R_x</key>
 		<integer>-10</integer>
 	</dict>
+	<key>@MMK_L_a</key>
+	<dict>
+		<key>@MMK_R_v</key>
+		<integer>-26</integer>
+	</dict>
 	<key>@MMK_L_b</key>
 	<dict>
 		<key>@MMK_R_v</key>
@@ -235,6 +247,8 @@
 	</dict>
 	<key>@MMK_L_e</key>
 	<dict>
+		<key>@MMK_R_s</key>
+		<integer>-8</integer>
 		<key>@MMK_R_x</key>
 		<integer>-3</integer>
 	</dict>
@@ -252,21 +266,26 @@
 	<dict>
 		<key>@MMK_R_b</key>
 		<integer>0</integer>
-		<key>@MMK_R_s</key>
-		<integer>-13</integer>
-		<key>@MMK_R_v</key>
-		<integer>-5</integer>
 		<key>@MMK_R_x</key>
 		<integer>-22</integer>
 	</dict>
+	<key>@MMK_L_quotedbl</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-120</integer>
+		<key>@MMK_R_a</key>
+		<integer>-58</integer>
+	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-22</integer>
 		<key>@MMK_R_d</key>
 		<integer>-39</integer>
 		<key>@MMK_R_o</key>
 		<integer>-33</integer>
 		<key>@MMK_R_s</key>
-		<integer>-12</integer>
+		<integer>-32</integer>
 		<key>@MMK_R_t</key>
 		<integer>20</integer>
 		<key>@MMK_R_v</key>
@@ -299,6 +318,8 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>0</integer>
+		<key>@MMK_R_v</key>
+		<integer>-10</integer>
 	</dict>
 	<key>Y</key>
 	<dict>

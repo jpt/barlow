@@ -9,9 +9,9 @@
 		<key>GSCornerRadius</key>
 		<integer>8</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>30</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
+		<integer>-5</integer>
+		<key>GSOffsetProportional</key>
+		<true/>
 		<key>GSOffsetVertical</key>
 		<integer>30</integer>
 		<key>noodleExtremesAndInflections</key>
@@ -71,6 +71,7 @@
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
+		<string>Oslash</string>
 		<string>Otilde</string>
 		<string>P</string>
 		<string>Q</string>
@@ -126,6 +127,7 @@
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
+		<string>oslash</string>
 		<string>otilde</string>
 		<string>p</string>
 		<string>thorn</string>
@@ -188,7 +190,10 @@
 		<string>hyphen_hyphen.liga</string>
 		<string>space</string>
 		<string>dollar</string>
+		<string>plus</string>
+		<string>equal</string>
 		<string>at</string>
+		<string>ampersand</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>dieresiscomb</string>

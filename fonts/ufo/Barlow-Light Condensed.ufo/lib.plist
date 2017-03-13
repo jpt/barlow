@@ -14,8 +14,10 @@
 		<integer>1</integer>
 		<key>GSOffsetPosition</key>
 		<real>0.2</real>
+		<key>GSOffsetProportional</key>
+		<integer>1</integer>
 		<key>GSOffsetVertical</key>
-		<integer>10</integer>
+		<integer>7</integer>
 		<key>noodleExtremesAndInflections</key>
 		<integer>1</integer>
 		<key>noodleRemoveOverlap</key>
@@ -73,6 +75,7 @@
 		<string>Ocircumflex</string>
 		<string>Odieresis</string>
 		<string>Ograve</string>
+		<string>Oslash</string>
 		<string>Otilde</string>
 		<string>P</string>
 		<string>Q</string>
@@ -128,6 +131,7 @@
 		<string>ocircumflex</string>
 		<string>odieresis</string>
 		<string>ograve</string>
+		<string>oslash</string>
 		<string>otilde</string>
 		<string>p</string>
 		<string>thorn</string>
@@ -190,7 +194,10 @@
 		<string>hyphen_hyphen.liga</string>
 		<string>space</string>
 		<string>dollar</string>
+		<string>plus</string>
+		<string>equal</string>
 		<string>at</string>
+		<string>ampersand</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>dieresiscomb</string>
