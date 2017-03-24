@@ -5,7 +5,7 @@
 
 Barlow is a grotesk typeface that draws from the visual style of the California public -- its highway signs, car plates, busses, and trains. The typeface is named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow, in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence).
 
-Barlow is available as a GX variable font, giving a designer the power to pick their own weights and widths for the font. Included are 54 suggested styles in OTF, TTF, WOFF, and UFO format: a roman and oblique for nine weights and three widths.
+In addition to OTF, TTF, WOFF, and UFO font formats, Barlow is available as a GX variable font. Variable fonts give designers the power to pick their own weights and widths. Included are 54 suggested styles - a roman and oblique for nine weights and three widths.
 
 Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
