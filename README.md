@@ -11,7 +11,7 @@ Barlow is designed by [Jeremy Tribby](https://tribby.com), and released under th
 
 ## Download
 
-[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the font in the `otf` directory. After downloading, a good way to play with it as a web font is on [Pablo Impallari's font testing site](http://www.impallari.com/testing/).
+[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the font in the `fonts/otf` directory. After downloading, a good way to play with it as a web font is on [Pablo Impallari's font testing site](http://www.impallari.com/testing/).
 
 ## Acknowledgements
 
