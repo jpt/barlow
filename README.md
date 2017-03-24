@@ -1,11 +1,13 @@
+
+![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/barlow.gif)
+
 # Barlow
-### *A variable font superfamily available in 54 pre-defined styles.*
 
 Barlow draws from the visual style of the California public -- its highway signs, car plates, busses, and trains. The typeface is named after internet pioneer, EFF co-founder, songwriter, and activist John Perry Barlow, in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence).
 
-Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
+Barlow is available as a GX variable font, giving a designer the power to pick their own weights and widths for the font. Included are 54 suggested styles in OTF, TTF, WOFF, and UFO format: a roman and oblique for nine weights and three widths.
 
-![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/barlow.gif)
+Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
 ## Download
 
