@@ -5,7 +5,7 @@ Barlow draws from the visual style of the California public -- its highway signs
 
 Barlow is a free font, released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
-![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/Screenshot.png)
+![Barlow Screenshot](https://raw.githubusercontent.com/jpt/barlow/master/documentation/barlow.gif)
 
 ## Download
 
