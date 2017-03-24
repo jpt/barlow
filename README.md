@@ -7,7 +7,7 @@ Barlow is a grotesk typeface that draws from the visual style of the California 
 
 In addition to OTF, TTF, WOFF, and UFO font formats, Barlow is available as a GX variable font, giving designers the power to pick their own weights and widths. Included are 54 suggested styles - a roman and oblique for nine weights and three widths.
 
-Barlow is designed by [Jeremy Tribby](https://tribby.com), and released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
+Barlow is designed by [Jeremy Tribby](https://tribby.com) and released under the SIL Open Font License. If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
 ## Download
 
