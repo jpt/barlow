@@ -261,6 +261,10 @@
 	<dict>
 		<key>@MMK_R_x</key>
 		<integer>-15</integer>
+		<key>quoteleft</key>
+		<integer>-40</integer>
+		<key>quoteright</key>
+		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
@@ -268,6 +272,8 @@
 		<integer>0</integer>
 		<key>@MMK_R_x</key>
 		<integer>-22</integer>
+		<key>quoteleft</key>
+		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_quotedbl</key>
 	<dict>
@@ -335,7 +341,7 @@
 		<key>@MMK_R_d</key>
 		<integer>-60</integer>
 		<key>@MMK_R_o</key>
-		<integer>-24</integer>
+		<integer>-33</integer>
 	</dict>
 </dict>
 </plist>
