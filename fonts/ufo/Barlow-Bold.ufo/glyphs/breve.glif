@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve" format="1">
-  <advance width="222"/>
+  <advance width="272"/>
   <unicode hex="02D8"/>
   <outline>
     <contour>
-      <point x="173" y="543"/>
-      <point x="222" y="592"/>
-      <point x="222" y="654" type="curve"/>
-      <point x="147" y="654" type="line"/>
-      <point x="147" y="625"/>
-      <point x="133" y="606"/>
-      <point x="111" y="606" type="curve" smooth="yes"/>
-      <point x="89" y="606"/>
-      <point x="75" y="625"/>
-      <point x="75" y="654" type="curve"/>
-      <point x="0" y="654" type="line"/>
-      <point x="0" y="592"/>
-      <point x="49" y="543"/>
-      <point x="111" y="543" type="curve" smooth="yes"/>
+      <point x="212" y="543"/>
+      <point x="272" y="599"/>
+      <point x="272" y="671" type="curve"/>
+      <point x="177" y="671" type="line"/>
+      <point x="177" y="644"/>
+      <point x="159" y="623"/>
+      <point x="136" y="623" type="curve" smooth="yes"/>
+      <point x="113" y="623"/>
+      <point x="95" y="644"/>
+      <point x="95" y="671" type="curve"/>
+      <point x="0" y="671" type="line"/>
+      <point x="0" y="599"/>
+      <point x="60" y="543"/>
+      <point x="136" y="543" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="111" y="520" type="move" name="_top"/>
+      <point x="136" y="520" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-15 07:37:30 +0000</string>
+      <string>2017-04-01 06:16:48 +0000</string>
     </dict>
   </lib>
 </glyph>

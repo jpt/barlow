@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="1">
-  <advance width="468"/>
+  <advance width="521"/>
   <unicode hex="00F8"/>
   <outline>
     <contour>
-      <point x="53" y="-10" type="line"/>
-      <point x="71" y="-22" type="line"/>
-      <point x="412" y="510" type="line"/>
-      <point x="393" y="522" type="line"/>
+      <point x="81" y="-10" type="line"/>
+      <point x="99" y="-22" type="line"/>
+      <point x="440" y="510" type="line"/>
+      <point x="421" y="522" type="line"/>
     </contour>
-    <component base="o" xOffset="14"/>
+    <component base="o" xOffset="2"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-31 05:06:09 +0000</string>
+      <string>2017-04-25 00:24:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

@@ -1,41 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlautcomb" format="1">
-  <advance width="467"/>
+  <advance width="435"/>
   <unicode hex="030B"/>
   <outline>
-    <component base="acutecomb" xOffset="12" yOffset="8" xScale="0.98"/>
-    <component base="acutecomb" xOffset="210" yOffset="8" xScale="0.98"/>
     <contour>
-      <point x="192" y="520" type="move" name="_top"/>
+      <point x="172" y="569" type="line"/>
+      <point x="233" y="690" type="line"/>
+      <point x="63" y="690" type="line"/>
+      <point x="12" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="569" type="line"/>
+      <point x="423" y="690" type="line"/>
+      <point x="262" y="690" type="line"/>
+      <point x="200" y="569" type="line"/>
+    </contour>
+    <contour>
+      <point x="180" y="520" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-31 09:13:31 +0000</string>
+      <string>2017-04-24 09:09:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=v</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=v</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>acutecomb</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>acutecomb</string>
-        </dict>
-      </array>
     </dict>
   </lib>
 </glyph>
