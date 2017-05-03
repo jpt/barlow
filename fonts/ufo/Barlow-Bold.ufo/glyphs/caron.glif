@@ -1,25 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="1">
-  <advance width="355"/>
+  <advance width="379"/>
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="79" y="565" type="line"/>
-      <point x="273" y="565" type="line"/>
-      <point x="355" y="694" type="line"/>
-      <point x="213" y="694" type="line"/>
-      <point x="178" y="632" type="line"/>
-      <point x="143" y="694" type="line"/>
-      <point x="0" y="694" type="line"/>
+      <point x="91" y="565" type="line"/>
+      <point x="285" y="565" type="line"/>
+      <point x="367" y="694" type="line"/>
+      <point x="225" y="694" type="line"/>
+      <point x="190" y="632" type="line"/>
+      <point x="155" y="694" type="line"/>
+      <point x="12" y="694" type="line"/>
     </contour>
     <contour>
-      <point x="178" y="520" type="move" name="_top"/>
+      <point x="190" y="520" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-01 06:13:54 +0000</string>
+      <string>2017-05-01 09:08:40 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=v</string>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="485"/>
+  <advance width="486"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="459" y="0" type="line"/>
-      <point x="459" y="700" type="line"/>
-      <point x="271" y="700" type="line"/>
-      <point x="271" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="700" type="line"/>
+      <point x="272" y="700" type="line"/>
+      <point x="272" y="0" type="line"/>
     </contour>
     <contour>
       <point x="214" y="0" type="line"/>
@@ -16,16 +16,19 @@
       <point x="26" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="361" y="270" type="line"/>
-      <point x="361" y="431" type="line"/>
-      <point x="126" y="431" type="line"/>
-      <point x="126" y="270" type="line"/>
+      <point x="362" y="270" type="line"/>
+      <point x="362" y="431" type="line"/>
+      <point x="127" y="431" type="line"/>
+      <point x="127" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="507" type="move" name="strokelong"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-25 01:44:00 +0000</string>
+      <string>2017-05-03 02:02:54 +0000</string>
     </dict>
   </lib>
 </glyph>

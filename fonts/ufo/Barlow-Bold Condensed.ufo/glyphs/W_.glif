@@ -18,13 +18,16 @@
       <point x="12" y="700" type="line"/>
       <point x="154" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="355" y="700" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-25 02:12:14 +0000</string>
+      <string>2017-05-02 09:02:39 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

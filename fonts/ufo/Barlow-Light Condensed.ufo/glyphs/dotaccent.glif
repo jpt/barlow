@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="600"/>
+  <advance width="108"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="dotaccentcomb"/>
+    <component base="dotaccentcomb" xOffset="28"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-15 07:37:14 +0000</string>
+      <string>2017-05-01 09:08:40 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=v</string>
     </dict>
   </lib>
 </glyph>

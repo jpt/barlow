@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ring" format="1">
-  <advance width="222"/>
+  <advance width="250"/>
   <unicode hex="02DA"/>
   <outline>
-    <component base="ringcomb"/>
+    <component base="ringcomb" xOffset="8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-15 07:37:14 +0000</string>
+      <string>2017-05-01 09:08:40 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=v</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=v</string>
     </dict>
   </lib>
 </glyph>
