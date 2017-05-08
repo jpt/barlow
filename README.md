@@ -15,7 +15,7 @@ Barlow is designed by [Jeremy Tribby](https://tribby.com) and released under the
 
 ## Acknowledgements
 
-Thank you Lukas Schneider of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade for noticing all the little things. (Damn you, Hugh D'Andrade, for noticing all the little things).
+Thank you Lukas Schneider (@lukas____s) of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade (@hughillustration) for holding me to a high standard from the start.
 
 And thank you, Barlow, most of all, for a legacy that will carry our future into a brighter place. 
 
