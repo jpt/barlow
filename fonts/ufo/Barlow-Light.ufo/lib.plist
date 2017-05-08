@@ -9,11 +9,9 @@
 		<key>GSCornerRadius</key>
 		<integer>12</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>11</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
+		<integer>90</integer>
 		<key>GSOffsetVertical</key>
-		<integer>10</integer>
+		<integer>90</integer>
 		<key>noodleExtremesAndInflections</key>
 		<integer>1</integer>
 		<key>noodleRemoveOverlap</key>
@@ -68,6 +66,7 @@
 		<string>Icircumflex</string>
 		<string>Idieresis</string>
 		<string>Igrave</string>
+		<string>Imacron</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
@@ -101,6 +100,7 @@
 		<string>Ugrave</string>
 		<string>Uhungarumlaut</string>
 		<string>Umacron</string>
+		<string>Uring</string>
 		<string>V</string>
 		<string>W</string>
 		<string>Wacute</string>
@@ -153,6 +153,7 @@
 		<string>icircumflex</string>
 		<string>idieresis</string>
 		<string>igrave</string>
+		<string>imacron</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
@@ -187,6 +188,7 @@
 		<string>ugrave</string>
 		<string>uhungarumlaut</string>
 		<string>umacron</string>
+		<string>uring</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -216,6 +218,34 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.dnom</string>
+		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
+		<string>zero.numr</string>
+		<string>one.numr</string>
+		<string>two.numr</string>
+		<string>three.numr</string>
+		<string>four.numr</string>
+		<string>five.numr</string>
+		<string>six.numr</string>
+		<string>seven.numr</string>
+		<string>eight.numr</string>
+		<string>nine.numr</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>periodcentered</string>
@@ -243,6 +273,11 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
@@ -251,11 +286,14 @@
 		<string>quotesinglbase</string>
 		<string>hyphen_hyphen.liga</string>
 		<string>space</string>
+		<string>CR</string>
 		<string>cent</string>
+		<string>currency</string>
 		<string>dollar</string>
 		<string>euro</string>
 		<string>sterling</string>
 		<string>yen</string>
+		<string>divisionslash</string>
 		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
@@ -266,17 +304,19 @@
 		<string>less</string>
 		<string>plusminus</string>
 		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>micro</string>
 		<string>percent</string>
 		<string>at</string>
 		<string>ampersand</string>
+		<string>paragraph</string>
 		<string>copyright</string>
 		<string>registered</string>
+		<string>degree</string>
 		<string>bar</string>
+		<string>brokenbar</string>
 		<string>asciicircum</string>
 		<string>at.alt</string>
-		<string>strokeshortcomb</string>
-		<string>strokelongcomb</string>
-		<string>slashlongcomb</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
@@ -286,6 +326,9 @@
 		<string>ringcomb</string>
 		<string>tildecomb</string>
 		<string>cedillacomb</string>
+		<string>strokeshortcomb</string>
+		<string>strokelongcomb</string>
+		<string>slashlongcomb</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>

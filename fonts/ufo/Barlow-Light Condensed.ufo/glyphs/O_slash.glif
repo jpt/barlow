@@ -3,22 +3,13 @@
   <advance width="412"/>
   <unicode hex="00D8"/>
   <outline>
-    <contour>
-      <point x="44" y="-21" type="line"/>
-      <point x="64" y="-30" type="line"/>
-      <point x="365" y="730" type="line"/>
-      <point x="345" y="739" type="line"/>
-    </contour>
-    <component base="O" xOffset="-16"/>
+    <component base="O"/>
+    <component base="slashlongcomb" xOffset="43"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-25 02:48:53 +0000</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
+      <string>2017-05-07 11:18:05 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -139,8 +139,12 @@
 	<dict>
 		<key>@MMK_R_H</key>
 		<integer>-10</integer>
+		<key>@MMK_R_T</key>
+		<integer>-20</integer>
 		<key>@MMK_R_V</key>
 		<integer>-2</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-14</integer>
 		<key>@MMK_R_comma</key>
 		<integer>-10</integer>
 		<key>X</key>
@@ -356,6 +360,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>-8</integer>
+		<key>@MMK_R_v</key>
+		<integer>20</integer>
 	</dict>
 	<key>E</key>
 	<dict>
@@ -410,11 +416,18 @@
 	</dict>
 	<key>f</key>
 	<dict>
+		<key>@MMK_R_d</key>
+		<integer>-20</integer>
 		<key>@MMK_R_quotedbl</key>
 		<integer>10</integer>
 		<key>quotedblright</key>
 		<integer>30</integer>
 		<key>quoteright</key>
+		<integer>20</integer>
+	</dict>
+	<key>one.numr</key>
+	<dict>
+		<key>fraction</key>
 		<integer>20</integer>
 	</dict>
 	<key>questiondown</key>
@@ -477,6 +490,11 @@
 	<dict>
 		<key>@MMK_R_comma</key>
 		<integer>-60</integer>
+	</dict>
+	<key>seven.numr</key>
+	<dict>
+		<key>fraction</key>
+		<integer>-48</integer>
 	</dict>
 	<key>slash</key>
 	<dict>

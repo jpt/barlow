@@ -175,6 +175,8 @@
 	</dict>
 	<key>@MMK_L_S</key>
 	<dict>
+		<key>@MMK_R_T</key>
+		<integer>0</integer>
 		<key>@MMK_R_V</key>
 		<integer>-29</integer>
 		<key>@MMK_R_Y</key>
@@ -412,6 +414,10 @@
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
+		<key>@MMK_R_v</key>
+		<integer>0</integer>
+		<key>@MMK_R_z</key>
+		<integer>10</integer>
 		<key>quoteright</key>
 		<integer>40</integer>
 	</dict>
@@ -427,6 +433,15 @@
 		<integer>-19</integer>
 		<key>quoteright</key>
 		<integer>-40</integer>
+	</dict>
+	<key>@MMK_L_slash</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-70</integer>
+		<key>plus</key>
+		<integer>-90</integer>
+		<key>two</key>
+		<integer>-11</integer>
 	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
@@ -515,6 +530,16 @@
 		<key>@MMK_R_quotedbl</key>
 		<integer>-50</integer>
 	</dict>
+	<key>one.numr</key>
+	<dict>
+		<key>fraction</key>
+		<integer>30</integer>
+	</dict>
+	<key>plus</key>
+	<dict>
+		<key>@MMK_R_slash</key>
+		<integer>-50</integer>
+	</dict>
 	<key>question</key>
 	<dict>
 		<key>quotedblright</key>
@@ -581,6 +606,11 @@
 		<key>@MMK_R_comma</key>
 		<integer>-80</integer>
 	</dict>
+	<key>seven.numr</key>
+	<dict>
+		<key>fraction</key>
+		<integer>-33</integer>
+	</dict>
 	<key>slash</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -596,7 +626,7 @@
 		<key>@MMK_R_n</key>
 		<integer>-40</integer>
 		<key>@MMK_R_o</key>
-		<integer>-89</integer>
+		<integer>-79</integer>
 		<key>@MMK_R_s</key>
 		<integer>-70</integer>
 		<key>@MMK_R_t</key>
@@ -608,6 +638,11 @@
 	<dict>
 		<key>three</key>
 		<integer>-20</integer>
+	</dict>
+	<key>two.dnom</key>
+	<dict>
+		<key>three.dnom</key>
+		<integer>-12</integer>
 	</dict>
 	<key>x</key>
 	<dict>
