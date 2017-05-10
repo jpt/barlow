@@ -36553,12 +36553,13 @@ unicode = 0020;
 },
 {
 glyphname = cent;
-lastChange = "2017-05-08 14:18:36 +0000";
+lastChange = "2017-05-10 08:52:29 +0000";
 layers = (
 {
 components = (
 {
 name = c;
+transform = "{1, 0, 0, 1, 0, 90}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -36566,19 +36567,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"264 500 LINE",
 "264 590 LINE",
-"242 590 LINE",
-"242 500 LINE"
+"264 680 LINE",
+"242 680 LINE",
+"242 590 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"264 -90 LINE",
 "264 0 LINE",
-"242 0 LINE",
-"242 -90 LINE"
+"264 90 LINE",
+"242 90 LINE",
+"242 0 LINE"
 );
 }
 );
@@ -36588,6 +36589,7 @@ width = 508;
 components = (
 {
 name = c;
+transform = "{1, 0, 0, 1, 0, 90}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -36595,19 +36597,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"348 487 LINE",
-"355 608 LINE",
-"198 608 LINE",
-"205 487 LINE"
+"348 577 LINE",
+"355 698 LINE",
+"198 698 LINE",
+"205 577 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"355 -88 LINE",
-"348 33 LINE",
-"205 33 LINE",
-"198 -88 LINE"
+"355 2 LINE",
+"348 123 LINE",
+"205 123 LINE",
+"198 2 LINE"
 );
 }
 );
@@ -36617,6 +36619,7 @@ width = 555;
 components = (
 {
 name = c;
+transform = "{1, 0, 0, 1, 0, 90}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -36624,19 +36627,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"208 500 LINE",
 "208 590 LINE",
-"186 590 LINE",
-"186 500 LINE"
+"208 680 LINE",
+"186 680 LINE",
+"186 590 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"208 -90 LINE",
 "208 0 LINE",
-"186 0 LINE",
-"186 -90 LINE"
+"208 90 LINE",
+"186 90 LINE",
+"186 0 LINE"
 );
 }
 );
@@ -36646,6 +36649,7 @@ width = 388;
 components = (
 {
 name = c;
+transform = "{1, 0, 0, 1, 0, 90}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -36653,19 +36657,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"300 487 LINE",
-"307 608 LINE",
-"150 608 LINE",
-"157 487 LINE"
+"300 577 LINE",
+"307 698 LINE",
+"150 698 LINE",
+"157 577 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"307 -88 LINE",
-"300 33 LINE",
-"157 33 LINE",
-"150 -88 LINE"
+"307 2 LINE",
+"300 123 LINE",
+"157 123 LINE",
+"150 2 LINE"
 );
 }
 );
