@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="1">
-  <advance width="442"/>
+  <advance width="436"/>
   <unicode hex="003D"/>
   <outline>
-    <contour>
-      <point x="424" y="320" type="line"/>
-      <point x="424" y="460" type="line"/>
-      <point x="18" y="460" type="line"/>
-      <point x="18" y="320" type="line"/>
-    </contour>
-    <contour>
-      <point x="424" y="150" type="line"/>
-      <point x="424" y="290" type="line"/>
-      <point x="18" y="290" type="line"/>
-      <point x="18" y="150" type="line"/>
-    </contour>
+    <component base="minus" yOffset="86"/>
+    <component base="minus" yOffset="-84"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-08 14:18:36 +0000</string>
+      <string>2017-05-11 10:42:58 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=hyphen</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

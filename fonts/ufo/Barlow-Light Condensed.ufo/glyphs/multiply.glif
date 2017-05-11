@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="1">
-  <advance width="433"/>
+  <advance width="350"/>
   <unicode hex="00D7"/>
   <outline>
-    <contour>
-      <point x="379" y="500" type="line"/>
-      <point x="217" y="327" type="line"/>
-      <point x="54" y="500" type="line"/>
-      <point x="38" y="486" type="line"/>
-      <point x="202" y="312" type="line"/>
-      <point x="38" y="138" type="line"/>
-      <point x="54" y="124" type="line"/>
-      <point x="217" y="297" type="line"/>
-      <point x="379" y="124" type="line"/>
-      <point x="395" y="138" type="line"/>
-      <point x="231" y="312" type="line"/>
-      <point x="395" y="486" type="line"/>
-    </contour>
+    <component base="plus" xOffset="247" yOffset="-74" xScale="0.707" yScale="0.707" xyScale="0.707" yxScale="-0.707"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-08 14:18:36 +0000</string>
+      <string>2017-05-11 10:42:58 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=equal</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
