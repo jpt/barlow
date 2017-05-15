@@ -7,7 +7,7 @@ Barlow is a low-contrast, slightly rounded grotesk type family designed by [Jere
 
 ## Download
 
-[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the font in the `fonts/otf` directory. After downloading, a good way to play with it as a web font is on [Pablo Impallari's font testing site](http://www.impallari.com/testing/).
+[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the OpenType font files in the `fonts/otf` directory. A good way to play with it as a web font (`fonts/woff`) is on [Pablo Impallari's font testing site](http://www.impallari.com/testing/).
 
 ## Acknowledgements
 
