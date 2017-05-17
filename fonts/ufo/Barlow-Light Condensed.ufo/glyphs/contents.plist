@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>.notdef</key>
+	<string>_notdef.glif</string>
+	<key>.null</key>
+	<string>_null.glif</string>
 	<key>A</key>
 	<string>A_.glif</string>
 	<key>AE</key>
@@ -26,6 +30,8 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
+	<key>CR</key>
+	<string>C_R_.glif</string>
 	<key>Cacute</key>
 	<string>C_acute.glif</string>
 	<key>Ccaron</key>
@@ -190,6 +196,8 @@
 	<string>adieresis.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>ae.alt</key>
+	<string>ae.alt.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>amacron</key>
@@ -326,6 +334,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.dnom</key>
@@ -334,6 +344,8 @@
 	<string>five.numr.glif</string>
 	<key>fiveeighths</key>
 	<string>fiveeighths.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
@@ -432,6 +444,8 @@
 	<string>nine.dnom.glif</string>
 	<key>nine.numr</key>
 	<string>nine.numr.glif</string>
+	<key>nonmarkingreturn</key>
+	<string>nonmarkingreturn.glif</string>
 	<key>notequal</key>
 	<string>notequal.glif</string>
 	<key>ntilde</key>

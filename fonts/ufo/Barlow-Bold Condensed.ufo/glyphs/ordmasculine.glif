@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="303"/>
+  <advance width="306"/>
   <unicode hex="00BA"/>
   <outline>
     <contour>
@@ -55,11 +55,16 @@
       <point x="163" y="566"/>
       <point x="152" y="566" type="curve" smooth="yes"/>
     </contour>
+    <component base="minus" xOffset="-4" yOffset="244" xScale="0.72" yScale="0.5"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-09 11:52:49 +0000</string>
+      <string>2017-05-17 02:29:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=o/2</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=o/2</string>
     </dict>
   </lib>
 </glyph>
