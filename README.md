@@ -3,7 +3,9 @@
 
 # Barlow
 
-Barlow is a slightly rounded grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's low-contrast, DIN-like car plates and highway signs, and the neue grotesk typefaces on its busses and trains. The family includes 54 styles in three widths and nine weights, suitable for digital and print use at text and display sizes. Customizable weights and widths are available via variable font (GX). Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow), in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence). If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/). Barlow is a perpetually free and libre font.
+Barlow is a slightly rounded grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's low-contrast car plates, highway signs, busses, and trains. The family includes 54 styles in three widths and nine weights, suitable for digital and print use at text and display sizes. Customizable weights and widths are available via the packaged variable font (GX).
+
+Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow), in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence). If you'd like to make a donation, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/). Barlow is a perpetually free and libre font.
 
 ## Download
 
