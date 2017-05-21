@@ -9,13 +9,9 @@
 		<key>GSCornerRadius</key>
 		<integer>8</integer>
 		<key>GSOffsetHorizontal</key>
-		<integer>70</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
-		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<integer>50</integer>
 		<key>GSOffsetVertical</key>
-		<integer>40</integer>
+		<integer>50</integer>
 		<key>noodleExtremesAndInflections</key>
 		<integer>1</integer>
 		<key>noodleRemoveOverlap</key>
@@ -97,6 +93,7 @@
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
+		<string>Scedilla</string>
 		<string>T</string>
 		<string>U</string>
 		<string>Uacute</string>
@@ -139,6 +136,7 @@
 		<string>ccedilla</string>
 		<string>d</string>
 		<string>eth</string>
+		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
@@ -185,6 +183,7 @@
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
+		<string>scedilla</string>
 		<string>germandbls</string>
 		<string>t</string>
 		<string>u</string>
@@ -222,6 +221,7 @@
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>mu</string>
+		<string>pi</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -304,6 +304,7 @@
 		<string>quotesinglbase</string>
 		<string>hyphen_hyphen.liga</string>
 		<string>space</string>
+		<string>nonbreakingspace</string>
 		<string>CR</string>
 		<string>.notdef</string>
 		<string>.null</string>
@@ -326,10 +327,13 @@
 		<string>greaterequal</string>
 		<string>lessequal</string>
 		<string>plusminus</string>
+		<string>approxequal</string>
 		<string>asciitilde</string>
 		<string>logicalnot</string>
+		<string>infinity</string>
 		<string>micro</string>
 		<string>percent</string>
+		<string>perthousand</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>

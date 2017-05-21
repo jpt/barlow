@@ -420,6 +420,11 @@
 		<key>quoteright</key>
 		<integer>20</integer>
 	</dict>
+	<key>fraction</key>
+	<dict>
+		<key>zero.dnom</key>
+		<integer>-8</integer>
+	</dict>
 	<key>one.numr</key>
 	<dict>
 		<key>fraction</key>
@@ -537,6 +542,11 @@
 	<dict>
 		<key>slash</key>
 		<integer>20</integer>
+	</dict>
+	<key>zero.numr</key>
+	<dict>
+		<key>fraction</key>
+		<integer>-10</integer>
 	</dict>
 </dict>
 </plist>
