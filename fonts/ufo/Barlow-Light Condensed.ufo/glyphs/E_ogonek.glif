@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="fl" format="1">
-  <advance width="424"/>
-  <unicode hex="FB02"/>
+<glyph name="Eogonek" format="1">
+  <advance width="423"/>
+  <unicode hex="0118"/>
   <outline>
-    <component base="f"/>
-    <component base="l" xOffset="262"/>
+    <component base="E"/>
+    <component base="ogonek" xOffset="181"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-16 00:08:17 +0000</string>
+      <string>2017-05-23 01:22:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>f</string>
+      <string>=E</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>l</string>
+      <string>=E</string>
     </dict>
   </lib>
 </glyph>

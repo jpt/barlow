@@ -22,6 +22,8 @@
 	<string>A_grave.glif</string>
 	<key>Amacron</key>
 	<string>A_macron.glif</string>
+	<key>Aogonek</key>
+	<string>A_ogonek.glif</string>
 	<key>Aring</key>
 	<string>A_ring.glif</string>
 	<key>Atilde</key>
@@ -56,6 +58,8 @@
 	<string>E_grave.glif</string>
 	<key>Emacron</key>
 	<string>E_macron.glif</string>
+	<key>Eogonek</key>
+	<string>E_ogonek.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
 	<key>F</key>
@@ -68,12 +72,16 @@
 	<string>H_bar.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
+	<key>I_J.liga</key>
+	<string>I__J_.liga.glif</string>
 	<key>Iacute</key>
 	<string>I_acute.glif</string>
 	<key>Icircumflex</key>
 	<string>I_circumflex.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
+	<key>Idotaccent</key>
+	<string>I_dotaccent.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Imacron</key>
@@ -206,6 +214,8 @@
 	<string>amacron.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
+	<key>aogonek</key>
+	<string>aogonek.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
@@ -256,8 +266,12 @@
 	<string>ccedilla.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
+	<key>cedilla.alt</key>
+	<string>cedilla.alt.glif</string>
 	<key>cedillacomb</key>
 	<string>cedillacomb.glif</string>
+	<key>cedillacomb.alt</key>
+	<string>cedillacomb.alt.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>circumflex</key>
@@ -340,8 +354,10 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>fi</key>
-	<string>fi.glif</string>
+	<key>f_i.liga</key>
+	<string>f_i.liga.glif</string>
+	<key>f_l.liga</key>
+	<string>f_l.liga.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>five.dnom</key>
@@ -350,8 +366,6 @@
 	<string>five.numr.glif</string>
 	<key>fiveeighths</key>
 	<string>fiveeighths.glif</string>
-	<key>fl</key>
-	<string>fl.glif</string>
 	<key>florin</key>
 	<string>florin.glif</string>
 	<key>four</key>
@@ -400,12 +414,16 @@
 	<string>hyphen_hyphen.liga.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
+	<key>i_j.liga</key>
+	<string>i_j.liga.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idotaccent</key>
+	<string>idotaccent.glif</string>
 	<key>idotless</key>
 	<string>idotless.glif</string>
 	<key>igrave</key>

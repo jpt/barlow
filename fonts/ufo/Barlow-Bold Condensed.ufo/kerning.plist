@@ -40,7 +40,7 @@
 	<key>@MMK_L_B</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<integer>-2</integer>
+		<integer>-16</integer>
 		<key>@MMK_R_V</key>
 		<integer>-30</integer>
 		<key>@MMK_R_Y</key>
@@ -101,6 +101,8 @@
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
+		<key>@MMK_R_O</key>
+		<integer>-5</integer>
 		<key>@MMK_R_T</key>
 		<integer>-80</integer>
 		<key>@MMK_R_Y</key>
@@ -420,10 +422,25 @@
 		<key>quoteright</key>
 		<integer>20</integer>
 	</dict>
+	<key>four</key>
+	<dict>
+		<key>one</key>
+		<integer>-9</integer>
+	</dict>
 	<key>fraction</key>
 	<dict>
 		<key>zero.dnom</key>
 		<integer>-8</integer>
+	</dict>
+	<key>i</key>
+	<dict>
+		<key>@MMK_R_j</key>
+		<integer>-10</integer>
+	</dict>
+	<key>one</key>
+	<dict>
+		<key>two</key>
+		<integer>5</integer>
 	</dict>
 	<key>one.numr</key>
 	<dict>

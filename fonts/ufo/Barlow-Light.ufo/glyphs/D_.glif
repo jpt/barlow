@@ -1,37 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="598"/>
+  <advance width="618"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="307" y="0" type="line" smooth="yes"/>
-      <point x="426" y="0"/>
-      <point x="499" y="68"/>
-      <point x="499" y="180" type="curve" smooth="yes"/>
-      <point x="499" y="520" type="line" smooth="yes"/>
-      <point x="499" y="632"/>
-      <point x="426" y="700"/>
-      <point x="307" y="700" type="curve" smooth="yes"/>
+      <point x="327" y="0" type="line" smooth="yes"/>
+      <point x="446" y="0"/>
+      <point x="519" y="68"/>
+      <point x="519" y="180" type="curve" smooth="yes"/>
+      <point x="519" y="520" type="line" smooth="yes"/>
+      <point x="519" y="632"/>
+      <point x="446" y="700"/>
+      <point x="327" y="700" type="curve" smooth="yes"/>
       <point x="117" y="700" type="line"/>
       <point x="117" y="0" type="line"/>
     </contour>
     <contour>
       <point x="139" y="679" type="line"/>
-      <point x="309" y="679" type="line" smooth="yes"/>
-      <point x="413" y="679"/>
-      <point x="477" y="619"/>
-      <point x="477" y="520" type="curve" smooth="yes"/>
-      <point x="477" y="179" type="line" smooth="yes"/>
-      <point x="477" y="81"/>
-      <point x="413" y="21"/>
-      <point x="309" y="21" type="curve" smooth="yes"/>
+      <point x="329" y="679" type="line" smooth="yes"/>
+      <point x="433" y="679"/>
+      <point x="497" y="619"/>
+      <point x="497" y="520" type="curve" smooth="yes"/>
+      <point x="497" y="179" type="line" smooth="yes"/>
+      <point x="497" y="81"/>
+      <point x="433" y="21"/>
+      <point x="329" y="21" type="curve" smooth="yes"/>
       <point x="139" y="21" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="705" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-13 13:14:52 +0000</string>
+      <string>2017-05-23 00:54:46 +0000</string>
     </dict>
   </lib>
 </glyph>
