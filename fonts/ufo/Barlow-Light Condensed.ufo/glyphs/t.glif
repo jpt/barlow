@@ -23,11 +23,17 @@
       <point x="35" y="500" type="line"/>
       <point x="35" y="479" type="line"/>
     </contour>
+    <contour>
+      <point x="103" y="625" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="150" y="18" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-17 08:13:18 +0000</string>
+      <string>2017-05-23 09:25:41 +0000</string>
     </dict>
   </lib>
 </glyph>

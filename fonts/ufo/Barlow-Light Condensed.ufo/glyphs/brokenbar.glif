@@ -4,22 +4,22 @@
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="46" y="285" type="line"/>
-      <point x="46" y="-80" type="line"/>
-      <point x="68" y="-80" type="line"/>
-      <point x="68" y="285" type="line"/>
-    </contour>
-    <contour>
       <point x="68" y="385" type="line"/>
       <point x="68" y="760" type="line"/>
       <point x="46" y="760" type="line"/>
       <point x="46" y="385" type="line"/>
     </contour>
+    <contour>
+      <point x="68" y="-80" type="line"/>
+      <point x="68" y="285" type="line"/>
+      <point x="46" y="285" type="line"/>
+      <point x="46" y="-80" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-08 14:18:36 +0000</string>
+      <string>2017-05-23 09:56:41 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=bar</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

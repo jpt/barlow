@@ -53,11 +53,15 @@
 		<string>Cacute</string>
 		<string>Ccaron</string>
 		<string>Ccedilla</string>
+		<string>Cdotaccent</string>
 		<string>D</string>
 		<string>Eth</string>
+		<string>Dcaron</string>
+		<string>Dcroat</string>
 		<string>E</string>
 		<string>Eacute</string>
 		<string>Ecaron</string>
+		<string>Ecedilla</string>
 		<string>Ecircumflex</string>
 		<string>Edieresis</string>
 		<string>Edotaccent</string>
@@ -66,6 +70,8 @@
 		<string>Eogonek</string>
 		<string>F</string>
 		<string>G</string>
+		<string>Gbreve</string>
+		<string>Gdotaccent</string>
 		<string>H</string>
 		<string>Hbar</string>
 		<string>I</string>
@@ -75,6 +81,7 @@
 		<string>Idotaccent</string>
 		<string>Igrave</string>
 		<string>Imacron</string>
+		<string>Iogonek</string>
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
@@ -97,11 +104,14 @@
 		<string>Thorn</string>
 		<string>Q</string>
 		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>T</string>
+		<string>Tcaron</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
@@ -109,6 +119,7 @@
 		<string>Ugrave</string>
 		<string>Uhungarumlaut</string>
 		<string>Umacron</string>
+		<string>Uogonek</string>
 		<string>Uring</string>
 		<string>V</string>
 		<string>W</string>
@@ -126,6 +137,17 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>uni0122</string>
+		<string>uni0136</string>
+		<string>uni0145</string>
+		<string>uni0156</string>
+		<string>uni0162</string>
+		<string>uni0218</string>
+		<string>uni021A</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+		<string>Lslash</string>
+		<string>uni013B</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -142,12 +164,15 @@
 		<string>cacute</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
+		<string>cdotaccent</string>
 		<string>d</string>
 		<string>eth</string>
+		<string>dcaron</string>
 		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
+		<string>ecedilla</string>
 		<string>ecircumflex</string>
 		<string>edieresis</string>
 		<string>edotaccent</string>
@@ -157,6 +182,7 @@
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
+		<string>gdotaccent</string>
 		<string>h</string>
 		<string>hbar</string>
 		<string>i</string>
@@ -166,10 +192,14 @@
 		<string>idieresis</string>
 		<string>idotaccent</string>
 		<string>igrave</string>
+		<string>ij</string>
 		<string>imacron</string>
+		<string>iogonek</string>
 		<string>j</string>
 		<string>k</string>
 		<string>l</string>
+		<string>lacute</string>
+		<string>lcaron</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
@@ -189,12 +219,15 @@
 		<string>thorn</string>
 		<string>q</string>
 		<string>r</string>
+		<string>racute</string>
+		<string>rcaron</string>
 		<string>s</string>
 		<string>sacute</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>germandbls</string>
 		<string>t</string>
+		<string>tcaron</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
@@ -202,6 +235,15 @@
 		<string>ugrave</string>
 		<string>uhungarumlaut</string>
 		<string>umacron</string>
+		<string>uni0123</string>
+		<string>uni0137</string>
+		<string>uni013C</string>
+		<string>uni0146</string>
+		<string>uni0157</string>
+		<string>uni0163</string>
+		<string>uni0219</string>
+		<string>uni021B</string>
+		<string>uogonek</string>
 		<string>uring</string>
 		<string>v</string>
 		<string>w</string>
@@ -223,14 +265,19 @@
 		<string>ae.alt</string>
 		<string>e.alt</string>
 		<string>oe.alt</string>
+		<string>lslash</string>
 		<string>b.bowl</string>
 		<string>n.curve</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>I_J.liga</string>
 		<string>f_i.liga</string>
 		<string>f_l.liga</string>
 		<string>i_j.liga</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
+		<string>Delta</string>
+		<string>Omega</string>
 		<string>mu</string>
 		<string>pi</string>
 		<string>zero</string>
@@ -324,8 +371,12 @@
 		<string>dollar</string>
 		<string>euro</string>
 		<string>florin</string>
+		<string>franc</string>
 		<string>sterling</string>
 		<string>yen</string>
+		<string>uni20BA</string>
+		<string>uni20BD</string>
+		<string>bulletoperator</string>
 		<string>divisionslash</string>
 		<string>plus</string>
 		<string>minus</string>
@@ -342,9 +393,17 @@
 		<string>asciitilde</string>
 		<string>logicalnot</string>
 		<string>infinity</string>
+		<string>integral</string>
+		<string>uni2126</string>
+		<string>increment</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
 		<string>micro</string>
+		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
+		<string>lozenge</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
@@ -359,19 +418,27 @@
 		<string>daggerdbl</string>
 		<string>asciicircum</string>
 		<string>at.alt</string>
+		<string>uni2113</string>
+		<string>estimated</string>
+		<string>caroncomb</string>
+		<string>commaaccentcomb</string>
+		<string>ogonekcomb</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
 		<string>acutecomb</string>
 		<string>hungarumlautcomb</string>
 		<string>circumflexcomb</string>
+		<string>brevecomb</string>
 		<string>ringcomb</string>
 		<string>tildecomb</string>
+		<string>macroncomb</string>
 		<string>cedillacomb</string>
 		<string>strokeshortcomb</string>
 		<string>strokelongcomb</string>
 		<string>slashlongcomb</string>
 		<string>cedillacomb.alt</string>
+		<string>firsttonechinese</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>

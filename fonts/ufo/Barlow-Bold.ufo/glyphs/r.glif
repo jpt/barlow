@@ -4,6 +4,12 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="221" y="520" type="line"/>
+      <point x="33" y="520" type="line"/>
+      <point x="33" y="0" type="line"/>
+    </contour>
+    <contour>
       <point x="221" y="273" type="line"/>
       <point x="221" y="307"/>
       <point x="255" y="326"/>
@@ -20,10 +26,10 @@
       <point x="173" y="273" type="curve"/>
     </contour>
     <contour>
-      <point x="221" y="1" type="line"/>
-      <point x="221" y="520" type="line"/>
-      <point x="33" y="520" type="line"/>
-      <point x="33" y="1" type="line"/>
+      <point x="213" y="521" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +37,7 @@
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-16 12:28:33 +0000</string>
+      <string>2017-05-23 10:13:58 +0000</string>
       <key>public.markColor</key>
       <string>0.97,1,0,1</string>
     </dict>

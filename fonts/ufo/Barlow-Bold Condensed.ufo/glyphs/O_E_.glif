@@ -36,6 +36,12 @@
       <point x="242" y="153" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="584" y="270" type="line"/>
+      <point x="584" y="431" type="line"/>
+      <point x="352" y="431" type="line"/>
+      <point x="352" y="270" type="line"/>
+    </contour>
+    <contour>
       <point x="676" y="0" type="line"/>
       <point x="676" y="161" type="line"/>
       <point x="464" y="161" type="line"/>
@@ -46,19 +52,13 @@
       <point x="276" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="584" y="270" type="line"/>
-      <point x="584" y="431" type="line"/>
-      <point x="352" y="431" type="line"/>
-      <point x="352" y="270" type="line"/>
-    </contour>
-    <contour>
       <point x="362" y="700" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-23 01:22:52 +0000</string>
+      <string>2017-05-23 10:16:14 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=O</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
