@@ -1,8 +1,5 @@
 {
 .appVersion = "983";
-DisplayStrings = (
-weary
-);
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -12310,7 +12307,7 @@ unicode = 00E3;
 },
 {
 glyphname = ae;
-lastChange = "2017-05-25 15:58:50 +0000";
+lastChange = "2017-05-25 17:13:26 +0000";
 layers = (
 {
 hints = (
@@ -12464,8 +12461,8 @@ nodes = (
 "524 -8 OFFCURVE",
 "605 -8 CURVE SMOOTH",
 "730 -8 OFFCURVE",
-"828 60 OFFCURVE",
-"850 172 CURVE",
+"827 56 OFFCURVE",
+"848 165 CURVE",
 "660 183 LINE",
 "654 166 OFFCURVE",
 "637 153 OFFCURVE",
@@ -14622,7 +14619,7 @@ unicode = 0111;
 {
 color = 3;
 glyphname = e;
-lastChange = "2017-05-25 15:46:16 +0000";
+lastChange = "2017-05-25 17:43:51 +0000";
 layers = (
 {
 anchors = (
@@ -14748,11 +14745,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"398 -8 OFFCURVE",
-"501 62 OFFCURVE",
-"523 172 CURVE",
-"333 183 LINE",
-"327 166 OFFCURVE",
+"394 -8 OFFCURVE",
+"492 49 OFFCURVE",
+"522 178 CURVE",
+"337 195 LINE",
+"325 173 OFFCURVE",
 "310 153 OFFCURVE",
 "282 153 CURVE SMOOTH",
 "258 153 OFFCURVE",
@@ -14773,11 +14770,11 @@ nodes = (
 "336 320 OFFCURVE",
 "342 295 OFFCURVE",
 "342 262 CURVE",
-"410 312 LINE",
-"164 312 LINE",
-"164 223 LINE",
-"531 223 LINE",
-"531 287 OFFCURVE",
+"410 303 LINE",
+"164 303 LINE",
+"164 217 LINE",
+"531 217 LINE",
+"531 281 OFFCURVE",
 "535 317 OFFCURVE",
 "512 376 CURVE SMOOTH",
 "472 477 OFFCURVE",
@@ -16081,6 +16078,99 @@ nodes = (
 }
 );
 width = 503;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{286, -9}";
+},
+{
+name = top;
+position = "{275, 525}";
+}
+);
+associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
+hints = (
+{
+place = "{14, 27.75}";
+},
+{
+place = "{96, 25.25}";
+},
+{
+horizontal = 1;
+place = "{53, 12}";
+},
+{
+horizontal = 1;
+place = "{129.25, -21.5}";
+},
+{
+horizontal = 1;
+place = "{-2, 21.5}";
+},
+{
+place = "{105.75, 15.5}";
+}
+);
+layerId = "DEA892BC-0190-44A2-9907-07124E47B082";
+name = "{166,5}";
+paths = (
+{
+closed = 1;
+nodes = (
+"387 -8 OFFCURVE",
+"461 28 OFFCURVE",
+"509 147 CURVE",
+"347 185 LINE",
+"335 157 OFFCURVE",
+"311 134 OFFCURVE",
+"280 134 CURVE SMOOTH",
+"249 134 OFFCURVE",
+"225 150 OFFCURVE",
+"213 179 CURVE SMOOTH",
+"204 198 OFFCURVE",
+"200 226 OFFCURVE",
+"200 260 CURVE SMOOTH",
+"200 294 OFFCURVE",
+"204 321 OFFCURVE",
+"213 340 CURVE SMOOTH",
+"225 368 OFFCURVE",
+"248 383 OFFCURVE",
+"277 383 CURVE SMOOTH",
+"306 383 OFFCURVE",
+"328 369 OFFCURVE",
+"340 340 CURVE SMOOTH",
+"349 321 OFFCURVE",
+"354 294 OFFCURVE",
+"354 260 CURVE",
+"422 300 LINE",
+"153 300 LINE",
+"153 216 LINE",
+"521 216 LINE",
+"521 280 OFFCURVE",
+"524 319 OFFCURVE",
+"502 376 CURVE SMOOTH",
+"464 474 OFFCURVE",
+"378 525 OFFCURVE",
+"278 525 CURVE SMOOTH",
+"172 525 OFFCURVE",
+"88 469 OFFCURVE",
+"53 376 CURVE SMOOTH",
+"40 343 OFFCURVE",
+"33 303 OFFCURVE",
+"33 261 CURVE SMOOTH",
+"33 221 OFFCURVE",
+"40 181 OFFCURVE",
+"53 146 CURVE SMOOTH",
+"89 50 OFFCURVE",
+"172 -8 OFFCURVE",
+"277 -8 CURVE SMOOTH"
+);
+}
+);
+width = 547;
 }
 );
 leftKerningGroup = o;
@@ -21771,7 +21861,7 @@ unicode = 00F5;
 },
 {
 glyphname = oe;
-lastChange = "2017-05-25 15:46:54 +0000";
+lastChange = "2017-05-25 17:14:33 +0000";
 layers = (
 {
 hints = (
@@ -21998,10 +22088,10 @@ nodes = (
 closed = 1;
 nodes = (
 "730 -8 OFFCURVE",
-"827 67 OFFCURVE",
-"855 183 CURVE",
-"665 183 LINE",
-"659 166 OFFCURVE",
+"827 53 OFFCURVE",
+"853 169 CURVE",
+"667 187 LINE",
+"661 170 OFFCURVE",
 "642 153 OFFCURVE",
 "614 153 CURVE SMOOTH",
 "590 153 OFFCURVE",
@@ -22022,11 +22112,11 @@ nodes = (
 "668 320 OFFCURVE",
 "674 295 OFFCURVE",
 "674 262 CURVE",
-"742 305 LINE",
-"496 305 LINE",
-"496 215 LINE",
-"863 215 LINE",
-"863 285 OFFCURVE",
+"742 308 LINE",
+"496 308 LINE",
+"496 218 LINE",
+"863 218 LINE",
+"863 288 OFFCURVE",
 "867 317 OFFCURVE",
 "844 376 CURVE SMOOTH",
 "805 477 OFFCURVE",
@@ -63078,12 +63168,12 @@ slash = -90;
 };
 "@MMK_L_b" = {
 "@MMK_R_quotedbl" = -20;
+"@MMK_R_t" = -15;
 "@MMK_R_v" = -20;
 "@MMK_R_x" = 0;
+f_f_l.liga = -16;
 quotedblright = -10;
 quoteright = -30;
-f_f_l.liga = -16;
-"@MMK_R_t" = -15;
 };
 "@MMK_L_c" = {
 "@MMK_R_comma" = -20;
@@ -63869,6 +63959,10 @@ two = 5;
 one.numr = {
 fraction = 48;
 };
+plus = {
+seven = -50;
+two = -20;
+};
 questiondown = {
 "@MMK_R_C" = -20;
 "@MMK_R_J" = -20;
@@ -63932,10 +64026,6 @@ slash = 20;
 };
 zero.numr = {
 fraction = -10;
-};
-plus = {
-two = -20;
-seven = -50;
 };
 };
 };
