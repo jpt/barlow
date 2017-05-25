@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentcomb" format="1">
-  <advance width="264"/>
+  <advance width="169"/>
   <unicode hex="0326"/>
   <outline>
+    <component base="acute" yOffset="-771"/>
     <contour>
-      <point x="105" y="-266" type="line"/>
-      <point x="161" y="-47" type="line"/>
-      <point x="139" y="-47" type="line"/>
-      <point x="83" y="-266" type="line"/>
-    </contour>
-    <contour>
-      <point x="151" y="0" type="move" name="_bottom"/>
+      <point x="86" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-23 08:55:23 +0000</string>
+      <string>2017-05-24 21:33:23 +0000</string>
     </dict>
   </lib>
 </glyph>

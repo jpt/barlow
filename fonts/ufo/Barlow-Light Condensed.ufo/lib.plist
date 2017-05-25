@@ -40,6 +40,7 @@
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>
+		<string>Acaron</string>
 		<string>Acircumflex</string>
 		<string>Adieresis</string>
 		<string>Agrave</string>
@@ -85,10 +86,15 @@
 		<string>J</string>
 		<string>K</string>
 		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+		<string>Lcommaaccent</string>
+		<string>Lslash</string>
 		<string>M</string>
 		<string>N</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
+		<string>Eng</string>
 		<string>Ntilde</string>
 		<string>O</string>
 		<string>Oacute</string>
@@ -111,6 +117,7 @@
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>T</string>
+		<string>Tbar</string>
 		<string>Tcaron</string>
 		<string>U</string>
 		<string>Uacute</string>
@@ -144,13 +151,10 @@
 		<string>uni0162</string>
 		<string>uni0218</string>
 		<string>uni021A</string>
-		<string>Lacute</string>
-		<string>Lcaron</string>
-		<string>Lslash</string>
-		<string>uni013B</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
+		<string>acaron</string>
 		<string>acircumflex</string>
 		<string>adieresis</string>
 		<string>agrave</string>
@@ -200,10 +204,13 @@
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
+		<string>lcommaaccent</string>
+		<string>lslash</string>
 		<string>m</string>
 		<string>n</string>
 		<string>nacute</string>
 		<string>ncaron</string>
+		<string>eng</string>
 		<string>ntilde</string>
 		<string>o</string>
 		<string>oacute</string>
@@ -227,6 +234,7 @@
 		<string>scedilla</string>
 		<string>germandbls</string>
 		<string>t</string>
+		<string>tbar</string>
 		<string>tcaron</string>
 		<string>u</string>
 		<string>uacute</string>
@@ -237,7 +245,6 @@
 		<string>umacron</string>
 		<string>uni0123</string>
 		<string>uni0137</string>
-		<string>uni013C</string>
 		<string>uni0146</string>
 		<string>uni0157</string>
 		<string>uni0163</string>
@@ -265,7 +272,6 @@
 		<string>ae.alt</string>
 		<string>e.alt</string>
 		<string>oe.alt</string>
-		<string>lslash</string>
 		<string>b.bowl</string>
 		<string>n.curve</string>
 		<string>fi</string>
@@ -374,9 +380,9 @@
 		<string>florin</string>
 		<string>franc</string>
 		<string>sterling</string>
-		<string>yen</string>
 		<string>uni20BA</string>
 		<string>uni20BD</string>
+		<string>yen</string>
 		<string>bulletoperator</string>
 		<string>divisionslash</string>
 		<string>plus</string>
@@ -416,27 +422,30 @@
 		<string>bar</string>
 		<string>brokenbar</string>
 		<string>dagger</string>
+		<string>uni2113</string>
 		<string>daggerdbl</string>
+		<string>estimated</string>
 		<string>asciicircum</string>
 		<string>at.alt</string>
-		<string>uni2113</string>
-		<string>estimated</string>
-		<string>caroncomb</string>
-		<string>commaaccentcomb</string>
-		<string>ogonekcomb</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
 		<string>acutecomb</string>
 		<string>hungarumlautcomb</string>
 		<string>circumflexcomb</string>
+		<string>caroncomb</string>
 		<string>brevecomb</string>
 		<string>ringcomb</string>
 		<string>tildecomb</string>
 		<string>macroncomb</string>
+		<string>commaturnedabovecomb</string>
+		<string>commaabovecomb</string>
+		<string>commaaccentcomb</string>
 		<string>cedillacomb</string>
+		<string>ogonekcomb</string>
 		<string>strokeshortcomb</string>
 		<string>strokelongcomb</string>
+		<string>slashshortcomb</string>
 		<string>slashlongcomb</string>
 		<string>cedillacomb.alt</string>
 		<string>firsttonechinese</string>
