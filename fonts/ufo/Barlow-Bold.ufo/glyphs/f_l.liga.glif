@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_l.liga" format="1">
-  <advance width="667"/>
+  <advance width="657"/>
   <outline>
     <component base="f"/>
-    <component base="l" xOffset="407"/>
+    <component base="l" xOffset="397"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-23 01:24:10 +0000</string>
+      <string>2017-05-25 05:07:48 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>
