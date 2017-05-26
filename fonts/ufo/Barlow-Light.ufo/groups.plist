@@ -98,14 +98,27 @@
 		<string>aring</string>
 		<string>atilde</string>
 	</array>
+	<key>@MMK_L_a.sc</key>
+	<array>
+		<string>a.sc</string>
+	</array>
 	<key>@MMK_L_b</key>
 	<array>
 		<string>a</string>
 		<string>p</string>
 	</array>
+	<key>@MMK_L_b.sc</key>
+	<array>
+		<string>b.sc</string>
+		<string>d.sc</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>c</string>
+	</array>
+	<key>@MMK_L_c.sc</key>
+	<array>
+		<string>o.sc</string>
 	</array>
 	<key>@MMK_L_comma</key>
 	<array>
@@ -127,6 +140,10 @@
 		<string>e</string>
 		<string>e.alt</string>
 	</array>
+	<key>@MMK_L_f.sc</key>
+	<array>
+		<string>f.sc</string>
+	</array>
 	<key>@MMK_L_g</key>
 	<array>
 		<string>g</string>
@@ -136,6 +153,10 @@
 	<array>
 		<string>m</string>
 	</array>
+	<key>@MMK_L_h.sc</key>
+	<array>
+		<string>n.sc</string>
+	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>emdash</string>
@@ -144,9 +165,17 @@
 	<array>
 		<string>k</string>
 	</array>
+	<key>@MMK_L_k.sc</key>
+	<array>
+		<string>k.sc</string>
+	</array>
 	<key>@MMK_L_l</key>
 	<array>
 		<string>l</string>
+	</array>
+	<key>@MMK_L_l.sc</key>
+	<array>
+		<string>l.sc</string>
 	</array>
 	<key>@MMK_L_n</key>
 	<array>
@@ -161,6 +190,15 @@
 		<string>oslash</string>
 		<string>hyphen</string>
 	</array>
+	<key>@MMK_L_o.sc</key>
+	<array>
+		<string>c.sc</string>
+		<string>g.sc</string>
+	</array>
+	<key>@MMK_L_p.sc</key>
+	<array>
+		<string>p.sc</string>
+	</array>
 	<key>@MMK_L_quotedbl</key>
 	<array>
 		<string>quotedbl</string>
@@ -170,10 +208,18 @@
 	<array>
 		<string>r</string>
 	</array>
+	<key>@MMK_L_r.sc</key>
+	<array>
+		<string>r.sc</string>
+	</array>
 	<key>@MMK_L_s</key>
 	<array>
 		<string>s</string>
 		<string>scaron</string>
+	</array>
+	<key>@MMK_L_s.sc</key>
+	<array>
+		<string>s.sc</string>
 	</array>
 	<key>@MMK_L_slash</key>
 	<array>
@@ -183,6 +229,15 @@
 	<array>
 		<string>t</string>
 	</array>
+	<key>@MMK_L_t.sc</key>
+	<array>
+		<string>t.sc</string>
+	</array>
+	<key>@MMK_L_u.sc</key>
+	<array>
+		<string>j.sc</string>
+		<string>u.sc</string>
+	</array>
 	<key>@MMK_L_v</key>
 	<array>
 		<string>v</string>
@@ -190,6 +245,19 @@
 		<string>y</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
+	</array>
+	<key>@MMK_L_v.sc</key>
+	<array>
+		<string>v.sc</string>
+		<string>w.sc</string>
+	</array>
+	<key>@MMK_L_x.sc</key>
+	<array>
+		<string>x.sc</string>
+	</array>
+	<key>@MMK_L_z.sc</key>
+	<array>
+		<string>z.sc</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
@@ -267,11 +335,19 @@
 		<string>aring</string>
 		<string>atilde</string>
 	</array>
+	<key>@MMK_R_a.sc</key>
+	<array>
+		<string>a.sc</string>
+	</array>
 	<key>@MMK_R_b</key>
 	<array>
 		<string>b</string>
 		<string>h</string>
 		<string>k</string>
+	</array>
+	<key>@MMK_R_c.sc</key>
+	<array>
+		<string>q.sc</string>
 	</array>
 	<key>@MMK_R_colon</key>
 	<array>
@@ -295,6 +371,15 @@
 	<array>
 		<string>at</string>
 	</array>
+	<key>@MMK_R_h.sc</key>
+	<array>
+		<string>b.sc</string>
+		<string>d.sc</string>
+		<string>e.sc</string>
+		<string>f.sc</string>
+		<string>n.sc</string>
+		<string>p.sc</string>
+	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
 		<string>emdash</string>
@@ -306,6 +391,10 @@
 	<key>@MMK_R_j</key>
 	<array>
 		<string>j</string>
+	</array>
+	<key>@MMK_R_j.sc</key>
+	<array>
+		<string>j.sc</string>
 	</array>
 	<key>@MMK_R_l</key>
 	<array>
@@ -329,6 +418,12 @@
 		<string>e.alt</string>
 		<string>hyphen</string>
 	</array>
+	<key>@MMK_R_o.sc</key>
+	<array>
+		<string>c.sc</string>
+		<string>g.sc</string>
+		<string>o.sc</string>
+	</array>
 	<key>@MMK_R_quotedbl</key>
 	<array>
 		<string>quotedbl</string>
@@ -339,6 +434,10 @@
 		<string>s</string>
 		<string>scaron</string>
 	</array>
+	<key>@MMK_R_s.sc</key>
+	<array>
+		<string>s.sc</string>
+	</array>
 	<key>@MMK_R_slash</key>
 	<array>
 		<string>divisionslash</string>
@@ -347,6 +446,10 @@
 	<array>
 		<string>f</string>
 		<string>t</string>
+	</array>
+	<key>@MMK_R_t.sc</key>
+	<array>
+		<string>t.sc</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -364,14 +467,27 @@
 		<string>yacute</string>
 		<string>ydieresis</string>
 	</array>
+	<key>@MMK_R_v.sc</key>
+	<array>
+		<string>v.sc</string>
+		<string>w.sc</string>
+	</array>
 	<key>@MMK_R_x</key>
 	<array>
 		<string>x</string>
+	</array>
+	<key>@MMK_R_y.sc</key>
+	<array>
+		<string>y.sc</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>
 		<string>z</string>
 		<string>zcaron</string>
+	</array>
+	<key>@MMK_R_z.sc</key>
+	<array>
+		<string>z.sc</string>
 	</array>
 </dict>
 </plist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="357"/>
+  <outline>
+    <contour>
+      <point x="350" y="0" type="line"/>
+      <point x="350" y="21" type="line"/>
+      <point x="108" y="21" type="line"/>
+      <point x="108" y="600" type="line"/>
+      <point x="86" y="600" type="line"/>
+      <point x="86" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="185" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>L</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-26 13:52:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

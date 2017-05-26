@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng.sc" format="1">
+  <advance width="456"/>
+  <outline>
+    <contour>
+      <point x="369" y="-116"/>
+      <point x="370" y="-71"/>
+      <point x="370" y="4" type="curve" smooth="yes"/>
+      <point x="370" y="488" type="line"/>
+      <point x="348" y="488" type="line"/>
+      <point x="348" y="4" type="line" smooth="yes"/>
+      <point x="348" y="-58"/>
+      <point x="354" y="-95"/>
+      <point x="283" y="-95" type="curve"/>
+      <point x="283" y="-116" type="line"/>
+    </contour>
+    <component base="n.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Eng</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-26 13:52:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=n.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=n.sc</string>
+    </dict>
+  </lib>
+</glyph>

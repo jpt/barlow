@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.sc" format="1">
+  <advance width="404"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="108" y="581" type="line"/>
+      <point x="227" y="581" type="line" smooth="yes"/>
+      <point x="297" y="581"/>
+      <point x="344" y="527"/>
+      <point x="344" y="446" type="curve" smooth="yes"/>
+      <point x="344" y="367"/>
+      <point x="297" y="314"/>
+      <point x="227" y="314" type="curve" smooth="yes"/>
+      <point x="104" y="314" type="line"/>
+      <point x="104" y="293" type="line"/>
+      <point x="227" y="293" type="line" smooth="yes"/>
+      <point x="310" y="293"/>
+      <point x="366" y="355"/>
+      <point x="366" y="446" type="curve" smooth="yes"/>
+      <point x="366" y="539"/>
+      <point x="310" y="602"/>
+      <point x="227" y="602" type="curve" smooth="yes"/>
+      <point x="86" y="602" type="line"/>
+      <point x="86" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="0" type="line"/>
+      <point x="246" y="303" type="line"/>
+      <point x="227" y="296" type="line"/>
+      <point x="349" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="600" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="219" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>R</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-26 13:52:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>
