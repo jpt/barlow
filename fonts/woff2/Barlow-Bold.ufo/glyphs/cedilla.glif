@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="189"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <component base="ogonek" xOffset="189" xScale="-1"/>
+    <contour>
+      <point x="77" y="-10" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-21 11:10:36 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|ogonek</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|ogonek</string>
+    </dict>
+  </lib>
+</glyph>

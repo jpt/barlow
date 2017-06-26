@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.curve" format="1">
+  <advance width="332"/>
+  <outline>
+    <contour>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="341" type="line" smooth="yes"/>
+      <point x="340" y="460"/>
+      <point x="274" y="528"/>
+      <point x="174" y="528" type="curve" smooth="yes"/>
+      <point x="66" y="528"/>
+      <point x="17" y="450"/>
+      <point x="17" y="300" type="curve"/>
+      <point x="39" y="300" type="line"/>
+      <point x="39" y="340"/>
+      <point x="62" y="367"/>
+      <point x="96" y="367" type="curve" smooth="yes"/>
+      <point x="129" y="367"/>
+      <point x="152" y="340"/>
+      <point x="152" y="300" type="curve" smooth="yes"/>
+      <point x="152" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-06-26 10:52:40 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
