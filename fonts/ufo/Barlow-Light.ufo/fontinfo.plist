@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Use Typo Metrics</key>
-	<true/>
 	<key>ascender</key>
 	<integer>800</integer>
 	<key>capHeight</key>
@@ -14,10 +12,6 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Barlow</string>
-	<key>license</key>
-	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
-	<key>licenseURL</key>
-	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
 	<string>2017/01/18 18:17:38</string>
 	<key>openTypeHheaAscender</key>
@@ -60,7 +54,7 @@
 		<integer>500</integer>
 		<integer>509</integer>
 		<integer>602</integer>
-		<integer>608</integer>
+		<integer>611</integer>
 		<integer>700</integer>
 		<integer>709</integer>
 		<integer>800</integer>
@@ -76,11 +70,9 @@
 	<key>postscriptStemSnapH</key>
 	<array>
 		<integer>22</integer>
-		<integer>22</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>21</integer>
 		<integer>21</integer>
 	</array>
 	<key>styleMapFamilyName</key>
@@ -95,8 +87,6 @@
 	<integer>1</integer>
 	<key>versionMinor</key>
 	<integer>100</integer>
-	<key>versionString</key>
-	<string>Development Version</string>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

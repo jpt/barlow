@@ -4,6 +4,34 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.Axes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Weight</string>
+			<key>Tag</key>
+			<string>wght</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Width</string>
+			<key>Tag</key>
+			<string>wdth</string>
+		</dict>
+	</array>
+	<key>com.schriftgestaltung.font.Use Typo Metrics</key>
+	<true/>
+	<key>com.schriftgestaltung.font.fsType</key>
+	<array>
+	</array>
+	<key>com.schriftgestaltung.font.license</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.licenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>com.schriftgestaltung.font.vendorID</key>
+	<string>TRBY</string>
+	<key>com.schriftgestaltung.font.versionString</key>
+	<string>Development Version</string>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
@@ -32,7 +60,7 @@
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>188</integer>
 	<key>com.schriftgestaltung.widthValue</key>
-	<integer>5</integer>
+	<integer>500</integer>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -267,9 +295,6 @@
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>a.alt</string>
-		<string>ae.alt</string>
-		<string>e.alt</string>
-		<string>oe.alt</string>
 		<string>b.bowl</string>
 		<string>n.curve</string>
 		<string>I_J.liga</string>
