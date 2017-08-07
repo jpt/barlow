@@ -3,7 +3,7 @@
 
 # Barlow
 
-Barlow is a slightly rounded, low-contrast, grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains. The family includes 27 manually-hinted styles in three widths and nine weights, suitable for digital and print use at text and display sizes. Customizable weights and widths are available via the included variable font (OTVar/GX).
+Barlow is a slightly rounded, low-contrast, grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains. The family includes 27 manually-hinted styles in three widths and nine weights, suitable for digital and print use at text and display sizes. Customizable weights and widths are available via the included variable font (GX) file.
 
 Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow), in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence). If you'd like to make a donation for this open source, libre font, please consider directing it to the [John Perry Barlow Wellness Trust](https://www.johnperrybarlow-wellnesstrust.com/).
 
@@ -13,8 +13,7 @@ Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist
 
 ## Variable font support
 
-Variable font support is currently experimental.
-
+Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug.
 
 ## Acknowledgements
 
