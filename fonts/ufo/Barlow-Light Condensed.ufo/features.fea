@@ -205,6 +205,7 @@ sub Z by z.sc;
 sub Zacute by zacute.sc;
 sub Zcaron by zcaron.sc;
 sub Zdotaccent by zdotaccent.sc;
+sub uni021A by tcommaaccent.sc;
 } c2sc;
 
 feature smcp {
@@ -321,9 +322,9 @@ sub zdotaccent by zdotaccent.sc;
 
 feature liga {
 # automatic
-sub I J by I_J.liga;
 sub f f i by f_f_i.liga;
 sub f f l by f_f_l.liga;
+sub I J by I_J.liga;
 sub f i by f_i.liga;
 sub f l by f_l.liga;
 sub g j by g_j.liga;
