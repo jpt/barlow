@@ -3,12 +3,12 @@
   <advance width="531"/>
   <outline>
     <contour>
+      <point x="410" y="0" type="line"/>
       <point x="432" y="0" type="line"/>
       <point x="432" y="500" type="line"/>
       <point x="410" y="500" type="line"/>
-      <point x="410" y="0" type="line"/>
     </contour>
-    <component base="b.bowl" xOffset="429" xScale="-1"/>
+    <component base="b.bowl" xScale="-1" xOffset="429"/>
     <contour>
       <point x="265" y="500" type="move" name="top"/>
     </contour>

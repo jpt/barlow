@@ -3,12 +3,12 @@
   <advance width="380"/>
   <outline>
     <contour>
+      <point x="0" y="0" type="line"/>
       <point x="0" y="700" type="line"/>
       <point x="380" y="700" type="line"/>
       <point x="380" y="0" type="line"/>
-      <point x="0" y="0" type="line"/>
     </contour>
-    <component base="question" xOffset="48" yOffset="88" xScale="0.714" yScale="0.714"/>
+    <component base="question" xScale="0.714" yScale="0.714" xOffset="48" yOffset="88"/>
   </outline>
   <lib>
     <dict>

@@ -4,17 +4,17 @@
   <unicode hex="006E"/>
   <outline>
     <contour>
+      <point x="33" y="0" type="line"/>
       <point x="221" y="0" type="line"/>
       <point x="221" y="520" type="line"/>
       <point x="33" y="520" type="line"/>
-      <point x="33" y="0" type="line"/>
     </contour>
     <component base="n.curve" xOffset="182"/>
     <contour>
-      <point x="284" y="520" type="move" name="top"/>
+      <point x="279" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="279" y="0" type="move" name="bottom"/>
+      <point x="284" y="520" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
