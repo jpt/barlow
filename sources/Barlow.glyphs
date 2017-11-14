@@ -1,8 +1,5 @@
 {
-.appVersion = "1083";
-DisplayStrings = (
-"Mal/lslash ysia"
-);
+.appVersion = "1084";
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -469,7 +466,7 @@ descender = -200;
 horizontalStems = (
 22
 );
-iconName = Bold_Condensed;
+iconName = Light_Condensed;
 id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 name = "Light Condensed";
 userData = {
@@ -556,7 +553,7 @@ descender = -200;
 horizontalStems = (
 188
 );
-iconName = Light_Condensed;
+iconName = Bold_Condensed;
 id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 name = "Bold Condensed";
 userData = {
@@ -642,7 +639,7 @@ descender = -200;
 horizontalStems = (
 22
 );
-iconName = Light_Condensed;
+iconName = Light;
 id = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 name = Light;
 userData = {
@@ -55092,43 +55089,45 @@ layers = (
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, -119, 0}";
+transform = "{1, 0, 0, 1, -39, 224}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 83;
+width = 195;
 },
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, -20, 0}";
+transform = "{1, 0, 0, 1, 12, 212}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 223;
+width = 287;
 },
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, -49, 0}";
+transform = "{1, 0, 0, 1, -1, 224}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 68;
+width = 164;
 },
 {
 components = (
 {
 name = period;
-transform = "{1, 0, 0, 1, -44, 0}";
+transform = "{1, 0, 0, 1, -16, 212}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 210;
+width = 266;
 }
 );
+leftMetricsKey = "=hyphen+10";
+rightMetricsKey = "=hyphen+10";
 unicode = 00B7;
 },
 {
@@ -74303,11 +74302,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;8;1;";
+value = "GlyphsFilterRoundCorner;10;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-3;1;";
+value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = Filter;
@@ -74399,7 +74398,7 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;12;1;";
+value = "GlyphsFilterRoundCorner;10;1;";
 },
 {
 name = Filter;
@@ -74445,11 +74444,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;13;1;";
+value = "GlyphsFilterRoundCorner;10;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
+value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = Filter;
@@ -74489,11 +74488,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;15;1;";
+value = "GlyphsFilterRoundCorner;10;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-5;1;";
+value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
 name = Filter;
@@ -74535,11 +74534,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;16;1;";
+value = "GlyphsFilterRoundCorner;12;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
+value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = Filter;
@@ -74581,11 +74580,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;17;1;";
+value = "GlyphsFilterRoundCorner;12;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-6;1;";
+value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = Filter;
@@ -74627,11 +74626,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;18;1;";
+value = "GlyphsFilterRoundCorner;12;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-7;1;";
+value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
 name = Filter;
@@ -74673,11 +74672,11 @@ value = "RemoveOverlap;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;19;1;";
+value = "GlyphsFilterRoundCorner;15;1;";
 },
 {
 name = Filter;
-value = "GlyphsFilterRoundCorner;-8;";
+value = "GlyphsFilterRoundCorner;-6;1;";
 },
 {
 name = Filter;
