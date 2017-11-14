@@ -15277,7 +15277,7 @@ transform = "{1, 0, 0, 1, 230, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 600;
+width = 562;
 },
 {
 components = (
@@ -15290,7 +15290,7 @@ transform = "{1, 0, 0, 1, 200, 0}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 600;
+width = 592;
 },
 {
 components = (
@@ -15303,7 +15303,7 @@ transform = "{1, 0, 0, 1, 130, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 600;
+width = 414;
 },
 {
 components = (
@@ -15316,9 +15316,11 @@ transform = "{1, 0, 0, 1, 170, 0}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 600;
+width = 495;
 }
 );
+leftMetricsKey = "=d";
+rightMetricsKey = "=d/2.5";
 unicode = 0111;
 },
 {
@@ -16007,11 +16009,11 @@ nodes = (
 "386 329 OFFCURVE",
 "388 295 OFFCURVE",
 "388 260 CURVE",
-"426 295 LINE",
-"124 295 LINE",
-"124 218 LINE",
-"489 218 LINE",
-"489 255 OFFCURVE",
+"426 297 LINE",
+"124 297 LINE",
+"124 214 LINE",
+"489 214 LINE",
+"489 251 OFFCURVE",
 "487 290 OFFCURVE",
 "482 321 CURVE SMOOTH",
 "463 443 OFFCURVE",
@@ -17365,11 +17367,11 @@ nodes = (
 "335 326 OFFCURVE",
 "336 294 OFFCURVE",
 "336 265 CURVE",
-"372 296 LINE",
-"119 296 LINE",
-"119 216 LINE",
-"436 216 LINE",
-"436 247 OFFCURVE",
+"372 297 LINE",
+"119 297 LINE",
+"119 214 LINE",
+"436 214 LINE",
+"436 245 OFFCURVE",
 "435 300 OFFCURVE",
 "432 340 CURVE SMOOTH",
 "423 448 OFFCURVE",
@@ -76456,5 +76458,5 @@ manufacturer = "Jeremy Tribby";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 102;
+versionMinor = 103;
 }
