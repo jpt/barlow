@@ -17,10 +17,6 @@ Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist
 
 Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug.
 
-## Italics
-
-Right now the italics are faux obliques, and are not recommended for anything but experimental use. This will change in the future.
-
 ## Acknowledgements
 
 Thank you Lukas Schneider (@lukas____s) of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade (@hughillustration) for holding me to a high standard from the start.
