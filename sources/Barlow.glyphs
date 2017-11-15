@@ -1,5 +1,5 @@
 {
-.appVersion = "1084";
+.appVersion = "1075";
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -466,9 +466,7 @@ descender = -200;
 horizontalStems = (
 22
 );
-iconName = Light_Condensed;
 id = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-name = "Light Condensed";
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 11;
@@ -553,9 +551,7 @@ descender = -200;
 horizontalStems = (
 188
 );
-iconName = Bold_Condensed;
 id = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-name = "Bold Condensed";
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 60;
@@ -639,9 +635,7 @@ descender = -200;
 horizontalStems = (
 22
 );
-iconName = Light;
 id = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-name = Light;
 userData = {
 GSCornerRadius = 12;
 GSOffsetHorizontal = 11;
@@ -725,9 +719,7 @@ descender = -200;
 horizontalStems = (
 188
 );
-iconName = Bold;
 id = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-name = Bold;
 userData = {
 GSCornerRadius = 8;
 GSOffsetHorizontal = 93;
@@ -72747,10 +72739,10 @@ value = "Barlow Semi Condensed";
 interpolationWeight = 30;
 interpolationWidth = 400;
 instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.4759;
-"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.0241;
-"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.4759;
-"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0241;
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.47590;
+"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.02410;
+"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.47590;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.02410;
 };
 name = Thin;
 weightClass = Thin;
@@ -72788,10 +72780,10 @@ value = 275;
 interpolationWeight = 39;
 interpolationWidth = 400;
 instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.4488;
-"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.0512;
-"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.4488;
-"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0512;
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.44880;
+"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.05120;
+"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.44880;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.05120;
 };
 name = ExtraLight;
 weightClass = ExtraLight;
@@ -73376,7 +73368,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 30;
@@ -73431,7 +73423,7 @@ value = 275;
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 39;
@@ -73482,7 +73474,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 53;
@@ -73533,7 +73525,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 71;
@@ -73582,7 +73574,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 96;
@@ -73633,7 +73625,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 116;
@@ -73684,7 +73676,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 141;
@@ -73735,7 +73727,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 166;
@@ -73786,7 +73778,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 188;
@@ -73836,16 +73828,16 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 30;
 interpolationWidth = 400;
 instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.4759;
-"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.0241;
-"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.4759;
-"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0241;
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.47590;
+"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.02410;
+"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.47590;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.02410;
 };
 isItalic = 1;
 linkStyle = Thin;
@@ -73893,16 +73885,16 @@ value = 275;
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 39;
 interpolationWidth = 400;
 instanceInterpolations = {
-"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.4488;
-"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.0512;
-"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.4488;
-"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.0512;
+"262880E7-CFE1-4BDA-902E-E24798F3240A" = 0.44880;
+"4E2227F3-52E4-4048-A8EE-327B486EF0A4" = 0.05120;
+"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 0.44880;
+"FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA" = 0.05120;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -73946,7 +73938,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 53;
@@ -74012,7 +74004,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 71;
@@ -74063,7 +74055,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 96;
@@ -74116,7 +74108,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 116;
@@ -74169,7 +74161,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 141;
@@ -74222,7 +74214,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 166;
@@ -74275,7 +74267,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 188;
@@ -74322,7 +74314,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 30;
@@ -74372,7 +74364,7 @@ value = 275;
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 39;
@@ -74418,7 +74410,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 53;
@@ -74464,7 +74456,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 71;
@@ -74508,7 +74500,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 96;
@@ -74554,7 +74546,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 116;
@@ -74600,7 +74592,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 141;
@@ -74646,7 +74638,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 166;
@@ -74692,7 +74684,7 @@ value = (
 },
 {
 name = italicAngle;
-value = "7";
+value = 7;
 }
 );
 interpolationWeight = 188;
@@ -76458,5 +76450,5 @@ manufacturer = "Jeremy Tribby";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 103;
+versionMinor = 104;
 }
