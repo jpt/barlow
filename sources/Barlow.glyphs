@@ -19607,7 +19607,7 @@ components = (
 {
 alignment = -1;
 name = idotless;
-transform = "{1, 0, 0, 1, 51, 0}";
+transform = "{1, 0, 0, 1, 64, 0}";
 },
 {
 name = dieresiscomb;
@@ -19633,11 +19633,13 @@ width = 242;
 {
 components = (
 {
+alignment = -1;
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -2, 0}";
+transform = "{1, 0, 0, 1, -10, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -19649,16 +19651,15 @@ components = (
 name = idotless;
 },
 {
+alignment = -1;
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, -76, 0}";
+transform = "{1, 0, 0, 1, -105, 0}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 width = 224;
 }
 );
-leftMetricsKey = "=i/2";
-rightMetricsKey = "=i/2";
 unicode = 00EF;
 },
 {
@@ -19900,11 +19901,11 @@ components = (
 {
 alignment = -1;
 name = idotless;
-transform = "{1, 0, 0, 1, 77, 0}";
+transform = "{1, 0, 0, 1, 66, 0}";
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 137, 0}";
+transform = "{1, 0, 0, 1, 121, 0}";
 },
 {
 name = ogonekcomb;
@@ -19912,14 +19913,14 @@ transform = "{1, 0, 0, 1, 86, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 307;
+width = 292;
 },
 {
 components = (
 {
 alignment = -1;
 name = idotless;
-transform = "{1, 0, 0, 1, 16, 0}";
+transform = "{1, 0, 0, 1, 18, 0}";
 },
 {
 name = dotaccentcomb;
@@ -19927,7 +19928,7 @@ transform = "{1, 0, 0, 1, 27, 0}";
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 39, 0}";
+transform = "{1, 0, 0, 1, 44, 0}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -19938,11 +19939,12 @@ components = (
 {
 alignment = -1;
 name = idotless;
-transform = "{1, 0, 0, 1, 61, 0}";
+transform = "{1, 0, 0, 1, 53, 0}";
 },
 {
+alignment = 1;
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 109, 0}";
+transform = "{1, 0, 0, 1, 96, 0}";
 },
 {
 name = ogonekcomb;
@@ -19950,22 +19952,23 @@ transform = "{1, 0, 0, 1, 67, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 243;
+width = 232;
 },
 {
 components = (
 {
 alignment = -1;
 name = idotless;
-transform = "{1, 0, 0, 1, 6, 0}";
+transform = "{1, 0, 0, 1, 11, 0}";
 },
 {
+alignment = 1;
 name = dotaccentcomb;
 transform = "{1, 0, 0, 1, 18, 0}";
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 40, 0}";
+transform = "{1, 0, 0, 1, 45, 0}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -68475,14 +68478,14 @@ position = "{79, 500}";
 components = (
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 105, 0}";
+transform = "{1, 0, 0, 1, 106, 0}";
 },
 {
 name = dotaccentcomb;
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 173;
+width = 174;
 },
 {
 anchors = (
@@ -76330,5 +76333,5 @@ manufacturer = "Jeremy Tribby";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 106;
+versionMinor = 107;
 }
