@@ -15,7 +15,7 @@ Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist
 
 ## Variable font support
 
-Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug.
+Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug (other than a lack of rounding)!
 
 ## Acknowledgements
 
