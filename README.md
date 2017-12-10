@@ -17,6 +17,10 @@ Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist
 
 Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug (other than a lack of rounding)!
 
+#### Building the variable Font
+
+Building the GX file requires Glyphs. First, move the contents of the `tools` folder in this repo to your local Glyphs Scripts folder (`Scripts->Open Script Folder`) and refresh your Glyphs scripts (`Option + Scripts->Reload Scripts`). Save a copy of Barlow.glyphs as Barlow-GX.glyphs. Run the `Brace Layer Decompose` script, and then the `Brace Layer VF Designspace Fix` script. The font is now ready for GX export from Glyphs.
+
 ## Acknowledgements
 
 Thank you Lukas Schneider (@lukas____s) of [Revolver Type](http://revolvertype.com/tools/cadencer.html) for donating the LS Cadencer spacing tool. Thank you Dave Crossland (@davelab6) and Thomas Phinney (@tphinney) of [Crafting Type](http://craftingtype.com) for the guidance and early feedback. Thank you Hugh D'Andrade (@hughillustration) for holding me to a high standard from the start.
