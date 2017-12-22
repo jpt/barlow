@@ -674,16 +674,16 @@ alignmentZones = (
 "{0, -8}",
 "{-200, -8}"
 );
-ascender = 800;
+ascender = 1115;
 capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 1115;
 },
 {
 name = typoDescender;
-value = -200;
+value = -983;
 },
 {
 name = winAscent;
@@ -78674,8 +78674,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"169 579 LINE",
-"260 700 LINE",
+"153 579 LINE",
+"244 700 LINE",
 "74 700 LINE",
 "10 579 LINE"
 );
@@ -83006,7 +83006,7 @@ name = circumflexcomb;
 {
 alignment = -1;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 353, 74}";
+transform = "{1, 0, 0, 1, 354, 74}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
