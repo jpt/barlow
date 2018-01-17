@@ -1,5 +1,5 @@
 {
-.appVersion = "1105";
+.appVersion = "1107";
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -21,7 +21,7 @@ value = (
 },
 {
 name = vendorID;
-value = TTC;
+value = TSC;
 },
 {
 name = Axes;
@@ -451,7 +451,7 @@ value = -200;
 },
 {
 name = winAscent;
-value = 1112;
+value = 1075;
 },
 {
 name = winDescent;
@@ -536,7 +536,7 @@ value = -200;
 },
 {
 name = winAscent;
-value = 1112;
+value = 1075;
 },
 {
 name = winDescent;
@@ -624,7 +624,7 @@ value = 1112;
 },
 {
 name = winDescent;
-value = -274;
+value = 249;
 },
 {
 name = hheaAscender;
@@ -708,7 +708,7 @@ value = 1112;
 },
 {
 name = winDescent;
-value = 274;
+value = 249;
 },
 {
 name = hheaAscender;
@@ -4551,7 +4551,7 @@ name = E;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 209, 200}";
+transform = "{1, 0, 0, 1, 211, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -9115,7 +9115,7 @@ name = O;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 192, 200}";
+transform = "{1, 0, 0, 1, 194, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -9154,7 +9154,7 @@ name = O;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 25, 180}";
+transform = "{1, 0, 0, 1, 44, 180}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -11899,11 +11899,11 @@ name = S;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 162, 200}";
+transform = "{1, 0, 0, 1, 158, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 581;
+width = 577;
 },
 {
 components = (
@@ -11959,11 +11959,11 @@ name = S;
 },
 {
 name = caron;
-transform = "{1, 0, 0, 1, 140, 200}";
+transform = "{1, 0, 0, 1, 136, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 581;
+width = 577;
 },
 {
 components = (
@@ -12019,11 +12019,11 @@ name = S;
 },
 {
 name = cedillacomb;
-transform = "{1, 0, 0, 1, 240, -5}";
+transform = "{1, 0, 0, 1, 236, -5}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 581;
+width = 577;
 },
 {
 components = (
@@ -12105,11 +12105,11 @@ name = S;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 140, 200}";
+transform = "{1, 0, 0, 1, 136, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 581;
+width = 577;
 },
 {
 components = (
@@ -13564,7 +13564,7 @@ name = U;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 212, 200}";
+transform = "{1, 0, 0, 1, 214, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -13603,7 +13603,7 @@ name = U;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 24, 180}";
+transform = "{1, 0, 0, 1, 43, 180}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -14920,7 +14920,7 @@ name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 320, 200}";
+transform = "{1, 0, 0, 1, 322, 200}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -14959,7 +14959,7 @@ name = W;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 138, 180}";
+transform = "{1, 0, 0, 1, 157, 180}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -15422,7 +15422,7 @@ name = Y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 148, 199}";
+transform = "{1, 0, 0, 1, 150, 199}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -15461,7 +15461,7 @@ name = Y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 37, 180}";
+transform = "{1, 0, 0, 1, 56, 180}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -78366,7 +78366,7 @@ position = "{194, 515}";
 },
 {
 name = top;
-position = "{194, 683}";
+position = "{194, 675}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -78375,17 +78375,17 @@ paths = (
 closed = 1;
 nodes = (
 "299 550 OFFCURVE",
-"375 607 OFFCURVE",
-"375 691 CURVE",
-"259 691 LINE",
-"259 661 OFFCURVE",
-"232 638 OFFCURVE",
-"194 638 CURVE SMOOTH",
-"156 638 OFFCURVE",
-"129 661 OFFCURVE",
-"129 691 CURVE",
-"12 691 LINE",
-"12 607 OFFCURVE",
+"375 608 OFFCURVE",
+"375 687 CURVE",
+"270 687 LINE",
+"270 656 OFFCURVE",
+"238 635 OFFCURVE",
+"194 635 CURVE SMOOTH",
+"151 635 OFFCURVE",
+"119 656 OFFCURVE",
+"119 686 CURVE",
+"12 687 LINE",
+"12 608 OFFCURVE",
 "88 550 OFFCURVE",
 "194 550 CURVE SMOOTH"
 );
@@ -82187,7 +82187,7 @@ name = brevecomb;
 },
 {
 name = hookabovecomb;
-transform = "{1, 0, 0, 1, -78, 163}";
+transform = "{1, 0, 0, 1, -78, 155}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -82246,7 +82246,7 @@ name = brevecomb;
 },
 {
 name = tildecomb;
-transform = "{0.8264, 0, 0, 0.8264, 31, 253}";
+transform = "{0.8264, 0, 0, 0.8264, 31, 245}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -82870,6 +82870,14 @@ value = "Barlow Semi Condensed";
 {
 name = weightClass;
 value = 250;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 30;
@@ -82911,6 +82919,14 @@ value = "Barlow Semi Condensed";
 {
 name = weightClass;
 value = 275;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 39;
@@ -82948,6 +82964,14 @@ value = "GlyphsFilterRoundCorner;-4;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 53;
@@ -82998,6 +83022,14 @@ Location = 85;
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 71;
@@ -83034,6 +83066,14 @@ value = "GlyphsFilterRoundCorner;-4;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 96;
@@ -83071,6 +83111,14 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 116;
@@ -83108,6 +83156,14 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 141;
@@ -83146,6 +83202,14 @@ value = "GlyphsFilterRoundCorner;-5;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 166;
@@ -83183,6 +83247,14 @@ value = "GlyphsFilterRoundCorner;-6;1;";
 {
 name = familyName;
 value = "Barlow Semi Condensed";
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 188;
@@ -83987,6 +84059,14 @@ value = 7;
 {
 name = weightClass;
 value = 250;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 30;
@@ -84045,6 +84125,14 @@ value = 275;
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 39;
@@ -84099,6 +84187,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 53;
@@ -84166,6 +84262,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 71;
@@ -84218,6 +84322,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 96;
@@ -84272,6 +84384,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 116;
@@ -84326,6 +84446,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 141;
@@ -84380,6 +84508,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 166;
@@ -84434,6 +84570,14 @@ value = "Barlow Semi Condensed";
 {
 name = italicAngle;
 value = 7;
+},
+{
+name = winAscent;
+value = 1089;
+},
+{
+name = winDescent;
+value = 261;
 }
 );
 interpolationWeight = 188;
@@ -86641,9 +86785,9 @@ fraction = -25;
 };
 };
 };
-manufacturer = "Tribby Type Co.";
+manufacturer = "Tribby Supply Co.";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 300;
+versionMinor = 301;
 }
