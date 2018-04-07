@@ -21,12 +21,6 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[0]', '../../barlow/fonts/ttf/BarlowCondensed-Black.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 448 but should be 449 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
-
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[0]', '../../barlow/fonts/ttf/BarlowCondensed-Black.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -91,6 +85,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[1]', '../../barlow/fonts/ttf/BarlowCondensed-BlackItalic.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 435 but should be 436 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[1]', '../../barlow/fonts/ttf/BarlowCondensed-BlackItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -154,6 +154,12 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
+
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[2]', '../../barlow/fonts/ttf/BarlowCondensed-Bold.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 428 but should be 429 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[2]', '../../barlow/fonts/ttf/BarlowCondensed-Bold.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -282,6 +288,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[4]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraBold.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 439 but should be 440 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[4]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraBold.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -345,12 +357,6 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
-
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[5]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraBoldItalic.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 425 but should be 426 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[5]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraBoldItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -416,6 +422,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[6]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraLight.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 383 but should be 384 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[6]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraLight.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -473,12 +485,6 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
-
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[7]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraLightItalic.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 371 but should be 372 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[7]', '../../barlow/fonts/ttf/BarlowCondensed-ExtraLightItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -602,6 +608,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[9]', '../../barlow/fonts/ttf/BarlowCondensed-Light.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 389 but should be 390 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[9]', '../../barlow/fonts/ttf/BarlowCondensed-Light.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -659,12 +671,6 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
-
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[10]', '../../barlow/fonts/ttf/BarlowCondensed-LightItalic.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 377 but should be 378 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[10]', '../../barlow/fonts/ttf/BarlowCondensed-LightItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -788,6 +794,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[12]', '../../barlow/fonts/ttf/BarlowCondensed-MediumItalic.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 396 but should be 397 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[12]', '../../barlow/fonts/ttf/BarlowCondensed-MediumItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -845,6 +857,12 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
+
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[13]', '../../barlow/fonts/ttf/BarlowCondensed-Regular.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 397 but should be 398 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[13]', '../../barlow/fonts/ttf/BarlowCondensed-Regular.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -904,6 +922,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[14]', '../../barlow/fonts/ttf/BarlowCondensed-SemiBold.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 417 but should be 418 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[14]', '../../barlow/fonts/ttf/BarlowCondensed-SemiBold.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -961,12 +985,6 @@ Start ... running 1808 individual test executions.
          
 
    Result: [1;37;41mERROR[0m
-
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[15]', '../../barlow/fonts/ttf/BarlowCondensed-SemiBoldItalic.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 404 but should be 405 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
 
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[15]', '../../barlow/fonts/ttf/BarlowCondensed-SemiBoldItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
@@ -1026,6 +1044,12 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
+>> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[16]', '../../barlow/fonts/ttf/BarlowCondensed-Thin.ttf'),)
+   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
+ * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 379 but should be 380 which corresponds to the average of all glyph widths in the font
+
+   Result: [1;31;40mFAIL[0m
+
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[16]', '../../barlow/fonts/ttf/BarlowCondensed-Thin.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -1083,12 +1107,6 @@ Start ... running 1808 individual test executions.
 
    Result: [1;37;41mERROR[0m
 
->> [1;36;40mcom.google.fonts/test/034[0m with ((u'font[17]', '../../barlow/fonts/ttf/BarlowCondensed-ThinItalic.ttf'),)
-   [1;35;40mCheck if OS/2 xAvgCharWidth is correct.[0m
- * [1;31;40mFAIL[0m: OS/2 xAvgCharWidth is 367 but should be 368 which corresponds to the average of all glyph widths in the font
-
-   Result: [1;31;40mFAIL[0m
-
 >> [1;36;40mcom.google.fonts/test/036[0m with ((u'font[17]', '../../barlow/fonts/ttf/BarlowCondensed-ThinItalic.ttf'),)
    [1;35;40mChecking with ots-sanitize.[0m
  * [1;37;41mERROR[0m: ots-sanitize is not available! You really MUST check the fonts with this tool. To install it, see https://github.com/googlefonts/gf-docs/blob/master/ProjectChecklist.md#ots Actual error message was: '[Errno 2] No such file or directory'
@@ -1139,22 +1157,22 @@ Start ... running 1808 individual test executions.
 Section results:
 
     [1;37;41mERROR[0m: 54
-    [1;31;40mFAIL[0m: 45
+    [1;31;40mFAIL[0m: 48
     [1;33;40mWARN[0m: 60
     [1;34;40mSKIP[0m: 593
     [1;36;40mINFO[0m: 58
-    [1;32;40mPASS[0m: 998
+    [1;32;40mPASS[0m: 995
 
 ======== END <Section: Default> ========
 
 Total:
 
     [1;37;41mERROR[0m: 54
-    [1;31;40mFAIL[0m: 45
+    [1;31;40mFAIL[0m: 48
     [1;33;40mWARN[0m: 60
     [1;34;40mSKIP[0m: 593
     [1;36;40mINFO[0m: 58
-    [1;32;40mPASS[0m: 998
+    [1;32;40mPASS[0m: 995
 
 
 DONE!
