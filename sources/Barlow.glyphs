@@ -35378,8 +35378,8 @@ name = t;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, -14, 123}";
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 214, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -35391,8 +35391,9 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -4, 140}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 260, 0}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -35404,8 +35405,9 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -15, 123}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 131, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -35417,8 +35419,9 @@ components = (
 name = t;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -34, 128}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 235, 1}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -90949,5 +90952,5 @@ manufacturer = "Tribby Type Co.";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 402;
+versionMinor = 403;
 }
