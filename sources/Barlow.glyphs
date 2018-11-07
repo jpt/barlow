@@ -1,5 +1,5 @@
 {
-.appVersion = "1127";
+.appVersion = "1176";
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -21,7 +21,7 @@ value = (
 },
 {
 name = vendorID;
-value = TTC;
+value = TRBY;
 },
 {
 name = Axes;
@@ -45,7 +45,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-01-19 02:17:38 +0000";
+date = "2018-11-07 02:21:11 +0000";
 designer = "Jeremy Tribby";
 designerURL = "https://tribby.com/";
 familyName = Barlow;
@@ -7380,8 +7380,8 @@ name = L;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, -17, 197}";
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 244, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -7393,8 +7393,9 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -58, 180}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 256, 0}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -7406,8 +7407,9 @@ components = (
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -18, 197}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 174, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -7416,15 +7418,17 @@ width = 375;
 {
 components = (
 {
+alignment = -1;
 name = L;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -58, 180}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 214, 0}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 446;
+width = 450;
 }
 );
 rightKerningGroup = L;
@@ -7870,12 +7874,10 @@ position = "{344, 700}";
 );
 hints = (
 {
-origin = "{0, 11}";
 place = "{117, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 3}";
 place = "{545, -2147483648}";
 type = Stem;
 }
@@ -7915,7 +7917,6 @@ position = "{262, 700}";
 );
 hints = (
 {
-origin = "{0, 11}";
 place = "{26, -2147483648}";
 type = Stem;
 },
@@ -7993,12 +7994,10 @@ position = "{240, 710}";
 );
 hints = (
 {
-origin = "{0, 11}";
 place = "{91, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 6}";
 place = "{366, -2147483648}";
 type = Stem;
 }
@@ -8039,12 +8038,10 @@ position = "{332, 700}";
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 hints = (
 {
-origin = "{0, 11}";
 place = "{80, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 3}";
 place = "{496, -2147483648}";
 type = Stem;
 }
@@ -8086,12 +8083,10 @@ position = "{250, 705}";
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 hints = (
 {
-origin = "{0, 11}";
 place = "{60, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 6}";
 place = "{343, -2147483648}";
 type = Stem;
 }
@@ -8463,7 +8458,6 @@ position = "{602, 700}";
 );
 hints = (
 {
-origin = "{0, 9}";
 place = "{90, -2147483648}";
 type = Stem;
 },
@@ -8474,13 +8468,11 @@ target = "{0, 13}";
 type = Stem;
 },
 {
-origin = "{1, 9}";
 place = "{510, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 13}";
 place = "{-7, -2147483648}";
 type = Stem;
 }
@@ -11143,7 +11135,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 13}";
 place = "{-8, -2147483648}";
 type = Stem;
 },
@@ -19462,7 +19453,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 0}";
 place = "{0, -2147483648}";
 type = Stem;
 }
@@ -20711,7 +20701,6 @@ layers = (
 hints = (
 {
 horizontal = 1;
-origin = "{0, 19}";
 place = "{508, -2147483648}";
 type = Stem;
 },
@@ -20727,7 +20716,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 31}";
 place = "{-8, -2147483648}";
 type = Stem;
 }
@@ -24589,7 +24577,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 4}";
 place = "{500, -2147483648}";
 type = Stem;
 },
@@ -24599,13 +24586,11 @@ target = "{1, 17}";
 type = Stem;
 },
 {
-origin = "{1, 14}";
 place = "{87, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 5}";
 place = "{0, -2147483648}";
 type = Stem;
 },
@@ -24981,7 +24966,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 4}";
 place = "{509, -2147483648}";
 type = Stem;
 },
@@ -24991,13 +24975,11 @@ target = "{1, 17}";
 type = Stem;
 },
 {
-origin = "{1, 14}";
 place = "{66, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 5}";
 place = "{31, -2147483648}";
 type = Stem;
 },
@@ -25846,7 +25828,6 @@ transform = "{1, 0, 0, 1, 86, 0}";
 );
 hints = (
 {
-origin = "{0, 2}";
 place = "{114, -2147483648}";
 type = Stem;
 }
@@ -26832,13 +26813,11 @@ transform = "{1, 0, 0, 1, 69, 0}";
 );
 hints = (
 {
-origin = "{0, 4}";
 place = "{99, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 9}";
 place = "{-211, -2147483648}";
 type = Stem;
 }
@@ -27531,55 +27510,62 @@ name = l;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, -34, 197}";
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 174, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 220;
+width = 309;
 },
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -62, 180}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 223, 0}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
-width = 254;
+width = 485;
 },
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -37, 197}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 139, 0}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
-width = 162;
+width = 278;
 },
 {
 components = (
 {
+alignment = -1;
 name = l;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -66, 180}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 1, 204, 1}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 228;
+width = 456;
 }
 );
 leftKerningGroup = l;
-rightKerningGroup = l;
+rightKerningGroup = V;
+rightMetricsKey = "=V";
 unicode = 013E;
 },
 {
@@ -35122,7 +35108,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 2}";
 place = "{0, -2147483648}";
 type = Stem;
 }
@@ -35416,6 +35401,7 @@ width = 250;
 {
 components = (
 {
+alignment = -1;
 name = t;
 },
 {
@@ -48280,8 +48266,8 @@ name = l.sc;
 },
 {
 alignment = -1;
-name = caroncomb;
-transform = "{1, 0, 0, 1, -35, 73}";
+name = commaabovecomb;
+transform = "{1, 0, 0, 0.7, 211, 86}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -48293,8 +48279,9 @@ components = (
 name = l.sc;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -76, 58}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 0.9, 226, -52}";
 }
 );
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -48306,8 +48293,9 @@ components = (
 name = l.sc;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -33, 73}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 0.7, 127, 86}";
 }
 );
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -48316,15 +48304,17 @@ width = 321;
 {
 components = (
 {
+alignment = -1;
 name = l.sc;
 },
 {
-name = caroncomb;
-transform = "{1, 0, 0, 1, -63, 58}";
+alignment = -1;
+name = commaabovecomb;
+transform = "{1, 0, 0, 0.9, 214, -52}";
 }
 );
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
-width = 428;
+width = 454;
 }
 );
 rightKerningGroup = L;
@@ -48852,12 +48842,10 @@ position = "{294, 584}";
 );
 hints = (
 {
-origin = "{0, 11}";
 place = "{99, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 3}";
 place = "{465, -2147483648}";
 type = Stem;
 }
@@ -48904,12 +48892,10 @@ position = "{282, 587}";
 associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 hints = (
 {
-origin = "{0, 11}";
 place = "{62, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 3}";
 place = "{411, -2147483648}";
 type = Stem;
 }
@@ -48957,12 +48943,10 @@ position = "{226, 587}";
 associatedMasterId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 hints = (
 {
-origin = "{0, 11}";
 place = "{50, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 3}";
 place = "{305, -2147483648}";
 type = Stem;
 }
@@ -51295,7 +51279,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 13}";
 place = "{-7, -2147483648}";
 type = Stem;
 }
@@ -56299,7 +56282,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 1}";
 place = "{480, -2147483648}";
 type = Stem;
 },
@@ -56687,7 +56669,6 @@ layers = (
 {
 hints = (
 {
-origin = "{0, 4}";
 place = "{206, -2147483648}";
 type = Stem;
 }
@@ -56782,12 +56763,10 @@ target = "{0, 31}";
 type = Stem;
 },
 {
-origin = "{0, 24}";
 place = "{400, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 15}";
 place = "{69, -2147483648}";
 type = Stem;
 },
@@ -56994,12 +56973,10 @@ place = "{-8, 21}";
 type = Stem;
 },
 {
-origin = "{0, 28}";
 place = "{395, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 41}";
 place = "{62, -2147483648}";
 type = Stem;
 }
@@ -57244,29 +57221,24 @@ associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 hints = (
 {
 horizontal = 1;
-origin = "{0, 0}";
 place = "{700, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 7}";
 place = "{407, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 10}";
 place = "{421, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 23}";
 place = "{-8, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 20}";
 place = "{88, -2147483648}";
 type = Stem;
 }
@@ -57385,12 +57357,10 @@ place = "{0, 0}";
 type = Stem;
 },
 {
-origin = "{0, 28}";
 place = "{280, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 41}";
 place = "{31, -2147483648}";
 type = Stem;
 }
@@ -57670,18 +57640,15 @@ target = "{0, 49}";
 type = Stem;
 },
 {
-origin = "{0, 20}";
 place = "{81, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 49}";
 place = "{-8, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 30}";
 place = "{413, -2147483648}";
 type = Stem;
 }
@@ -57944,19 +57911,16 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 3}";
 place = "{700, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 11}";
 place = "{448, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 23}";
 place = "{-8, -2147483648}";
 type = Stem;
 }
@@ -58123,12 +58087,10 @@ target = "{0, 38}";
 type = Stem;
 },
 {
-origin = "{0, 32}";
 place = "{81, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 17}";
 place = "{415, -2147483648}";
 type = Stem;
 },
@@ -58521,35 +58483,29 @@ width = 537;
 associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 hints = (
 {
-origin = "{0, 27}";
 place = "{81, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 17}";
 place = "{400, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 20}";
 place = "{422, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 30}";
 place = "{-8, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 6}";
 place = "{407, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 23}";
 place = "{708, -2147483648}";
 type = Stem;
 }
@@ -58863,29 +58819,24 @@ associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 hints = (
 {
 horizontal = 1;
-origin = "{1, 11}";
 place = "{355, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 28}";
 place = "{708, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 32}";
 place = "{56, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 20}";
 place = "{366, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 38}";
 place = "{-7, -2147483648}";
 type = Stem;
 }
@@ -59105,12 +59056,10 @@ target = "{0, 23}";
 type = Stem;
 },
 {
-origin = "{2, 17}";
 place = "{84, -2147483648}";
 type = Stem;
 },
 {
-origin = "{3, 17}";
 place = "{403, -2147483648}";
 type = Stem;
 }
@@ -59761,99 +59710,81 @@ associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 hints = (
 {
 horizontal = 1;
-origin = "{0, 13}";
 place = "{-18, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 6}";
 place = "{375, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 6}";
 place = "{394, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{2, 6}";
 place = "{708, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{1, 6}";
 place = "{375, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{3, 13}";
 place = "{395, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 10}";
 place = "{72, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 2}";
 place = "{94, -2147483648}";
 type = Stem;
 },
 {
-origin = "{3, 9}";
 place = "{408, -2147483648}";
 type = Stem;
 },
 {
-origin = "{2, 3}";
 place = "{430, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 10}";
 place = "{410, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 10}";
 place = "{72, -2147483648}";
 type = Stem;
 },
 {
-origin = "{3, 9}";
 place = "{408, -2147483648}";
 type = Stem;
 },
 {
-origin = "{2, 9}";
 place = "{74, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{4, 11}";
 place = "{508, -2147483648}";
 type = Stem;
 },
 {
-origin = "{4, 17}";
 place = "{81, -2147483648}";
 type = Stem;
 },
 {
-origin = "{5, 17}";
 place = "{414, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{4, 23}";
 place = "{-8, -2147483648}";
 type = Stem;
 }
@@ -60013,7 +59944,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 11}";
 place = "{395, -2147483648}";
 type = Stem;
 },
@@ -60024,7 +59954,6 @@ type = Stem;
 },
 {
 horizontal = 1;
-origin = "{2, 11}";
 place = "{711, -2147483648}";
 type = Stem;
 },
@@ -60513,7 +60442,6 @@ width = 540;
 {
 hints = (
 {
-origin = "{0, 4}";
 place = "{319, -2147483648}";
 type = Stem;
 }
@@ -60686,12 +60614,10 @@ target = "{0, 31}";
 type = Stem;
 },
 {
-origin = "{0, 24}";
 place = "{397, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 15}";
 place = "{68, -2147483648}";
 type = Stem;
 },
@@ -60959,12 +60885,10 @@ place = "{-8, 21}";
 type = Stem;
 },
 {
-origin = "{0, 28}";
 place = "{408, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 41}";
 place = "{65, -2147483648}";
 type = Stem;
 }
@@ -61420,18 +61344,15 @@ target = "{0, 49}";
 type = Stem;
 },
 {
-origin = "{0, 20}";
 place = "{85, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 49}";
 place = "{-8, -2147483648}";
 type = Stem;
 },
 {
-origin = "{0, 30}";
 place = "{427, -2147483648}";
 type = Stem;
 }
@@ -61766,18 +61687,15 @@ target = "{0, 38}";
 type = Stem;
 },
 {
-origin = "{0, 32}";
 place = "{85, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 17}";
 place = "{428, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 38}";
 place = "{-8, -2147483648}";
 type = Stem;
 }
@@ -62378,12 +62296,10 @@ target = "{0, 23}";
 type = Stem;
 },
 {
-origin = "{2, 17}";
 place = "{85, -2147483648}";
 type = Stem;
 },
 {
-origin = "{3, 17}";
 place = "{407, -2147483648}";
 type = Stem;
 }
@@ -62840,18 +62756,15 @@ target = "{0, 28}";
 type = Stem;
 },
 {
-origin = "{0, 32}";
 place = "{434, -2147483648}";
 type = Stem;
 },
 {
-origin = "{1, 17}";
 place = "{100, -2147483648}";
 type = Stem;
 },
 {
 horizontal = 1;
-origin = "{0, 38}";
 place = "{708, -2147483648}";
 type = Stem;
 }
@@ -63343,7 +63256,6 @@ width = 165;
 {
 hints = (
 {
-origin = "{0, 3}";
 place = "{99, -2147483648}";
 type = Stem;
 }
@@ -65126,7 +65038,6 @@ layers = (
 hints = (
 {
 horizontal = 1;
-origin = "{1, 11}";
 place = "{213, -2147483648}";
 type = Stem;
 },
@@ -87747,7 +87658,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = weightClass;
@@ -87807,7 +87718,7 @@ value = 275;
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 39;
@@ -87859,7 +87770,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 53;
@@ -87911,7 +87822,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 71;
@@ -87961,7 +87872,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 96;
@@ -88013,7 +87924,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 116;
@@ -88065,7 +87976,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 141;
@@ -88117,7 +88028,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 166;
@@ -88169,7 +88080,7 @@ value = "Barlow Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 188;
@@ -88220,7 +88131,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = weightClass;
@@ -88290,7 +88201,7 @@ value = 275;
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88352,7 +88263,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88427,7 +88338,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88487,7 +88398,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88549,7 +88460,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88611,7 +88522,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88673,7 +88584,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88735,7 +88646,7 @@ value = "Barlow Semi Condensed";
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = winAscent;
@@ -88791,7 +88702,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 },
 {
 name = weightClass;
@@ -88850,7 +88761,7 @@ value = 275;
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 39;
@@ -88897,7 +88808,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 53;
@@ -88944,7 +88855,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 71;
@@ -88989,7 +88900,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 96;
@@ -89036,7 +88947,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 116;
@@ -89083,7 +88994,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 141;
@@ -89130,7 +89041,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 166;
@@ -89177,7 +89088,7 @@ value = (
 },
 {
 name = italicAngle;
-value = 7;
+value = "7";
 }
 );
 interpolationWeight = 188;
@@ -89243,7 +89154,7 @@ slash = 20;
 "@MMK_L_L" = {
 "@MMK_R_A" = 61;
 "@MMK_R_S" = -8;
-"@MMK_R_T" = -30;
+"@MMK_R_T" = -50;
 "@MMK_R_Y" = -20;
 "@MMK_R_comma" = 20;
 "@MMK_R_t" = -7;
@@ -89381,6 +89292,9 @@ quoteright = 10;
 };
 "@MMK_L_k.sc" = {
 "@MMK_R_a.sc" = 25;
+};
+"@MMK_L_l" = {
+lcaron.sc = 0;
 };
 "@MMK_L_l.sc" = {
 "@MMK_R_a.sc" = 52;
@@ -89522,6 +89436,9 @@ zero.dnom = -8;
 };
 h.sc = {
 "@MMK_R_h.sc" = -10;
+};
+lcaron = {
+lcaron.sc = 0;
 };
 m.sc = {
 "@MMK_R_a.sc" = 19;
@@ -89675,7 +89592,7 @@ slash = -70;
 };
 "@MMK_L_L" = {
 "@MMK_R_O" = -5;
-"@MMK_R_T" = -80;
+"@MMK_R_T" = -94;
 "@MMK_R_Y" = -40;
 "@MMK_R_t" = -16;
 question = -20;
@@ -90083,6 +90000,7 @@ X = 19;
 };
 "@MMK_L_L" = {
 "@MMK_R_A" = 60;
+"@MMK_R_T" = -97;
 "@MMK_R_V" = -22;
 "@MMK_R_t" = -10;
 };
@@ -90948,9 +90866,9 @@ fraction = -25;
 };
 };
 };
-manufacturer = "Tribby Type Co.";
+manufacturer = "Tribby Type";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 403;
+versionMinor = 408;
 }
