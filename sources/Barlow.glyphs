@@ -1,5 +1,5 @@
 {
-.appVersion = "1176";
+.appVersion = "1192";
 copyright = "Copyright 2017 The Barlow Project Authors (https://github.com/jpt/barlow)";
 customParameters = (
 {
@@ -10098,12 +10098,12 @@ transform = "{1, 0, 0, 1, 7, 0}";
 {
 alignment = -1;
 name = slashlongcomb;
-transform = "{1, 0, 0, 1, 47, 0}";
+transform = "{1, 0, 0, 1, 61, 0}";
 }
 );
 layerId = "160CDC3E-1151-4942-8EC5-A5A167ED0AB4";
 name = "100,300}";
-width = 503;
+width = 635;
 },
 {
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -10111,16 +10111,16 @@ components = (
 {
 alignment = -1;
 name = O;
-transform = "{1, 0, 0, 1, 8, 0}";
+transform = "{1, 0, 0, 1, 7, 0}";
 },
 {
 name = slashlongcomb;
-transform = "{1, 0, 0, 1, 62, 0}";
+transform = "{1, 0, 0, 1, 61, 0}";
 }
 );
 layerId = "ED17B6D4-A8AE-40B6-9381-1DD3D326EE5F";
 name = "100,500}";
-width = 630;
+width = 635;
 },
 {
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -10207,14 +10207,14 @@ nodes = (
 );
 }
 );
-width = 554;
+width = 471;
 },
 {
 associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, -7, 0}";
+transform = "{1, 0, 0, 1, -1, 0}";
 }
 );
 hints = (
@@ -10245,23 +10245,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"597 669 LINE",
-"494 746 LINE",
-"384 582 LINE",
-"493 514 LINE"
+"603 669 LINE",
+"500 746 LINE",
+"390 582 LINE",
+"499 514 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"220 113 LINE",
-"121 193 LINE",
-"11 31 LINE",
-"113 -46 LINE"
+"226 113 LINE",
+"127 193 LINE",
+"17 31 LINE",
+"119 -46 LINE"
 );
 }
 );
-width = 614;
+width = 620;
 },
 {
 associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -10316,14 +10316,14 @@ nodes = (
 );
 }
 );
-width = 636;
+width = 474;
 },
 {
 associatedMasterId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 components = (
 {
 name = O;
-transform = "{1, 0, 0, 1, 1, 0}";
+transform = "{1, 0, 0, 1, 6, 0}";
 }
 );
 hints = (
@@ -10354,23 +10354,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"605 669 LINE",
-"502 746 LINE",
-"12 21 LINE",
-"121 -46 LINE"
+"610 669 LINE",
+"507 746 LINE",
+"17 21 LINE",
+"126 -46 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"605 669 LINE",
-"502 746 LINE",
-"12 21 LINE",
-"121 -46 LINE"
+"610 669 LINE",
+"507 746 LINE",
+"17 21 LINE",
+"126 -46 LINE"
 );
 }
 );
-width = 622;
+width = 627;
 }
 );
 unicode = 00D8;
@@ -31750,6 +31750,7 @@ layers = (
 components = (
 {
 name = o;
+transform = "{1, 0, 0, 1, 2, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
@@ -31757,23 +31758,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"441 510 LINE",
-"422 522 LINE",
-"76 -1 LINE",
-"94 -13 LINE"
+"443 510 LINE",
+"424 522 LINE",
+"78 -1 LINE",
+"96 -13 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"441 510 LINE",
-"422 522 LINE",
-"76 -1 LINE",
-"94 -13 LINE"
+"443 510 LINE",
+"424 522 LINE",
+"78 -1 LINE",
+"96 -13 LINE"
 );
 }
 );
-width = 524;
+width = 526;
 },
 {
 components = (
@@ -31881,7 +31882,7 @@ nodes = (
 );
 }
 );
-width = 445;
+width = 461;
 },
 {
 associatedMasterId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -31978,14 +31979,14 @@ nodes = (
 );
 }
 );
-width = 457;
+width = 447;
 },
 {
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 3, 0}";
+transform = "{1, 0, 0, 1, -7, 0}";
 }
 );
 hints = (
@@ -32014,23 +32015,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"530 495 LINE",
-"430 575 LINE",
-"313 407 LINE",
-"416 331 LINE"
+"520 495 LINE",
+"420 575 LINE",
+"303 407 LINE",
+"406 331 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"248 98 LINE",
-"145 174 LINE",
-"39 21 LINE",
-"139 -59 LINE"
+"238 98 LINE",
+"135 174 LINE",
+"29 21 LINE",
+"129 -59 LINE"
 );
 }
 );
-width = 551;
+width = 549;
 },
 {
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -32082,7 +32083,7 @@ nodes = (
 );
 }
 );
-width = 479;
+width = 459;
 },
 {
 associatedMasterId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -32179,11 +32180,11 @@ name = oslash;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 140, 0}";
+transform = "{1, 0, 0, 1, 142, 0}";
 }
 );
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
-width = 524;
+width = 526;
 },
 {
 components = (
@@ -90870,5 +90871,5 @@ manufacturer = "Tribby Type";
 manufacturerURL = "https://tribby.com/";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 408;
+versionMinor = 409;
 }
