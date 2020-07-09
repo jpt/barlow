@@ -25,7 +25,7 @@ Building the GX file requires Glyphs. First, move the contents of the `tools` fo
 
 Jeremy Tribby, principal design
 
-[Nhung Nguyen](https://github.com/crystaltype), Vietnamese
+[Nguyễn Hồng Nhung](https://github.com/crystaltype), Vietnamese
 
 ## Acknowledgements
 
