@@ -38,7 +38,7 @@ name = "Axis Mappings";
 value = {
 wdth = {
 300 = 75;
-400 = 87.5;
+400 = 87;
 500 = 100;
 };
 wght = {
@@ -530,11 +530,11 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 22;
+Location = 100;
 },
 {
 Axis = Width;
-Location = 300;
+Location = 75;
 }
 );
 },
@@ -664,7 +664,7 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 188;
+Location = 900;
 },
 {
 Axis = Width;
@@ -750,11 +750,11 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 22;
+Location = 100;
 },
 {
 Axis = Width;
-Location = 500;
+Location = 100;
 }
 );
 },
@@ -854,11 +854,11 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 188;
+Location = 900;
 },
 {
 Axis = Width;
-Location = 500;
+Location = 100;
 }
 );
 },
@@ -86897,6 +86897,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -86961,6 +86974,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87025,6 +87051,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87088,6 +87127,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87152,6 +87204,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87216,6 +87281,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87281,6 +87359,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87345,6 +87436,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87416,6 +87520,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87490,6 +87607,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87564,6 +87694,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87624,11 +87767,11 @@ name = "Axis Location";
 value = (
 {
 Axis = Weight;
-Location = 71;
+Location = 400;
 },
 {
 Axis = Width;
-Location = 85;
+Location = 87;
 }
 );
 },
@@ -87651,6 +87794,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87724,6 +87880,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87798,6 +87967,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87872,6 +88054,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -87947,6 +88142,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88021,6 +88229,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88085,6 +88306,19 @@ value = 1;
 {
 name = Filter;
 value = AddExtremes;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88136,6 +88370,19 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88187,6 +88434,19 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88238,6 +88498,19 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88288,6 +88561,19 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88339,6 +88625,19 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88390,6 +88689,19 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88442,6 +88754,19 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88493,6 +88818,19 @@ value = "GlyphsFilterRoundCorner;15;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88558,6 +88896,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88627,6 +88978,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88696,6 +89060,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88765,6 +89142,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88832,6 +89222,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88901,6 +89304,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -88970,6 +89386,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89039,6 +89468,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89108,6 +89550,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89184,6 +89639,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89271,6 +89739,19 @@ value = "18 1; Barlow Semi Condensed ExtraLight Italic";
 {
 name = "Name Table Entry";
 value = "1 3; Barlow Semi Condensed ExtraLight";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89350,6 +89831,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89408,19 +89902,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = "71";
-},
-{
-Axis = Width;
-Location = "85";
-}
-);
-},
-{
 name = Filter;
 value = "Transformations;OffsetX:-20;ScaleX:97;SlantCorrection:0;Slant:7;Origin:4;";
 },
@@ -89442,6 +89923,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89519,6 +90013,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89598,6 +90105,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89677,6 +90197,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89756,6 +90289,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89835,6 +90381,19 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 87;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89908,6 +90467,19 @@ value = "7";
 {
 name = "New Parameter";
 value = "New Value";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -89957,6 +90529,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90006,6 +90591,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90055,6 +90653,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90102,6 +90713,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90151,6 +90775,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90200,6 +90837,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90249,6 +90899,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90298,6 +90961,19 @@ value = (
 {
 name = italicAngle;
 value = "7";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 instanceInterpolations = {
@@ -90307,23 +90983,6 @@ isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
 weightClass = 900;
-},
-{
-axesValues = (
-22,
-300
-);
-customParameters = (
-{
-name = "Decompose Components";
-value = 1;
-}
-);
-instanceInterpolations = {
-"DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5" = 1;
-};
-name = Regular;
-type = variable;
 }
 );
 kerningLTR = {
