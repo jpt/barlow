@@ -5,21 +5,17 @@
 
 Barlow is a slightly rounded, low-contrast, grotesk type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains.
 
-The family includes 54 styles in three widths and nine weights, as well as italics, suitable for large and small digital and print use. Customizable weights and widths are available via the included variable font (GX) file.
+The family includes 54 styles in three widths and nine weights, as well as italics, suitable for large and small digital and print use. Customizable weights and widths were formerly available via a "GX" file; a new VF is being produced. 
 
 Barlow is named after internet pioneer, EFF co-founder, songwriter, and activist [John Perry Barlow](https://en.wikipedia.org/wiki/John_Perry_Barlow), in tribute to his lasting [impact on the information superhighway](https://www.eff.org/cyberspace-independence). Please consider making a donation to the [Electronic Frontier Foundation](https://eff.org/donate) in his memory.
 
 ## Download
 
-[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the OpenType font files in the `fonts/otf` directory. A good way to play with it as a web font (`fonts/woff`) is on the [Cyreal.org font testing site](http://www.cyreal.org/Font-Testing-Page/index.php)
+[Download the project](https://github.com/jpt/barlow/archive/master.zip) and find the font files in the `fonts` directory.
 
 ## Variable font support
 
-Variable font support is currently experimental, both in the Barlow typeface and in the general ecosystem of tooling and rendering; please open an issue if you find a bug (other than a lack of rounding)!
-
-#### Building the variable Font
-
-Building the GX file requires Glyphs. First, move the contents of the `tools` folder in this repo to your local Glyphs Scripts folder (`Scripts->Open Script Folder`) and refresh your Glyphs scripts (`Option + Scripts->Reload Scripts`). Save a copy of Barlow.glyphs as Barlow-GX.glyphs. Run the `Brace Layer Decompose` script, and then the `Brace Layer VF Designspace Fix` script. The font is now ready for GX export from Glyphs.
+Variable font support is no longer supported but coming back soon.
 
 ## Contributors
 
