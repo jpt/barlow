@@ -3,7 +3,7 @@
 
 # Barlow
 
-Barlow is a slightly rounded, straight-sided highway type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains.
+Barlow is a slightly rounded, straight-sided gothic type family designed by [Jeremy Tribby](https://tribby.com). Drawing from the visual style of the California public, Barlow shares qualities with the state's car plates, highway signs, busses, and trains.
 
 The family includes 54 styles in three widths and nine weights, as well as italics, suitable for large and small digital and print use. Customizable weights and widths were formerly available via a "GX" file; a new VF is being produced. 
 
