@@ -1,10 +1,6 @@
 {
 .appVersion = "3099";
 .formatVersion = 3;
-DisplayStrings = (
-"",
-"/zero.tf 1/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf"
-);
 axes = (
 {
 name = Weight;
@@ -57,6 +53,22 @@ wght = {
 188 = 900;
 };
 };
+},
+{
+name = blueScale;
+value = 0.06196;
+},
+{
+name = "Use Line Breaks";
+value = 1;
+},
+{
+name = "Variable Font Origin";
+value = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
+},
+{
+name = "Get Hints From Master";
+value = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 }
 );
 date = "2021-10-10 07:15:54 +0000";
@@ -550,15 +562,6 @@ value = 0;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-pos = 800;
-size = 16;
-}
-);
 }
 );
 iconName = Light_Condensed;
@@ -695,15 +698,6 @@ value = 0;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-pos = 800;
-size = 8;
-}
-);
 },
 {
 name = "Axis Location";
@@ -850,15 +844,6 @@ value = 0;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-pos = 800;
-size = 8;
-}
-);
 }
 );
 iconName = Light;
@@ -1048,15 +1033,6 @@ value = 0;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = "Alignment Zones";
-value = (
-{
-pos = 800;
-size = 8;
-}
-);
 }
 );
 iconName = Bold;
@@ -27417,23 +27393,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(401,-161,o),
-(444,-105,o),
-(444,-24,cs),
-(444,200,l),
-(422,200,l),
-(422,-24,ls),
-(422,-92,o),
-(388,-140,o),
-(325,-140,c),
-(325,-161,l)
+(393,-161,o),
+(436,-105,o),
+(436,-24,cs),
+(436,200,l),
+(414,200,l),
+(414,-24,ls),
+(414,-92,o),
+(380,-140,o),
+(317,-140,c),
+(317,-161,l)
 );
 },
 {
 ref = n;
 }
 );
-width = 531;
+width = 497;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
@@ -27457,7 +27433,7 @@ nodes = (
 ref = n;
 }
 );
-width = 569;
+width = 573;
 },
 {
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
@@ -27465,23 +27441,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(309,-151,o),
-(338,-99,o),
-(338,-24,cs),
-(338,250,l),
-(316,250,l),
-(316,-24,ls),
-(316,-86,o),
-(294,-130,o),
-(238,-130,c),
-(238,-151,l)
+(294,-151,o),
+(323,-99,o),
+(323,-24,cs),
+(323,250,l),
+(301,250,l),
+(301,-24,ls),
+(301,-86,o),
+(279,-130,o),
+(223,-130,c),
+(223,-151,l)
 );
 },
 {
 ref = n;
 }
 );
-width = 397;
+width = 356;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
@@ -27505,7 +27481,7 @@ nodes = (
 ref = n;
 }
 );
-width = 462;
+width = 464;
 }
 );
 unicode = 331;
@@ -64721,7 +64697,7 @@ width = 264;
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 shapes = (
 {
-pos = (41,-610);
+pos = (41,-626);
 ref = dotaccentcomb;
 }
 );
@@ -82691,10 +82667,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -82714,6 +82686,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -82768,10 +82748,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -82791,6 +82767,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -82845,10 +82829,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -82868,6 +82848,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -82920,10 +82908,6 @@ value = "GlyphsFilterRoundCorner;10;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
 },
 {
 name = "Update Features";
@@ -82998,10 +82982,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83021,6 +83001,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83075,10 +83063,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83098,6 +83082,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -83150,10 +83142,6 @@ value = "GlyphsFilterRoundCorner;12;1;";
 {
 name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
 },
 {
 name = "Update Features";
@@ -83230,10 +83218,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-5;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83253,6 +83237,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -83307,10 +83299,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-6;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83330,6 +83318,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83391,10 +83387,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83414,6 +83406,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83478,10 +83478,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83501,6 +83497,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83565,10 +83569,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83588,6 +83588,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83663,10 +83671,6 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
 },
 {
 name = "Update Features";
@@ -83751,10 +83755,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83774,6 +83774,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -83838,10 +83846,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -83861,6 +83865,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -83923,10 +83935,6 @@ value = 1089;
 {
 name = winDescent;
 value = 261;
-},
-{
-name = "TTFAutohint options";
-value = "--windows-compatibility";
 },
 {
 name = "Update Features";
@@ -84013,10 +84021,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -84036,6 +84040,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -84100,10 +84112,6 @@ name = winDescent;
 value = 261;
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -84123,6 +84131,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84177,10 +84193,6 @@ name = Filter;
 value = "GlyphsFilterRoundCorner;-4;1;";
 },
 {
-name = "TTFAutohint options";
-value = "--windows-compatibility";
-},
-{
 name = "Update Features";
 value = 1;
 },
@@ -84200,6 +84212,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84264,6 +84284,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84328,6 +84356,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84455,6 +84491,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84519,6 +84563,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -84648,6 +84700,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = Bold;
 }
 );
 instanceInterpolations = {
@@ -84712,6 +84772,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -84790,6 +84858,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -84872,6 +84948,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -84954,6 +85038,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85116,6 +85208,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85198,6 +85298,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -85362,6 +85470,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -85444,6 +85560,14 @@ Axis = Width;
 Location = 75;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85533,6 +85657,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85633,6 +85765,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85725,6 +85865,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85907,6 +86055,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -85999,6 +86155,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -86183,6 +86347,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -86275,6 +86447,14 @@ Axis = Width;
 Location = 87;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -86357,6 +86537,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Thin";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -86419,6 +86607,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow ExtraLight";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -86481,6 +86677,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Light";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -86603,6 +86807,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Medium";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
@@ -86665,6 +86877,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Semi";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -86789,6 +87009,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Extra";
+},
+{
+name = WWSSubfamilyName;
+value = "Bold Italic";
 }
 );
 instanceInterpolations = {
@@ -86851,6 +87079,14 @@ Axis = Width;
 Location = 100;
 }
 );
+},
+{
+name = WWSFamilyName;
+value = "Barlow Black";
+},
+{
+name = WWSSubfamilyName;
+value = Italic;
 }
 );
 instanceInterpolations = {
