@@ -67692,64 +67692,53 @@ R = parenthesis;
 },
 {
 glyphname = parenright;
-kernLeft = KO_parenright;
-kernRight = KO_parenright;
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 shapes = (
 {
-alignment = 1;
 angle = 180;
-pos = (232,1000);
+pos = (200,653);
 ref = parenleft;
 }
 );
-width = 232;
+width = 200;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = 1;
 angle = 180;
-pos = (325,1000);
+pos = (371,673);
 ref = parenleft;
 }
 );
-width = 325;
+width = 371;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = 1;
 angle = 180;
-pos = (369,1000);
+pos = (405,673);
 ref = parenleft;
 }
 );
-width = 369;
+width = 405;
 },
 {
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 shapes = (
 {
-alignment = 1;
 angle = 180;
-pos = (167,1000);
+pos = (159,653);
 ref = parenleft;
 }
 );
-width = 167;
+width = 159;
 }
 );
 unicode = 41;
-userData = {
-KernOnSpecialSpacing = {
-L = parenthesis;
-};
-};
 },
 {
 glyphname = braceleft;
@@ -75806,61 +75795,53 @@ R = math;
 },
 {
 glyphname = multiply;
-kernLeft = KO_multiply;
-kernRight = KO_multiply;
 layers = (
 {
 layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 shapes = (
 {
-alignment = 1;
 angle = 45;
+pos = (252,-86);
 ref = plus;
 }
 );
-width = 476;
+width = 405;
 },
 {
 layerId = "FFFA8D72-12AC-4CE0-B2CA-57A29829F4DA";
 shapes = (
 {
-alignment = 1;
 angle = 45;
+pos = (269,-64);
 ref = plus;
 }
 );
-width = 476;
+width = 462;
 },
 {
 layerId = "DCBE1F7B-116A-43E0-B7B4-8657BA77D8B5";
 shapes = (
 {
-alignment = 1;
 angle = 45;
+pos = (247,-74);
 ref = plus;
 }
 );
-width = 436;
+width = 350;
 },
 {
 layerId = "4E2227F3-52E4-4048-A8EE-327B486EF0A4";
 shapes = (
 {
-alignment = 1;
 angle = 45;
+pos = (271,-61);
 ref = plus;
 }
 );
-width = 436;
+width = 418;
 }
 );
 unicode = 215;
-userData = {
-KernOnSpecialSpacing = {
-L = math;
-R = math;
-};
-};
 },
 {
 glyphname = divide;
@@ -88322,7 +88303,6 @@ ae.sc = -46;
 };
 Ecircumflexhookabove = {
 sevensuperior = 62;
-parenright = 33;
 };
 a = {
 T = -80;
@@ -90003,7 +89983,6 @@ comma = -43;
 slash = -18;
 backslash = -30;
 underscore = -37;
-parenright = -8;
 asciitilde = -47;
 };
 acircumflexgrave = {
@@ -90188,7 +90167,6 @@ guilsinglleft = {
 foursuperior = -46;
 period = -9;
 comma = -8;
-parenright = -19;
 };
 p = {
 schwa = 0;
@@ -90346,7 +90324,6 @@ colon = 187;
 semicolon = 183;
 exclam = 162;
 question = 112;
-parenright = 204;
 dagger = 155;
 };
 d = {
@@ -90392,7 +90369,6 @@ one = -63;
 };
 perthousand = {
 period = 0;
-parenright = 17;
 };
 "@MMK_L_KO_I_J.liga" = {
 "@MMK_R_KO_A" = -11;
@@ -91122,7 +91098,6 @@ period = -11;
 comma = -14;
 colon = -4;
 exclam = 0;
-parenright = 0;
 bracketright = 53;
 quotedblright = 28;
 quotedbl = 0;
@@ -91912,7 +91887,6 @@ fraction = -21;
 period = -61;
 comma = -61;
 hyphen = -45;
-parenright = -9;
 };
 uni0162 = {
 a = -65;
@@ -92861,7 +92835,6 @@ comma = -7;
 exclam = 67;
 question = 92;
 hyphen = -13;
-parenright = 47;
 bracketright = 107;
 quotedblleft = 58;
 quoteleft = 62;
@@ -93177,7 +93150,6 @@ period = -7;
 comma = -9;
 colon = -3;
 exclam = 0;
-parenright = 6;
 bracketright = 55;
 quotedblright = 30;
 quotedbl = 0;
@@ -93331,7 +93303,6 @@ comma = -64;
 slash = -71;
 hyphen = -89;
 softhyphen = -89;
-parenright = -23;
 };
 eth = {
 a = -5;
@@ -93368,30 +93339,6 @@ eight.dnom = 22;
 odieresis.sc = {
 germandbls = 0;
 eth.sc = -27;
-};
-parenright = {
-A = -49;
-J = -24;
-a = -19;
-c = -20;
-g = -20;
-g_j.liga = -20;
-d = -20;
-q = -20;
-e = -20;
-i = 0;
-m = -20;
-n = -20;
-r = -20;
-p = -20;
-icircumflex = 43;
-o = -20;
-s = -16;
-a.sc = -62;
-parenleft = -8;
-guillemetright = -9;
-asciicircum = -42;
-radical = -46;
 };
 "@MMK_L_KO_Uhorn" = {
 "@MMK_R_KO_A" = -12;
@@ -93912,7 +93859,6 @@ period = -83;
 comma = -64;
 asterisk = -46;
 hyphen = -17;
-parenright = -17;
 };
 j.sc = {
 a.sc = -24;
@@ -94253,7 +94199,6 @@ three = 60;
 four = 78;
 six = 62;
 nine = 61;
-parenright = 70;
 };
 Tcaron = {
 a = -68;
@@ -94354,7 +94299,6 @@ fivesuperior = 0;
 onesuperior = 0;
 threesuperior = 6;
 sevensuperior = 15;
-parenright = 0;
 };
 uni021A = {
 a = -68;
@@ -94379,7 +94323,6 @@ period = -49;
 comma = -49;
 hyphen = -49;
 softhyphen = -49;
-parenright = -24;
 };
 fl = {
 ellipsis = -16;
@@ -95322,7 +95265,6 @@ semicolon = {
 one = -49;
 hyphen_hyphen.liga = -10;
 hyphen = 0;
-parenright = -3;
 quotedblright = 48;
 quotedbl = -6;
 };
@@ -95407,7 +95349,6 @@ fivesuperior = 14;
 onesuperior = 14;
 threesuperior = 26;
 sevensuperior = 37;
-parenright = 12;
 };
 acircumflex = {
 c = 0;
@@ -95425,7 +95366,6 @@ period = -18;
 comma = -19;
 exclam = -15;
 hyphen = -11;
-parenright = 0;
 quotedblright = 38;
 quoteright = 20;
 };
@@ -95433,7 +95373,6 @@ registered = {
 period = -83;
 comma = -64;
 slash = -45;
-parenright = -20;
 quotedblright = 70;
 quoteright = 51;
 };
@@ -95940,7 +95879,6 @@ asciitilde = -80;
 };
 uni2113 = {
 uni2113 = -80;
-parenright = -46;
 };
 "@MMK_L_KO_ellipsis" = {
 "@MMK_R_KO_A" = 28;
@@ -96133,7 +96071,6 @@ gstroke = 45;
 u = 34;
 u.sc = 23;
 parenleft = 47;
-parenright = 69;
 };
 S = {
 Lslash = 50;
@@ -96530,10 +96467,8 @@ ellipsis = -9;
 periodcentered.loclCAT.case = 94;
 periodcentered.loclCAT.sc = 68;
 hyphen = -23;
-parenright = -19;
 quotedblright = 39;
 quoteright = 20;
-multiply = 232;
 };
 "@MMK_L_KO_f" = {
 "@MMK_R_KO_A" = -24;
@@ -96781,7 +96716,6 @@ comma = -20;
 seven.numr = {
 period = -83;
 hyphen = -26;
-parenright = -10;
 };
 "@MMK_L_KO_one" = {
 "@MMK_R_KO_zero" = 5;
@@ -96830,7 +96764,6 @@ onesuperior = 37;
 twosuperior = 23;
 threesuperior = 49;
 sevensuperior = 60;
-parenright = 34;
 };
 Uogonek = {
 hyphen_hyphen.liga = -16;
@@ -96937,7 +96870,6 @@ one = 18;
 two = 19;
 seven = 26;
 period = -4;
-parenright = -22;
 };
 five = {
 C = 0;
@@ -97593,21 +97525,6 @@ a = 16;
 e = 5;
 eight.dnom = 26;
 };
-multiply = {
-I = -80;
-l = -73;
-f = -109;
-r = -127;
-i.sc = -87;
-q.sc = -186;
-x.sc = -175;
-Delta = -218;
-Omega = -214;
-one.numr = -61;
-three.numr = -111;
-seveneighths = -218;
-parenleft = -83;
-};
 m.sc = {
 schwa = -20;
 ae.sc = -19;
@@ -98130,7 +98047,6 @@ colon = -17;
 slash = -49;
 hyphen = -51;
 softhyphen = -51;
-parenright = -23;
 quotedblright = 56;
 quoteright = 38;
 };
@@ -99618,7 +99534,6 @@ ae.sc = -72;
 };
 Ecircumflexhookabove = {
 sevensuperior = 58;
-parenright = 53;
 };
 a = {
 T = -69;
@@ -101299,7 +101214,6 @@ comma = -66;
 slash = -76;
 backslash = -44;
 underscore = -60;
-parenright = -17;
 asciitilde = -54;
 };
 acircumflexgrave = {
@@ -101484,7 +101398,6 @@ guilsinglleft = {
 foursuperior = -126;
 period = -16;
 comma = -15;
-parenright = -27;
 };
 p = {
 schwa = 0;
@@ -101642,7 +101555,6 @@ colon = -49;
 semicolon = -14;
 exclam = -16;
 question = -99;
-parenright = 0;
 dagger = 0;
 };
 d = {
@@ -101688,7 +101600,6 @@ one = -5;
 };
 perthousand = {
 period = -16;
-parenright = 0;
 };
 "@MMK_L_KO_I_J.liga" = {
 "@MMK_R_KO_A" = -14;
@@ -102418,7 +102329,6 @@ period = -20;
 comma = -18;
 colon = -48;
 exclam = 67;
-parenright = 56;
 bracketright = 135;
 quotedblright = 64;
 quotedbl = 72;
@@ -103208,7 +103118,6 @@ fraction = -86;
 period = -86;
 comma = -86;
 hyphen = -86;
-parenright = -47;
 };
 uni0162 = {
 a = -69;
@@ -104157,7 +104066,6 @@ comma = -12;
 exclam = 204;
 question = 143;
 hyphen = -17;
-parenright = 127;
 bracketright = 214;
 quotedblleft = 149;
 quoteleft = 148;
@@ -104473,7 +104381,6 @@ period = -20;
 comma = -18;
 colon = -46;
 exclam = 71;
-parenright = 58;
 bracketright = 137;
 quotedblright = 67;
 quotedbl = 75;
@@ -104627,7 +104534,6 @@ comma = -108;
 slash = -182;
 hyphen = -180;
 softhyphen = -171;
-parenright = -64;
 };
 eth = {
 a = 0;
@@ -104664,30 +104570,6 @@ eight.dnom = 0;
 odieresis.sc = {
 germandbls = 0;
 eth.sc = -8;
-};
-parenright = {
-A = -87;
-J = -81;
-a = -40;
-c = -37;
-g = -33;
-g_j.liga = -33;
-d = -32;
-q = -32;
-e = -37;
-i = -8;
-m = -17;
-n = -17;
-r = -17;
-p = -17;
-icircumflex = 50;
-o = -37;
-s = -31;
-a.sc = -110;
-parenleft = -23;
-guillemetright = -22;
-asciicircum = -58;
-radical = -86;
 };
 "@MMK_L_KO_Uhorn" = {
 "@MMK_R_KO_A" = -17;
@@ -105208,7 +105090,6 @@ period = -123;
 comma = -108;
 asterisk = -56;
 hyphen = -15;
-parenright = 0;
 };
 j.sc = {
 a.sc = -26;
@@ -105549,7 +105430,6 @@ three = 10;
 four = 8;
 six = 10;
 nine = 10;
-parenright = 13;
 };
 Tcaron = {
 a = -69;
@@ -105650,7 +105530,6 @@ fivesuperior = 84;
 onesuperior = 78;
 threesuperior = 82;
 sevensuperior = 90;
-parenright = 98;
 };
 uni021A = {
 a = -69;
@@ -105675,7 +105554,6 @@ period = -115;
 comma = -108;
 hyphen = -115;
 softhyphen = -115;
-parenright = -64;
 };
 fl = {
 ellipsis = -20;
@@ -106618,7 +106496,6 @@ semicolon = {
 one = -44;
 hyphen_hyphen.liga = -14;
 hyphen = -14;
-parenright = -19;
 quotedblright = 0;
 quotedbl = -25;
 };
@@ -106703,7 +106580,6 @@ fivesuperior = 75;
 onesuperior = 68;
 threesuperior = 71;
 sevensuperior = 81;
-parenright = 88;
 };
 acircumflex = {
 c = 0;
@@ -106721,7 +106597,6 @@ period = -22;
 comma = -20;
 exclam = -12;
 hyphen = -13;
-parenright = 0;
 quotedblright = 0;
 quoteright = 0;
 };
@@ -106729,7 +106604,6 @@ registered = {
 period = -123;
 comma = -108;
 slash = -125;
-parenright = -43;
 quotedblright = 0;
 quoteright = 0;
 };
@@ -107236,7 +107110,6 @@ asciitilde = -83;
 };
 uni2113 = {
 uni2113 = -73;
-parenright = -69;
 };
 "@MMK_L_KO_ellipsis" = {
 "@MMK_R_KO_A" = 0;
@@ -107429,7 +107302,6 @@ gstroke = 0;
 u = 0;
 u.sc = 0;
 parenleft = 0;
-parenright = 23;
 };
 S = {
 Lslash = 32;
@@ -107826,10 +107698,8 @@ ellipsis = -16;
 periodcentered.loclCAT.case = 150;
 periodcentered.loclCAT.sc = 152;
 hyphen = -33;
-parenright = -27;
 quotedblright = 0;
 quoteright = 0;
-multiply = 246;
 };
 "@MMK_L_KO_f" = {
 "@MMK_R_KO_A" = -26;
@@ -108077,7 +107947,6 @@ comma = -29;
 seven.numr = {
 period = -123;
 hyphen = -61;
-parenright = -62;
 };
 "@MMK_L_KO_one" = {
 "@MMK_R_KO_zero" = -5;
@@ -108126,7 +107995,6 @@ onesuperior = 107;
 twosuperior = 62;
 threesuperior = 111;
 sevensuperior = 120;
-parenright = 127;
 };
 Uogonek = {
 hyphen_hyphen.liga = -21;
@@ -108233,7 +108101,6 @@ one = 0;
 two = 0;
 seven = 0;
 period = -18;
-parenright = -62;
 };
 five = {
 C = 8;
@@ -108889,21 +108756,6 @@ a = 0;
 e = 0;
 eight.dnom = 0;
 };
-multiply = {
-I = -124;
-l = -116;
-f = -149;
-r = -170;
-i.sc = -115;
-q.sc = -218;
-x.sc = -218;
-Delta = -218;
-Omega = -218;
-one.numr = -86;
-three.numr = -135;
-seveneighths = -218;
-parenleft = -162;
-};
 m.sc = {
 schwa = 0;
 ae.sc = -3;
@@ -109426,7 +109278,6 @@ colon = -65;
 slash = -148;
 hyphen = -119;
 softhyphen = -119;
-parenright = -60;
 quotedblright = 0;
 quoteright = 0;
 };
@@ -110914,7 +110765,6 @@ ae.sc = -42;
 };
 Ecircumflexhookabove = {
 sevensuperior = 0;
-parenright = -6;
 };
 a = {
 T = -111;
@@ -112595,7 +112445,6 @@ comma = -93;
 slash = -24;
 backslash = -104;
 underscore = -83;
-parenright = 0;
 asciitilde = -47;
 };
 acircumflexgrave = {
@@ -112780,7 +112629,6 @@ guilsinglleft = {
 foursuperior = -21;
 period = -61;
 comma = -30;
-parenright = -9;
 };
 p = {
 schwa = 0;
@@ -112938,7 +112786,6 @@ colon = -31;
 semicolon = 0;
 exclam = -43;
 question = -105;
-parenright = 28;
 dagger = -5;
 };
 d = {
@@ -112984,7 +112831,6 @@ one = -59;
 };
 perthousand = {
 period = -46;
-parenright = 0;
 };
 "@MMK_L_KO_I_J.liga" = {
 "@MMK_R_KO_A" = -10;
@@ -113714,7 +113560,6 @@ period = -71;
 comma = -25;
 colon = -44;
 exclam = -83;
-parenright = 0;
 bracketright = 0;
 quotedblright = 20;
 quotedbl = -7;
@@ -114504,7 +114349,6 @@ fraction = -37;
 period = -87;
 comma = -87;
 hyphen = -87;
-parenright = -7;
 };
 uni0162 = {
 a = -105;
@@ -115453,7 +115297,6 @@ comma = -23;
 exclam = 0;
 question = 9;
 hyphen = -60;
-parenright = 21;
 bracketright = 96;
 quotedblleft = 64;
 quoteleft = 64;
@@ -115769,7 +115612,6 @@ period = -67;
 comma = -39;
 colon = -43;
 exclam = -77;
-parenright = 0;
 bracketright = 0;
 quotedblright = 24;
 quotedbl = -6;
@@ -115923,7 +115765,6 @@ comma = -94;
 slash = -99;
 hyphen = -99;
 softhyphen = -99;
-parenright = -43;
 };
 eth = {
 a = 0;
@@ -115960,30 +115801,6 @@ eight.dnom = 32;
 odieresis.sc = {
 germandbls = 0;
 eth.sc = -50;
-};
-parenright = {
-A = -71;
-J = -30;
-a = -43;
-c = -29;
-g = -29;
-g_j.liga = -29;
-d = -26;
-q = -26;
-e = -27;
-i = -26;
-m = -34;
-n = -34;
-r = -34;
-p = -34;
-icircumflex = 0;
-o = -27;
-s = -22;
-a.sc = -90;
-parenleft = -6;
-guillemetright = -9;
-asciicircum = -45;
-radical = -82;
 };
 "@MMK_L_KO_Uhorn" = {
 "@MMK_R_KO_A" = -7;
@@ -116504,7 +116321,6 @@ period = -142;
 comma = -94;
 asterisk = -30;
 hyphen = -51;
-parenright = -11;
 };
 j.sc = {
 a.sc = -32;
@@ -116845,7 +116661,6 @@ three = 17;
 four = 47;
 six = 59;
 nine = 46;
-parenright = 23;
 };
 Tcaron = {
 a = -108;
@@ -116946,7 +116761,6 @@ fivesuperior = -3;
 onesuperior = -9;
 threesuperior = 0;
 sevensuperior = -7;
-parenright = 0;
 };
 uni021A = {
 a = -108;
@@ -116971,7 +116785,6 @@ period = -63;
 comma = -63;
 hyphen = -63;
 softhyphen = -63;
-parenright = -43;
 };
 fl = {
 ellipsis = -51;
@@ -117914,7 +117727,6 @@ semicolon = {
 one = -59;
 hyphen_hyphen.liga = -65;
 hyphen = -64;
-parenright = -25;
 quotedblright = 0;
 quotedbl = -38;
 };
@@ -117999,7 +117811,6 @@ fivesuperior = -12;
 onesuperior = -11;
 threesuperior = -8;
 sevensuperior = -6;
-parenright = -4;
 };
 acircumflex = {
 c = 0;
@@ -118017,7 +117828,6 @@ period = -86;
 comma = -38;
 exclam = -93;
 hyphen = -46;
-parenright = -4;
 quotedblright = 20;
 quoteright = 0;
 };
@@ -118025,7 +117835,6 @@ registered = {
 period = -142;
 comma = -94;
 slash = -67;
-parenright = -20;
 quotedblright = 64;
 quoteright = 34;
 };
@@ -118532,7 +118341,6 @@ asciitilde = -84;
 };
 uni2113 = {
 uni2113 = -106;
-parenright = -59;
 };
 "@MMK_L_KO_ellipsis" = {
 "@MMK_R_KO_A" = 0;
@@ -118725,7 +118533,6 @@ gstroke = 43;
 u = 21;
 u.sc = 16;
 parenleft = 41;
-parenright = 63;
 };
 S = {
 Lslash = 65;
@@ -119122,10 +118929,8 @@ ellipsis = -45;
 periodcentered.loclCAT.case = 187;
 periodcentered.loclCAT.sc = 151;
 hyphen = -38;
-parenright = -9;
 quotedblright = 76;
 quoteright = 45;
-multiply = 227;
 };
 "@MMK_L_KO_f" = {
 "@MMK_R_KO_A" = -38;
@@ -119373,7 +119178,6 @@ comma = -47;
 seven.numr = {
 period = -135;
 hyphen = -80;
-parenright = 0;
 };
 "@MMK_L_KO_one" = {
 "@MMK_R_KO_zero" = 9;
@@ -119422,7 +119226,6 @@ onesuperior = 0;
 twosuperior = 0;
 threesuperior = 0;
 sevensuperior = 0;
-parenright = -7;
 };
 Uogonek = {
 hyphen_hyphen.liga = -39;
@@ -119529,7 +119332,6 @@ one = 0;
 two = 15;
 seven = 0;
 period = -48;
-parenright = -4;
 };
 five = {
 C = 2;
@@ -120185,21 +119987,6 @@ a = 31;
 e = 28;
 eight.dnom = 48;
 };
-multiply = {
-I = -111;
-l = -102;
-f = -148;
-r = -174;
-i.sc = -110;
-q.sc = -238;
-x.sc = -238;
-Delta = -238;
-Omega = -238;
-one.numr = -87;
-three.numr = -144;
-seveneighths = -238;
-parenleft = -116;
-};
 m.sc = {
 schwa = -16;
 ae.sc = -23;
@@ -120722,7 +120509,6 @@ colon = -56;
 slash = -65;
 hyphen = -66;
 softhyphen = -66;
-parenright = -29;
 quotedblright = 80;
 quoteright = 50;
 };
@@ -122210,7 +121996,6 @@ ae.sc = -49;
 };
 Ecircumflexhookabove = {
 sevensuperior = 18;
-parenright = 25;
 };
 a = {
 T = -78;
@@ -123891,7 +123676,6 @@ comma = -74;
 slash = -84;
 backslash = -32;
 underscore = -70;
-parenright = -16;
 asciitilde = -21;
 };
 acircumflexgrave = {
@@ -124076,7 +123860,6 @@ guilsinglleft = {
 foursuperior = -143;
 period = -12;
 comma = -16;
-parenright = -29;
 };
 p = {
 schwa = 12;
@@ -124234,7 +124017,6 @@ colon = -47;
 semicolon = 0;
 exclam = -20;
 question = -56;
-parenright = 12;
 dagger = 16;
 };
 d = {
@@ -124280,7 +124062,6 @@ one = 20;
 };
 perthousand = {
 period = 0;
-parenright = 23;
 };
 "@MMK_L_KO_I_J.liga" = {
 "@MMK_R_KO_A" = -15;
@@ -125010,7 +124791,6 @@ period = -16;
 comma = -17;
 colon = -60;
 exclam = 52;
-parenright = 26;
 bracketright = 124;
 quotedblright = 93;
 quotedbl = 71;
@@ -125800,7 +125580,6 @@ fraction = -40;
 period = -98;
 comma = -98;
 hyphen = -98;
-parenright = -46;
 };
 uni0162 = {
 a = -69;
@@ -126749,7 +126528,6 @@ comma = -11;
 exclam = 198;
 question = 169;
 hyphen = -23;
-parenright = 121;
 bracketright = 226;
 quotedblleft = 166;
 quoteleft = 155;
@@ -127065,7 +126843,6 @@ period = -15;
 comma = -13;
 colon = -53;
 exclam = 59;
-parenright = 36;
 bracketright = 131;
 quotedblright = 99;
 quotedbl = 78;
@@ -127219,7 +126996,6 @@ comma = -119;
 slash = -185;
 hyphen = -136;
 softhyphen = -136;
-parenright = -76;
 };
 eth = {
 a = 3;
@@ -127256,30 +127032,6 @@ eight.dnom = 18;
 odieresis.sc = {
 germandbls = 8;
 eth.sc = 16;
-};
-parenright = {
-A = -104;
-J = -54;
-a = -39;
-c = -46;
-g = -42;
-g_j.liga = -42;
-d = -45;
-q = -45;
-e = -46;
-i = -14;
-m = -19;
-n = -19;
-r = -19;
-p = -19;
-icircumflex = 56;
-o = -48;
-s = -28;
-a.sc = -120;
-parenleft = -22;
-guillemetright = -22;
-asciicircum = -47;
-radical = -72;
 };
 "@MMK_L_KO_Uhorn" = {
 "@MMK_R_KO_A" = -15;
@@ -127800,7 +127552,6 @@ period = -132;
 comma = -119;
 asterisk = -42;
 hyphen = -9;
-parenright = 11;
 };
 j.sc = {
 a.sc = -18;
@@ -128141,7 +127892,6 @@ three = 9;
 four = 15;
 six = 16;
 nine = 11;
-parenright = 0;
 };
 Tcaron = {
 a = -69;
@@ -128242,7 +127992,6 @@ fivesuperior = 67;
 onesuperior = 71;
 threesuperior = 70;
 sevensuperior = 81;
-parenright = 53;
 };
 uni021A = {
 a = -69;
@@ -128267,7 +128016,6 @@ period = -123;
 comma = -119;
 hyphen = -123;
 softhyphen = -123;
-parenright = -74;
 };
 fl = {
 ellipsis = -14;
@@ -129210,7 +128958,6 @@ semicolon = {
 one = -8;
 hyphen_hyphen.liga = -21;
 hyphen = -21;
-parenright = -21;
 quotedblright = 14;
 quotedbl = -27;
 };
@@ -129295,7 +129042,6 @@ fivesuperior = 48;
 onesuperior = 52;
 threesuperior = 50;
 sevensuperior = 61;
-parenright = 34;
 };
 acircumflex = {
 c = 6;
@@ -129313,7 +129059,6 @@ period = -8;
 comma = -10;
 exclam = -8;
 hyphen = 0;
-parenright = 25;
 quotedblright = 25;
 quoteright = 22;
 };
@@ -129321,7 +129066,6 @@ registered = {
 period = -132;
 comma = -119;
 slash = -123;
-parenright = -42;
 quotedblright = 42;
 quoteright = 38;
 };
@@ -129828,7 +129572,6 @@ asciitilde = -48;
 };
 uni2113 = {
 uni2113 = -64;
-parenright = -73;
 };
 "@MMK_L_KO_ellipsis" = {
 "@MMK_R_KO_A" = 10;
@@ -130021,7 +129764,6 @@ gstroke = 44;
 u = 27;
 u.sc = 48;
 parenleft = 35;
-parenright = 55;
 };
 S = {
 Lslash = 42;
@@ -130418,10 +130160,8 @@ ellipsis = -12;
 periodcentered.loclCAT.case = 231;
 periodcentered.loclCAT.sc = 209;
 hyphen = -35;
-parenright = -29;
 quotedblright = 25;
 quoteright = 21;
-multiply = 257;
 };
 "@MMK_L_KO_f" = {
 "@MMK_R_KO_A" = -42;
@@ -130669,7 +130409,6 @@ comma = -23;
 seven.numr = {
 period = -132;
 hyphen = -67;
-parenright = -62;
 };
 "@MMK_L_KO_one" = {
 "@MMK_R_KO_zero" = 13;
@@ -130718,7 +130457,6 @@ onesuperior = 99;
 twosuperior = 58;
 threesuperior = 98;
 sevensuperior = 109;
-parenright = 81;
 };
 Uogonek = {
 hyphen_hyphen.liga = -19;
@@ -130825,7 +130563,6 @@ one = 16;
 two = 8;
 seven = 15;
 period = -6;
-parenright = -54;
 };
 five = {
 C = 11;
@@ -131481,21 +131218,6 @@ a = 26;
 e = 17;
 eight.dnom = 30;
 };
-multiply = {
-I = -146;
-l = -136;
-f = -199;
-r = -199;
-i.sc = -115;
-q.sc = -231;
-x.sc = -238;
-Delta = -238;
-Omega = -238;
-one.numr = -98;
-three.numr = -165;
-seveneighths = -238;
-parenleft = -184;
-};
 m.sc = {
 schwa = 21;
 ae.sc = 12;
@@ -132018,7 +131740,6 @@ colon = -66;
 slash = -149;
 hyphen = -91;
 softhyphen = -91;
-parenright = -66;
 quotedblright = 35;
 quoteright = 31;
 };
