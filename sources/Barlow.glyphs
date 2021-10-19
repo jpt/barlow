@@ -1,6 +1,9 @@
 {
 .appVersion = "3099";
 .formatVersion = 3;
+DisplayStrings = (
+"…"
+);
 axes = (
 {
 name = Weight;
@@ -503,27 +506,27 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
+value = -250;
 },
 {
 name = winAscent;
-value = 1075;
+value = 1348;
 },
 {
 name = winDescent;
-value = 274;
+value = 235;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = "Axis Location";
@@ -648,27 +651,27 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
+value = -250;
 },
 {
 name = winAscent;
-value = 1075;
+value = 1348;
 },
 {
 name = winDescent;
-value = 274;
+value = 235;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = "Axis Location";
@@ -803,27 +806,27 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
+value = -250;
 },
 {
 name = winAscent;
-value = 1112;
+value = 1348;
 },
 {
 name = winDescent;
-value = 249;
+value = 235;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = "Axis Location";
@@ -1001,27 +1004,27 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1000;
+value = 950;
 },
 {
 name = typoDescender;
-value = -200;
+value = -250;
 },
 {
 name = winAscent;
-value = 1112;
+value = 1348;
 },
 {
 name = winDescent;
-value = 249;
+value = 235;
 },
 {
 name = hheaAscender;
-value = 1000;
+value = 950;
 },
 {
 name = hheaDescender;
-value = -200;
+value = -250;
 },
 {
 name = "Axis Location";
@@ -48875,14 +48878,14 @@ nodes = (
 (75,524,o),
 (119,563,o),
 (175,563,cs),
-(239,563,o),
-(281,513,o),
-(281,439,cs),
-(281,411,l),
-(303,411,l),
-(303,440,ls),
-(303,525,o),
-(253,583,o),
+(233,563,o),
+(275,513,o),
+(275,439,cs),
+(275,411,l),
+(297,411,l),
+(297,440,ls),
+(297,525,o),
+(247,583,o),
 (175,583,cs),
 (106,583,o),
 (53,536,o),
@@ -48951,8 +48954,8 @@ nodes = (
 (495,372,l),
 (495,381,ls),
 (495,513,o),
-(407,585,o),
-(259,585,cs),
+(397,585,o),
+(253,585,cs),
 (105,585,o),
 (15,509,o),
 (15,391,cs),
@@ -48972,7 +48975,7 @@ nodes = (
 (13,201,l),
 (13,182,ls),
 (13,57,o),
-(102,-7,o),
+(116,-7,o),
 (253,-7,cs)
 );
 }
@@ -49107,42 +49110,42 @@ nodes = (
 (379,-7,o),
 (443,52,o),
 (443,136,cs),
-(443,216,o),
-(379,259,o),
+(443,218,o),
+(379,263,o),
 (257,309,cs),
-(148,354,o),
-(94,375,o),
+(148,350,o),
+(94,381,o),
 (94,449,cs),
 (94,523,o),
 (147,562,o),
 (244,562,cs),
-(355,562,o),
-(415,511,o),
-(415,436,cs),
-(415,411,l),
-(437,411,l),
-(437,439,ls),
-(437,525,o),
-(370,583,o),
+(351,562,o),
+(411,511,o),
+(411,426,cs),
+(411,411,l),
+(433,411,l),
+(433,429,ls),
+(433,525,o),
+(366,583,o),
 (246,583,cs),
 (133,583,o),
 (72,536,o),
 (72,448,cs),
-(72,363,o),
-(130,338,o),
-(242,291,c),
-(371,237,o),
-(421,202,o),
+(72,369,o),
+(130,334,o),
+(242,291,cs),
+(371,241,o),
+(421,204,o),
 (421,134,cs),
 (421,60,o),
 (363,14,o),
 (257,14,cs),
-(146,14,o),
-(80,64,o),
-(80,139,cs),
-(80,173,l),
+(147,14,o),
+(82,64,o),
+(82,159,cs),
+(82,173,l),
 (60,173,l),
-(60,136,ls),
+(60,156,ls),
 (60,50,o),
 (133,-7,o),
 (255,-7,cs)
@@ -64652,7 +64655,7 @@ layerId = "262880E7-CFE1-4BDA-902E-E24798F3240A";
 shapes = (
 {
 alignment = -1;
-pos = (100,-610);
+pos = (100,-623);
 ref = dotaccentcomb;
 }
 );
